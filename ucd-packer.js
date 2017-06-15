@@ -10,8 +10,8 @@ if (
 }
 
 const
-  DIR = path.join(__dirname, '../ucd'),
-  OUT = path.join(__dirname, '../ucd-trimmed.json'),
+  DIR = path.join(__dirname, './ucd'),
+  OUT = path.join(__dirname, './app/ucd-packed.json'),
   FLAG_FLAT = process.argv.length === 3 && process.argv[2] === '--flat'
 
 let trimmedData = []

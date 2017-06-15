@@ -5707,757 +5707,6 @@
       ]
     },
     {
-      "cp": "2190",
-      "na": [
-        "LEFTWARDS ARROW",
-        "LEFT ARROW"
-      ]
-    },
-    {
-      "cp": "2191",
-      "na": [
-        "UPWARDS ARROW",
-        "UP ARROW"
-      ]
-    },
-    {
-      "cp": "2192",
-      "na": [
-        "RIGHTWARDS ARROW",
-        "RIGHT ARROW"
-      ]
-    },
-    {
-      "cp": "2193",
-      "na": [
-        "DOWNWARDS ARROW",
-        "DOWN ARROW"
-      ]
-    },
-    {
-      "cp": "2194",
-      "na": [
-        "LEFT RIGHT ARROW"
-      ]
-    },
-    {
-      "cp": "2195",
-      "na": [
-        "UP DOWN ARROW"
-      ]
-    },
-    {
-      "cp": "2196",
-      "na": [
-        "NORTH WEST ARROW",
-        "UPPER LEFT ARROW"
-      ]
-    },
-    {
-      "cp": "2197",
-      "na": [
-        "NORTH EAST ARROW",
-        "UPPER RIGHT ARROW"
-      ]
-    },
-    {
-      "cp": "2198",
-      "na": [
-        "SOUTH EAST ARROW",
-        "LOWER RIGHT ARROW"
-      ]
-    },
-    {
-      "cp": "2199",
-      "na": [
-        "SOUTH WEST ARROW",
-        "LOWER LEFT ARROW"
-      ]
-    },
-    {
-      "cp": "219A",
-      "na": [
-        "LEFTWARDS ARROW WITH STROKE",
-        "LEFT ARROW WITH STROKE"
-      ]
-    },
-    {
-      "cp": "219B",
-      "na": [
-        "RIGHTWARDS ARROW WITH STROKE",
-        "RIGHT ARROW WITH STROKE"
-      ]
-    },
-    {
-      "cp": "219C",
-      "na": [
-        "LEFTWARDS WAVE ARROW",
-        "LEFT WAVE ARROW"
-      ]
-    },
-    {
-      "cp": "219D",
-      "na": [
-        "RIGHTWARDS WAVE ARROW",
-        "RIGHT WAVE ARROW"
-      ]
-    },
-    {
-      "cp": "219E",
-      "na": [
-        "LEFTWARDS TWO HEADED ARROW",
-        "LEFT TWO HEADED ARROW"
-      ]
-    },
-    {
-      "cp": "219F",
-      "na": [
-        "UPWARDS TWO HEADED ARROW",
-        "UP TWO HEADED ARROW"
-      ]
-    },
-    {
-      "cp": "21A0",
-      "na": [
-        "RIGHTWARDS TWO HEADED ARROW",
-        "RIGHT TWO HEADED ARROW"
-      ]
-    },
-    {
-      "cp": "21A1",
-      "na": [
-        "DOWNWARDS TWO HEADED ARROW",
-        "DOWN TWO HEADED ARROW"
-      ]
-    },
-    {
-      "cp": "21A2",
-      "na": [
-        "LEFTWARDS ARROW WITH TAIL",
-        "LEFT ARROW WITH TAIL"
-      ]
-    },
-    {
-      "cp": "21A3",
-      "na": [
-        "RIGHTWARDS ARROW WITH TAIL",
-        "RIGHT ARROW WITH TAIL"
-      ]
-    },
-    {
-      "cp": "21A4",
-      "na": [
-        "LEFTWARDS ARROW FROM BAR",
-        "LEFT ARROW FROM BAR"
-      ]
-    },
-    {
-      "cp": "21A5",
-      "na": [
-        "UPWARDS ARROW FROM BAR",
-        "UP ARROW FROM BAR"
-      ]
-    },
-    {
-      "cp": "21A6",
-      "na": [
-        "RIGHTWARDS ARROW FROM BAR",
-        "RIGHT ARROW FROM BAR"
-      ]
-    },
-    {
-      "cp": "21A7",
-      "na": [
-        "DOWNWARDS ARROW FROM BAR",
-        "DOWN ARROW FROM BAR"
-      ]
-    },
-    {
-      "cp": "21A8",
-      "na": [
-        "UP DOWN ARROW WITH BASE"
-      ]
-    },
-    {
-      "cp": "21A9",
-      "na": [
-        "LEFTWARDS ARROW WITH HOOK",
-        "LEFT ARROW WITH HOOK"
-      ]
-    },
-    {
-      "cp": "21AA",
-      "na": [
-        "RIGHTWARDS ARROW WITH HOOK",
-        "RIGHT ARROW WITH HOOK"
-      ]
-    },
-    {
-      "cp": "21AB",
-      "na": [
-        "LEFTWARDS ARROW WITH LOOP",
-        "LEFT ARROW WITH LOOP"
-      ]
-    },
-    {
-      "cp": "21AC",
-      "na": [
-        "RIGHTWARDS ARROW WITH LOOP",
-        "RIGHT ARROW WITH LOOP"
-      ]
-    },
-    {
-      "cp": "21AD",
-      "na": [
-        "LEFT RIGHT WAVE ARROW"
-      ]
-    },
-    {
-      "cp": "21AE",
-      "na": [
-        "LEFT RIGHT ARROW WITH STROKE"
-      ]
-    },
-    {
-      "cp": "21AF",
-      "na": [
-        "DOWNWARDS ZIGZAG ARROW",
-        "DOWN ZIGZAG ARROW"
-      ]
-    },
-    {
-      "cp": "21B0",
-      "na": [
-        "UPWARDS ARROW WITH TIP LEFTWARDS",
-        "UP ARROW WITH TIP LEFT"
-      ]
-    },
-    {
-      "cp": "21B1",
-      "na": [
-        "UPWARDS ARROW WITH TIP RIGHTWARDS",
-        "UP ARROW WITH TIP RIGHT"
-      ]
-    },
-    {
-      "cp": "21B2",
-      "na": [
-        "DOWNWARDS ARROW WITH TIP LEFTWARDS",
-        "DOWN ARROW WITH TIP LEFT"
-      ]
-    },
-    {
-      "cp": "21B3",
-      "na": [
-        "DOWNWARDS ARROW WITH TIP RIGHTWARDS",
-        "DOWN ARROW WITH TIP RIGHT"
-      ]
-    },
-    {
-      "cp": "21B4",
-      "na": [
-        "RIGHTWARDS ARROW WITH CORNER DOWNWARDS",
-        "RIGHT ARROW WITH CORNER DOWN"
-      ]
-    },
-    {
-      "cp": "21B5",
-      "na": [
-        "DOWNWARDS ARROW WITH CORNER LEFTWARDS",
-        "DOWN ARROW WITH CORNER LEFT"
-      ]
-    },
-    {
-      "cp": "21B6",
-      "na": [
-        "ANTICLOCKWISE TOP SEMICIRCLE ARROW"
-      ]
-    },
-    {
-      "cp": "21B7",
-      "na": [
-        "CLOCKWISE TOP SEMICIRCLE ARROW"
-      ]
-    },
-    {
-      "cp": "21B8",
-      "na": [
-        "NORTH WEST ARROW TO LONG BAR",
-        "UPPER LEFT ARROW TO LONG BAR"
-      ]
-    },
-    {
-      "cp": "21B9",
-      "na": [
-        "LEFTWARDS ARROW TO BAR OVER RIGHTWARDS ARROW TO BAR",
-        "LEFT ARROW TO BAR OVER RIGHT ARROW TO BAR"
-      ]
-    },
-    {
-      "cp": "21BA",
-      "na": [
-        "ANTICLOCKWISE OPEN CIRCLE ARROW"
-      ]
-    },
-    {
-      "cp": "21BB",
-      "na": [
-        "CLOCKWISE OPEN CIRCLE ARROW"
-      ]
-    },
-    {
-      "cp": "21BC",
-      "na": [
-        "LEFTWARDS HARPOON WITH BARB UPWARDS",
-        "LEFT HARPOON WITH BARB UP"
-      ]
-    },
-    {
-      "cp": "21BD",
-      "na": [
-        "LEFTWARDS HARPOON WITH BARB DOWNWARDS",
-        "LEFT HARPOON WITH BARB DOWN"
-      ]
-    },
-    {
-      "cp": "21BE",
-      "na": [
-        "UPWARDS HARPOON WITH BARB RIGHTWARDS",
-        "UP HARPOON WITH BARB RIGHT"
-      ]
-    },
-    {
-      "cp": "21BF",
-      "na": [
-        "UPWARDS HARPOON WITH BARB LEFTWARDS",
-        "UP HARPOON WITH BARB LEFT"
-      ]
-    },
-    {
-      "cp": "21C0",
-      "na": [
-        "RIGHTWARDS HARPOON WITH BARB UPWARDS",
-        "RIGHT HARPOON WITH BARB UP"
-      ]
-    },
-    {
-      "cp": "21C1",
-      "na": [
-        "RIGHTWARDS HARPOON WITH BARB DOWNWARDS",
-        "RIGHT HARPOON WITH BARB DOWN"
-      ]
-    },
-    {
-      "cp": "21C2",
-      "na": [
-        "DOWNWARDS HARPOON WITH BARB RIGHTWARDS",
-        "DOWN HARPOON WITH BARB RIGHT"
-      ]
-    },
-    {
-      "cp": "21C3",
-      "na": [
-        "DOWNWARDS HARPOON WITH BARB LEFTWARDS",
-        "DOWN HARPOON WITH BARB LEFT"
-      ]
-    },
-    {
-      "cp": "21C4",
-      "na": [
-        "RIGHTWARDS ARROW OVER LEFTWARDS ARROW",
-        "RIGHT ARROW OVER LEFT ARROW"
-      ]
-    },
-    {
-      "cp": "21C5",
-      "na": [
-        "UPWARDS ARROW LEFTWARDS OF DOWNWARDS ARROW",
-        "UP ARROW LEFT OF DOWN ARROW"
-      ]
-    },
-    {
-      "cp": "21C6",
-      "na": [
-        "LEFTWARDS ARROW OVER RIGHTWARDS ARROW",
-        "LEFT ARROW OVER RIGHT ARROW"
-      ]
-    },
-    {
-      "cp": "21C7",
-      "na": [
-        "LEFTWARDS PAIRED ARROWS",
-        "LEFT PAIRED ARROWS"
-      ]
-    },
-    {
-      "cp": "21C8",
-      "na": [
-        "UPWARDS PAIRED ARROWS",
-        "UP PAIRED ARROWS"
-      ]
-    },
-    {
-      "cp": "21C9",
-      "na": [
-        "RIGHTWARDS PAIRED ARROWS",
-        "RIGHT PAIRED ARROWS"
-      ]
-    },
-    {
-      "cp": "21CA",
-      "na": [
-        "DOWNWARDS PAIRED ARROWS",
-        "DOWN PAIRED ARROWS"
-      ]
-    },
-    {
-      "cp": "21CB",
-      "na": [
-        "LEFTWARDS HARPOON OVER RIGHTWARDS HARPOON",
-        "LEFT HARPOON OVER RIGHT HARPOON"
-      ]
-    },
-    {
-      "cp": "21CC",
-      "na": [
-        "RIGHTWARDS HARPOON OVER LEFTWARDS HARPOON",
-        "RIGHT HARPOON OVER LEFT HARPOON"
-      ]
-    },
-    {
-      "cp": "21CD",
-      "na": [
-        "LEFTWARDS DOUBLE ARROW WITH STROKE",
-        "LEFT DOUBLE ARROW WITH STROKE"
-      ]
-    },
-    {
-      "cp": "21CE",
-      "na": [
-        "LEFT RIGHT DOUBLE ARROW WITH STROKE"
-      ]
-    },
-    {
-      "cp": "21CF",
-      "na": [
-        "RIGHTWARDS DOUBLE ARROW WITH STROKE",
-        "RIGHT DOUBLE ARROW WITH STROKE"
-      ]
-    },
-    {
-      "cp": "21D0",
-      "na": [
-        "LEFTWARDS DOUBLE ARROW",
-        "LEFT DOUBLE ARROW"
-      ]
-    },
-    {
-      "cp": "21D1",
-      "na": [
-        "UPWARDS DOUBLE ARROW",
-        "UP DOUBLE ARROW"
-      ]
-    },
-    {
-      "cp": "21D2",
-      "na": [
-        "RIGHTWARDS DOUBLE ARROW",
-        "RIGHT DOUBLE ARROW"
-      ]
-    },
-    {
-      "cp": "21D3",
-      "na": [
-        "DOWNWARDS DOUBLE ARROW",
-        "DOWN DOUBLE ARROW"
-      ]
-    },
-    {
-      "cp": "21D4",
-      "na": [
-        "LEFT RIGHT DOUBLE ARROW"
-      ]
-    },
-    {
-      "cp": "21D5",
-      "na": [
-        "UP DOWN DOUBLE ARROW"
-      ]
-    },
-    {
-      "cp": "21D6",
-      "na": [
-        "NORTH WEST DOUBLE ARROW",
-        "UPPER LEFT DOUBLE ARROW"
-      ]
-    },
-    {
-      "cp": "21D7",
-      "na": [
-        "NORTH EAST DOUBLE ARROW",
-        "UPPER RIGHT DOUBLE ARROW"
-      ]
-    },
-    {
-      "cp": "21D8",
-      "na": [
-        "SOUTH EAST DOUBLE ARROW",
-        "LOWER RIGHT DOUBLE ARROW"
-      ]
-    },
-    {
-      "cp": "21D9",
-      "na": [
-        "SOUTH WEST DOUBLE ARROW",
-        "LOWER LEFT DOUBLE ARROW"
-      ]
-    },
-    {
-      "cp": "21DA",
-      "na": [
-        "LEFTWARDS TRIPLE ARROW",
-        "LEFT TRIPLE ARROW"
-      ]
-    },
-    {
-      "cp": "21DB",
-      "na": [
-        "RIGHTWARDS TRIPLE ARROW",
-        "RIGHT TRIPLE ARROW"
-      ]
-    },
-    {
-      "cp": "21DC",
-      "na": [
-        "LEFTWARDS SQUIGGLE ARROW",
-        "LEFT SQUIGGLE ARROW"
-      ]
-    },
-    {
-      "cp": "21DD",
-      "na": [
-        "RIGHTWARDS SQUIGGLE ARROW",
-        "RIGHT SQUIGGLE ARROW"
-      ]
-    },
-    {
-      "cp": "21DE",
-      "na": [
-        "UPWARDS ARROW WITH DOUBLE STROKE",
-        "UP ARROW WITH DOUBLE STROKE"
-      ]
-    },
-    {
-      "cp": "21DF",
-      "na": [
-        "DOWNWARDS ARROW WITH DOUBLE STROKE",
-        "DOWN ARROW WITH DOUBLE STROKE"
-      ]
-    },
-    {
-      "cp": "21E0",
-      "na": [
-        "LEFTWARDS DASHED ARROW",
-        "LEFT DASHED ARROW"
-      ]
-    },
-    {
-      "cp": "21E1",
-      "na": [
-        "UPWARDS DASHED ARROW",
-        "UP DASHED ARROW"
-      ]
-    },
-    {
-      "cp": "21E2",
-      "na": [
-        "RIGHTWARDS DASHED ARROW",
-        "RIGHT DASHED ARROW"
-      ]
-    },
-    {
-      "cp": "21E3",
-      "na": [
-        "DOWNWARDS DASHED ARROW",
-        "DOWN DASHED ARROW"
-      ]
-    },
-    {
-      "cp": "21E4",
-      "na": [
-        "LEFTWARDS ARROW TO BAR",
-        "LEFT ARROW TO BAR"
-      ]
-    },
-    {
-      "cp": "21E5",
-      "na": [
-        "RIGHTWARDS ARROW TO BAR",
-        "RIGHT ARROW TO BAR"
-      ]
-    },
-    {
-      "cp": "21E6",
-      "na": [
-        "LEFTWARDS WHITE ARROW",
-        "WHITE LEFT ARROW"
-      ]
-    },
-    {
-      "cp": "21E7",
-      "na": [
-        "UPWARDS WHITE ARROW",
-        "WHITE UP ARROW"
-      ]
-    },
-    {
-      "cp": "21E8",
-      "na": [
-        "RIGHTWARDS WHITE ARROW",
-        "WHITE RIGHT ARROW"
-      ]
-    },
-    {
-      "cp": "21E9",
-      "na": [
-        "DOWNWARDS WHITE ARROW",
-        "WHITE DOWN ARROW"
-      ]
-    },
-    {
-      "cp": "21EA",
-      "na": [
-        "UPWARDS WHITE ARROW FROM BAR",
-        "WHITE UP ARROW FROM BAR"
-      ]
-    },
-    {
-      "cp": "21EB",
-      "na": [
-        "UPWARDS WHITE ARROW ON PEDESTAL"
-      ]
-    },
-    {
-      "cp": "21EC",
-      "na": [
-        "UPWARDS WHITE ARROW ON PEDESTAL WITH HORIZONTAL BAR"
-      ]
-    },
-    {
-      "cp": "21ED",
-      "na": [
-        "UPWARDS WHITE ARROW ON PEDESTAL WITH VERTICAL BAR"
-      ]
-    },
-    {
-      "cp": "21EE",
-      "na": [
-        "UPWARDS WHITE DOUBLE ARROW"
-      ]
-    },
-    {
-      "cp": "21EF",
-      "na": [
-        "UPWARDS WHITE DOUBLE ARROW ON PEDESTAL"
-      ]
-    },
-    {
-      "cp": "21F0",
-      "na": [
-        "RIGHTWARDS WHITE ARROW FROM WALL"
-      ]
-    },
-    {
-      "cp": "21F1",
-      "na": [
-        "NORTH WEST ARROW TO CORNER"
-      ]
-    },
-    {
-      "cp": "21F2",
-      "na": [
-        "SOUTH EAST ARROW TO CORNER"
-      ]
-    },
-    {
-      "cp": "21F3",
-      "na": [
-        "UP DOWN WHITE ARROW"
-      ]
-    },
-    {
-      "cp": "21F4",
-      "na": [
-        "RIGHT ARROW WITH SMALL CIRCLE"
-      ]
-    },
-    {
-      "cp": "21F5",
-      "na": [
-        "DOWNWARDS ARROW LEFTWARDS OF UPWARDS ARROW"
-      ]
-    },
-    {
-      "cp": "21F6",
-      "na": [
-        "THREE RIGHTWARDS ARROWS"
-      ]
-    },
-    {
-      "cp": "21F7",
-      "na": [
-        "LEFTWARDS ARROW WITH VERTICAL STROKE"
-      ]
-    },
-    {
-      "cp": "21F8",
-      "na": [
-        "RIGHTWARDS ARROW WITH VERTICAL STROKE"
-      ]
-    },
-    {
-      "cp": "21F9",
-      "na": [
-        "LEFT RIGHT ARROW WITH VERTICAL STROKE"
-      ]
-    },
-    {
-      "cp": "21FA",
-      "na": [
-        "LEFTWARDS ARROW WITH DOUBLE VERTICAL STROKE"
-      ]
-    },
-    {
-      "cp": "21FB",
-      "na": [
-        "RIGHTWARDS ARROW WITH DOUBLE VERTICAL STROKE"
-      ]
-    },
-    {
-      "cp": "21FC",
-      "na": [
-        "LEFT RIGHT ARROW WITH DOUBLE VERTICAL STROKE"
-      ]
-    },
-    {
-      "cp": "21FD",
-      "na": [
-        "LEFTWARDS OPEN-HEADED ARROW"
-      ]
-    },
-    {
-      "cp": "21FE",
-      "na": [
-        "RIGHTWARDS OPEN-HEADED ARROW"
-      ]
-    },
-    {
-      "cp": "21FF",
-      "na": [
-        "LEFT RIGHT OPEN-HEADED ARROW"
-      ]
-    },
-    {
       "cp": "1F780",
       "na": [
         "BLACK LEFT-POINTING ISOSCELES RIGHT TRIANGLE"
@@ -8345,6 +7594,757 @@
       "cp": "1F9C0",
       "na": [
         "CHEESE WEDGE"
+      ]
+    },
+    {
+      "cp": "2190",
+      "na": [
+        "LEFTWARDS ARROW",
+        "LEFT ARROW"
+      ]
+    },
+    {
+      "cp": "2191",
+      "na": [
+        "UPWARDS ARROW",
+        "UP ARROW"
+      ]
+    },
+    {
+      "cp": "2192",
+      "na": [
+        "RIGHTWARDS ARROW",
+        "RIGHT ARROW"
+      ]
+    },
+    {
+      "cp": "2193",
+      "na": [
+        "DOWNWARDS ARROW",
+        "DOWN ARROW"
+      ]
+    },
+    {
+      "cp": "2194",
+      "na": [
+        "LEFT RIGHT ARROW"
+      ]
+    },
+    {
+      "cp": "2195",
+      "na": [
+        "UP DOWN ARROW"
+      ]
+    },
+    {
+      "cp": "2196",
+      "na": [
+        "NORTH WEST ARROW",
+        "UPPER LEFT ARROW"
+      ]
+    },
+    {
+      "cp": "2197",
+      "na": [
+        "NORTH EAST ARROW",
+        "UPPER RIGHT ARROW"
+      ]
+    },
+    {
+      "cp": "2198",
+      "na": [
+        "SOUTH EAST ARROW",
+        "LOWER RIGHT ARROW"
+      ]
+    },
+    {
+      "cp": "2199",
+      "na": [
+        "SOUTH WEST ARROW",
+        "LOWER LEFT ARROW"
+      ]
+    },
+    {
+      "cp": "219A",
+      "na": [
+        "LEFTWARDS ARROW WITH STROKE",
+        "LEFT ARROW WITH STROKE"
+      ]
+    },
+    {
+      "cp": "219B",
+      "na": [
+        "RIGHTWARDS ARROW WITH STROKE",
+        "RIGHT ARROW WITH STROKE"
+      ]
+    },
+    {
+      "cp": "219C",
+      "na": [
+        "LEFTWARDS WAVE ARROW",
+        "LEFT WAVE ARROW"
+      ]
+    },
+    {
+      "cp": "219D",
+      "na": [
+        "RIGHTWARDS WAVE ARROW",
+        "RIGHT WAVE ARROW"
+      ]
+    },
+    {
+      "cp": "219E",
+      "na": [
+        "LEFTWARDS TWO HEADED ARROW",
+        "LEFT TWO HEADED ARROW"
+      ]
+    },
+    {
+      "cp": "219F",
+      "na": [
+        "UPWARDS TWO HEADED ARROW",
+        "UP TWO HEADED ARROW"
+      ]
+    },
+    {
+      "cp": "21A0",
+      "na": [
+        "RIGHTWARDS TWO HEADED ARROW",
+        "RIGHT TWO HEADED ARROW"
+      ]
+    },
+    {
+      "cp": "21A1",
+      "na": [
+        "DOWNWARDS TWO HEADED ARROW",
+        "DOWN TWO HEADED ARROW"
+      ]
+    },
+    {
+      "cp": "21A2",
+      "na": [
+        "LEFTWARDS ARROW WITH TAIL",
+        "LEFT ARROW WITH TAIL"
+      ]
+    },
+    {
+      "cp": "21A3",
+      "na": [
+        "RIGHTWARDS ARROW WITH TAIL",
+        "RIGHT ARROW WITH TAIL"
+      ]
+    },
+    {
+      "cp": "21A4",
+      "na": [
+        "LEFTWARDS ARROW FROM BAR",
+        "LEFT ARROW FROM BAR"
+      ]
+    },
+    {
+      "cp": "21A5",
+      "na": [
+        "UPWARDS ARROW FROM BAR",
+        "UP ARROW FROM BAR"
+      ]
+    },
+    {
+      "cp": "21A6",
+      "na": [
+        "RIGHTWARDS ARROW FROM BAR",
+        "RIGHT ARROW FROM BAR"
+      ]
+    },
+    {
+      "cp": "21A7",
+      "na": [
+        "DOWNWARDS ARROW FROM BAR",
+        "DOWN ARROW FROM BAR"
+      ]
+    },
+    {
+      "cp": "21A8",
+      "na": [
+        "UP DOWN ARROW WITH BASE"
+      ]
+    },
+    {
+      "cp": "21A9",
+      "na": [
+        "LEFTWARDS ARROW WITH HOOK",
+        "LEFT ARROW WITH HOOK"
+      ]
+    },
+    {
+      "cp": "21AA",
+      "na": [
+        "RIGHTWARDS ARROW WITH HOOK",
+        "RIGHT ARROW WITH HOOK"
+      ]
+    },
+    {
+      "cp": "21AB",
+      "na": [
+        "LEFTWARDS ARROW WITH LOOP",
+        "LEFT ARROW WITH LOOP"
+      ]
+    },
+    {
+      "cp": "21AC",
+      "na": [
+        "RIGHTWARDS ARROW WITH LOOP",
+        "RIGHT ARROW WITH LOOP"
+      ]
+    },
+    {
+      "cp": "21AD",
+      "na": [
+        "LEFT RIGHT WAVE ARROW"
+      ]
+    },
+    {
+      "cp": "21AE",
+      "na": [
+        "LEFT RIGHT ARROW WITH STROKE"
+      ]
+    },
+    {
+      "cp": "21AF",
+      "na": [
+        "DOWNWARDS ZIGZAG ARROW",
+        "DOWN ZIGZAG ARROW"
+      ]
+    },
+    {
+      "cp": "21B0",
+      "na": [
+        "UPWARDS ARROW WITH TIP LEFTWARDS",
+        "UP ARROW WITH TIP LEFT"
+      ]
+    },
+    {
+      "cp": "21B1",
+      "na": [
+        "UPWARDS ARROW WITH TIP RIGHTWARDS",
+        "UP ARROW WITH TIP RIGHT"
+      ]
+    },
+    {
+      "cp": "21B2",
+      "na": [
+        "DOWNWARDS ARROW WITH TIP LEFTWARDS",
+        "DOWN ARROW WITH TIP LEFT"
+      ]
+    },
+    {
+      "cp": "21B3",
+      "na": [
+        "DOWNWARDS ARROW WITH TIP RIGHTWARDS",
+        "DOWN ARROW WITH TIP RIGHT"
+      ]
+    },
+    {
+      "cp": "21B4",
+      "na": [
+        "RIGHTWARDS ARROW WITH CORNER DOWNWARDS",
+        "RIGHT ARROW WITH CORNER DOWN"
+      ]
+    },
+    {
+      "cp": "21B5",
+      "na": [
+        "DOWNWARDS ARROW WITH CORNER LEFTWARDS",
+        "DOWN ARROW WITH CORNER LEFT"
+      ]
+    },
+    {
+      "cp": "21B6",
+      "na": [
+        "ANTICLOCKWISE TOP SEMICIRCLE ARROW"
+      ]
+    },
+    {
+      "cp": "21B7",
+      "na": [
+        "CLOCKWISE TOP SEMICIRCLE ARROW"
+      ]
+    },
+    {
+      "cp": "21B8",
+      "na": [
+        "NORTH WEST ARROW TO LONG BAR",
+        "UPPER LEFT ARROW TO LONG BAR"
+      ]
+    },
+    {
+      "cp": "21B9",
+      "na": [
+        "LEFTWARDS ARROW TO BAR OVER RIGHTWARDS ARROW TO BAR",
+        "LEFT ARROW TO BAR OVER RIGHT ARROW TO BAR"
+      ]
+    },
+    {
+      "cp": "21BA",
+      "na": [
+        "ANTICLOCKWISE OPEN CIRCLE ARROW"
+      ]
+    },
+    {
+      "cp": "21BB",
+      "na": [
+        "CLOCKWISE OPEN CIRCLE ARROW"
+      ]
+    },
+    {
+      "cp": "21BC",
+      "na": [
+        "LEFTWARDS HARPOON WITH BARB UPWARDS",
+        "LEFT HARPOON WITH BARB UP"
+      ]
+    },
+    {
+      "cp": "21BD",
+      "na": [
+        "LEFTWARDS HARPOON WITH BARB DOWNWARDS",
+        "LEFT HARPOON WITH BARB DOWN"
+      ]
+    },
+    {
+      "cp": "21BE",
+      "na": [
+        "UPWARDS HARPOON WITH BARB RIGHTWARDS",
+        "UP HARPOON WITH BARB RIGHT"
+      ]
+    },
+    {
+      "cp": "21BF",
+      "na": [
+        "UPWARDS HARPOON WITH BARB LEFTWARDS",
+        "UP HARPOON WITH BARB LEFT"
+      ]
+    },
+    {
+      "cp": "21C0",
+      "na": [
+        "RIGHTWARDS HARPOON WITH BARB UPWARDS",
+        "RIGHT HARPOON WITH BARB UP"
+      ]
+    },
+    {
+      "cp": "21C1",
+      "na": [
+        "RIGHTWARDS HARPOON WITH BARB DOWNWARDS",
+        "RIGHT HARPOON WITH BARB DOWN"
+      ]
+    },
+    {
+      "cp": "21C2",
+      "na": [
+        "DOWNWARDS HARPOON WITH BARB RIGHTWARDS",
+        "DOWN HARPOON WITH BARB RIGHT"
+      ]
+    },
+    {
+      "cp": "21C3",
+      "na": [
+        "DOWNWARDS HARPOON WITH BARB LEFTWARDS",
+        "DOWN HARPOON WITH BARB LEFT"
+      ]
+    },
+    {
+      "cp": "21C4",
+      "na": [
+        "RIGHTWARDS ARROW OVER LEFTWARDS ARROW",
+        "RIGHT ARROW OVER LEFT ARROW"
+      ]
+    },
+    {
+      "cp": "21C5",
+      "na": [
+        "UPWARDS ARROW LEFTWARDS OF DOWNWARDS ARROW",
+        "UP ARROW LEFT OF DOWN ARROW"
+      ]
+    },
+    {
+      "cp": "21C6",
+      "na": [
+        "LEFTWARDS ARROW OVER RIGHTWARDS ARROW",
+        "LEFT ARROW OVER RIGHT ARROW"
+      ]
+    },
+    {
+      "cp": "21C7",
+      "na": [
+        "LEFTWARDS PAIRED ARROWS",
+        "LEFT PAIRED ARROWS"
+      ]
+    },
+    {
+      "cp": "21C8",
+      "na": [
+        "UPWARDS PAIRED ARROWS",
+        "UP PAIRED ARROWS"
+      ]
+    },
+    {
+      "cp": "21C9",
+      "na": [
+        "RIGHTWARDS PAIRED ARROWS",
+        "RIGHT PAIRED ARROWS"
+      ]
+    },
+    {
+      "cp": "21CA",
+      "na": [
+        "DOWNWARDS PAIRED ARROWS",
+        "DOWN PAIRED ARROWS"
+      ]
+    },
+    {
+      "cp": "21CB",
+      "na": [
+        "LEFTWARDS HARPOON OVER RIGHTWARDS HARPOON",
+        "LEFT HARPOON OVER RIGHT HARPOON"
+      ]
+    },
+    {
+      "cp": "21CC",
+      "na": [
+        "RIGHTWARDS HARPOON OVER LEFTWARDS HARPOON",
+        "RIGHT HARPOON OVER LEFT HARPOON"
+      ]
+    },
+    {
+      "cp": "21CD",
+      "na": [
+        "LEFTWARDS DOUBLE ARROW WITH STROKE",
+        "LEFT DOUBLE ARROW WITH STROKE"
+      ]
+    },
+    {
+      "cp": "21CE",
+      "na": [
+        "LEFT RIGHT DOUBLE ARROW WITH STROKE"
+      ]
+    },
+    {
+      "cp": "21CF",
+      "na": [
+        "RIGHTWARDS DOUBLE ARROW WITH STROKE",
+        "RIGHT DOUBLE ARROW WITH STROKE"
+      ]
+    },
+    {
+      "cp": "21D0",
+      "na": [
+        "LEFTWARDS DOUBLE ARROW",
+        "LEFT DOUBLE ARROW"
+      ]
+    },
+    {
+      "cp": "21D1",
+      "na": [
+        "UPWARDS DOUBLE ARROW",
+        "UP DOUBLE ARROW"
+      ]
+    },
+    {
+      "cp": "21D2",
+      "na": [
+        "RIGHTWARDS DOUBLE ARROW",
+        "RIGHT DOUBLE ARROW"
+      ]
+    },
+    {
+      "cp": "21D3",
+      "na": [
+        "DOWNWARDS DOUBLE ARROW",
+        "DOWN DOUBLE ARROW"
+      ]
+    },
+    {
+      "cp": "21D4",
+      "na": [
+        "LEFT RIGHT DOUBLE ARROW"
+      ]
+    },
+    {
+      "cp": "21D5",
+      "na": [
+        "UP DOWN DOUBLE ARROW"
+      ]
+    },
+    {
+      "cp": "21D6",
+      "na": [
+        "NORTH WEST DOUBLE ARROW",
+        "UPPER LEFT DOUBLE ARROW"
+      ]
+    },
+    {
+      "cp": "21D7",
+      "na": [
+        "NORTH EAST DOUBLE ARROW",
+        "UPPER RIGHT DOUBLE ARROW"
+      ]
+    },
+    {
+      "cp": "21D8",
+      "na": [
+        "SOUTH EAST DOUBLE ARROW",
+        "LOWER RIGHT DOUBLE ARROW"
+      ]
+    },
+    {
+      "cp": "21D9",
+      "na": [
+        "SOUTH WEST DOUBLE ARROW",
+        "LOWER LEFT DOUBLE ARROW"
+      ]
+    },
+    {
+      "cp": "21DA",
+      "na": [
+        "LEFTWARDS TRIPLE ARROW",
+        "LEFT TRIPLE ARROW"
+      ]
+    },
+    {
+      "cp": "21DB",
+      "na": [
+        "RIGHTWARDS TRIPLE ARROW",
+        "RIGHT TRIPLE ARROW"
+      ]
+    },
+    {
+      "cp": "21DC",
+      "na": [
+        "LEFTWARDS SQUIGGLE ARROW",
+        "LEFT SQUIGGLE ARROW"
+      ]
+    },
+    {
+      "cp": "21DD",
+      "na": [
+        "RIGHTWARDS SQUIGGLE ARROW",
+        "RIGHT SQUIGGLE ARROW"
+      ]
+    },
+    {
+      "cp": "21DE",
+      "na": [
+        "UPWARDS ARROW WITH DOUBLE STROKE",
+        "UP ARROW WITH DOUBLE STROKE"
+      ]
+    },
+    {
+      "cp": "21DF",
+      "na": [
+        "DOWNWARDS ARROW WITH DOUBLE STROKE",
+        "DOWN ARROW WITH DOUBLE STROKE"
+      ]
+    },
+    {
+      "cp": "21E0",
+      "na": [
+        "LEFTWARDS DASHED ARROW",
+        "LEFT DASHED ARROW"
+      ]
+    },
+    {
+      "cp": "21E1",
+      "na": [
+        "UPWARDS DASHED ARROW",
+        "UP DASHED ARROW"
+      ]
+    },
+    {
+      "cp": "21E2",
+      "na": [
+        "RIGHTWARDS DASHED ARROW",
+        "RIGHT DASHED ARROW"
+      ]
+    },
+    {
+      "cp": "21E3",
+      "na": [
+        "DOWNWARDS DASHED ARROW",
+        "DOWN DASHED ARROW"
+      ]
+    },
+    {
+      "cp": "21E4",
+      "na": [
+        "LEFTWARDS ARROW TO BAR",
+        "LEFT ARROW TO BAR"
+      ]
+    },
+    {
+      "cp": "21E5",
+      "na": [
+        "RIGHTWARDS ARROW TO BAR",
+        "RIGHT ARROW TO BAR"
+      ]
+    },
+    {
+      "cp": "21E6",
+      "na": [
+        "LEFTWARDS WHITE ARROW",
+        "WHITE LEFT ARROW"
+      ]
+    },
+    {
+      "cp": "21E7",
+      "na": [
+        "UPWARDS WHITE ARROW",
+        "WHITE UP ARROW"
+      ]
+    },
+    {
+      "cp": "21E8",
+      "na": [
+        "RIGHTWARDS WHITE ARROW",
+        "WHITE RIGHT ARROW"
+      ]
+    },
+    {
+      "cp": "21E9",
+      "na": [
+        "DOWNWARDS WHITE ARROW",
+        "WHITE DOWN ARROW"
+      ]
+    },
+    {
+      "cp": "21EA",
+      "na": [
+        "UPWARDS WHITE ARROW FROM BAR",
+        "WHITE UP ARROW FROM BAR"
+      ]
+    },
+    {
+      "cp": "21EB",
+      "na": [
+        "UPWARDS WHITE ARROW ON PEDESTAL"
+      ]
+    },
+    {
+      "cp": "21EC",
+      "na": [
+        "UPWARDS WHITE ARROW ON PEDESTAL WITH HORIZONTAL BAR"
+      ]
+    },
+    {
+      "cp": "21ED",
+      "na": [
+        "UPWARDS WHITE ARROW ON PEDESTAL WITH VERTICAL BAR"
+      ]
+    },
+    {
+      "cp": "21EE",
+      "na": [
+        "UPWARDS WHITE DOUBLE ARROW"
+      ]
+    },
+    {
+      "cp": "21EF",
+      "na": [
+        "UPWARDS WHITE DOUBLE ARROW ON PEDESTAL"
+      ]
+    },
+    {
+      "cp": "21F0",
+      "na": [
+        "RIGHTWARDS WHITE ARROW FROM WALL"
+      ]
+    },
+    {
+      "cp": "21F1",
+      "na": [
+        "NORTH WEST ARROW TO CORNER"
+      ]
+    },
+    {
+      "cp": "21F2",
+      "na": [
+        "SOUTH EAST ARROW TO CORNER"
+      ]
+    },
+    {
+      "cp": "21F3",
+      "na": [
+        "UP DOWN WHITE ARROW"
+      ]
+    },
+    {
+      "cp": "21F4",
+      "na": [
+        "RIGHT ARROW WITH SMALL CIRCLE"
+      ]
+    },
+    {
+      "cp": "21F5",
+      "na": [
+        "DOWNWARDS ARROW LEFTWARDS OF UPWARDS ARROW"
+      ]
+    },
+    {
+      "cp": "21F6",
+      "na": [
+        "THREE RIGHTWARDS ARROWS"
+      ]
+    },
+    {
+      "cp": "21F7",
+      "na": [
+        "LEFTWARDS ARROW WITH VERTICAL STROKE"
+      ]
+    },
+    {
+      "cp": "21F8",
+      "na": [
+        "RIGHTWARDS ARROW WITH VERTICAL STROKE"
+      ]
+    },
+    {
+      "cp": "21F9",
+      "na": [
+        "LEFT RIGHT ARROW WITH VERTICAL STROKE"
+      ]
+    },
+    {
+      "cp": "21FA",
+      "na": [
+        "LEFTWARDS ARROW WITH DOUBLE VERTICAL STROKE"
+      ]
+    },
+    {
+      "cp": "21FB",
+      "na": [
+        "RIGHTWARDS ARROW WITH DOUBLE VERTICAL STROKE"
+      ]
+    },
+    {
+      "cp": "21FC",
+      "na": [
+        "LEFT RIGHT ARROW WITH DOUBLE VERTICAL STROKE"
+      ]
+    },
+    {
+      "cp": "21FD",
+      "na": [
+        "LEFTWARDS OPEN-HEADED ARROW"
+      ]
+    },
+    {
+      "cp": "21FE",
+      "na": [
+        "RIGHTWARDS OPEN-HEADED ARROW"
+      ]
+    },
+    {
+      "cp": "21FF",
+      "na": [
+        "LEFT RIGHT OPEN-HEADED ARROW"
       ]
     },
     {
