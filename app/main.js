@@ -1,5 +1,5 @@
 // lib
-let searchField, searchText, symbolField, resultList, symbolData
+let searchField, searchText, symbolField, resultList, resultItem, symbolData
 
 const
   // IO
@@ -19,15 +19,12 @@ const
   },
   showSymbol = symbol => {
     let
-      li = document.createElement('li'),
-      a = document.createElement('a'),
-      code = document.createElement('code')
-    code.setAttribute('title', showNames(symbol))
-    code.innerText = showChar(symbol)
-    a.appendChild(code)
-    a.setAttribute('href', '#')
+      li = resultItem.cloneNode(true),
+      a = li.querySelector('a')
+    a.innerHTML = a.innerHTML
+      .replace('$names', showNames(symbol))
+      .replace('$char', showChar(symbol))
     a.addEventListener('click', selectSymbol)
-    li.appendChild(a)
     return li
   },
   selectSymbol = e => {
@@ -56,6 +53,8 @@ const
 searchField = document.getElementById('search-field')
 symbolField = document.getElementById('symbol-field')
 resultList = document.getElementById('result-list')
+resultItem = resultList.querySelector('li').cloneNode(true)
+resultList.innerHTML = ''
 
 fetch('app/ucd-packed.json')
   .then(res => res.json())
