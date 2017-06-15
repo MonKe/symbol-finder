@@ -1,0 +1,1160 @@
+{
+  "group": {
+    "-age": "7.0",
+    "-gc": "So",
+    "-ccc": "0",
+    "-dt": "none",
+    "-dm": "#",
+    "-nt": "None",
+    "-nv": "NaN",
+    "-bc": "ON",
+    "-bpt": "n",
+    "-bpb": "#",
+    "-Bidi_M": "N",
+    "-suc": "#",
+    "-slc": "#",
+    "-stc": "#",
+    "-uc": "#",
+    "-lc": "#",
+    "-tc": "#",
+    "-scf": "#",
+    "-cf": "#",
+    "-jt": "U",
+    "-jg": "No_Joining_Group",
+    "-ea": "N",
+    "-lb": "AL",
+    "-sc": "Zyyy",
+    "-scx": "Zyyy",
+    "-Dash": "N",
+    "-WSpace": "N",
+    "-Hyphen": "N",
+    "-QMark": "N",
+    "-Radical": "N",
+    "-Ideo": "N",
+    "-UIdeo": "N",
+    "-IDSB": "N",
+    "-IDST": "N",
+    "-hst": "NA",
+    "-DI": "N",
+    "-ODI": "N",
+    "-Alpha": "N",
+    "-OAlpha": "N",
+    "-Upper": "N",
+    "-OUpper": "N",
+    "-Lower": "N",
+    "-OLower": "N",
+    "-Math": "N",
+    "-OMath": "N",
+    "-Hex": "N",
+    "-AHex": "N",
+    "-NChar": "N",
+    "-VS": "N",
+    "-Bidi_C": "N",
+    "-Join_C": "N",
+    "-Gr_Base": "Y",
+    "-Gr_Ext": "N",
+    "-OGr_Ext": "N",
+    "-Gr_Link": "N",
+    "-STerm": "N",
+    "-Ext": "N",
+    "-Term": "N",
+    "-Dia": "N",
+    "-Dep": "N",
+    "-IDS": "N",
+    "-OIDS": "N",
+    "-XIDS": "N",
+    "-IDC": "N",
+    "-OIDC": "N",
+    "-XIDC": "N",
+    "-SD": "N",
+    "-LOE": "N",
+    "-Pat_WS": "N",
+    "-Pat_Syn": "Y",
+    "-GCB": "XX",
+    "-WB": "XX",
+    "-SB": "XX",
+    "-CE": "N",
+    "-Comp_Ex": "N",
+    "-NFC_QC": "Y",
+    "-NFD_QC": "Y",
+    "-NFKC_QC": "Y",
+    "-NFKD_QC": "Y",
+    "-XO_NFC": "N",
+    "-XO_NFD": "N",
+    "-XO_NFKC": "N",
+    "-XO_NFKD": "N",
+    "-FC_NFKC": "#",
+    "-CI": "N",
+    "-Cased": "N",
+    "-CWCF": "N",
+    "-CWCM": "N",
+    "-CWKCF": "N",
+    "-CWL": "N",
+    "-CWT": "N",
+    "-CWU": "N",
+    "-NFKC_CF": "#",
+    "-InSC": "Other",
+    "-InPC": "NA",
+    "-PCM": "N",
+    "-blk": "Misc_Arrows",
+    "char": [
+      {
+        "-cp": "2B00",
+        "-age": "4.0",
+        "-na": "NORTH EAST WHITE ARROW"
+      },
+      {
+        "-cp": "2B01",
+        "-age": "4.0",
+        "-na": "NORTH WEST WHITE ARROW"
+      },
+      {
+        "-cp": "2B02",
+        "-age": "4.0",
+        "-na": "SOUTH EAST WHITE ARROW"
+      },
+      {
+        "-cp": "2B03",
+        "-age": "4.0",
+        "-na": "SOUTH WEST WHITE ARROW"
+      },
+      {
+        "-cp": "2B04",
+        "-age": "4.0",
+        "-na": "LEFT RIGHT WHITE ARROW"
+      },
+      {
+        "-cp": "2B05",
+        "-age": "4.0",
+        "-na": "LEFTWARDS BLACK ARROW"
+      },
+      {
+        "-cp": "2B06",
+        "-age": "4.0",
+        "-na": "UPWARDS BLACK ARROW"
+      },
+      {
+        "-cp": "2B07",
+        "-age": "4.0",
+        "-na": "DOWNWARDS BLACK ARROW"
+      },
+      {
+        "-cp": "2B08",
+        "-age": "4.0",
+        "-na": "NORTH EAST BLACK ARROW"
+      },
+      {
+        "-cp": "2B09",
+        "-age": "4.0",
+        "-na": "NORTH WEST BLACK ARROW"
+      },
+      {
+        "-cp": "2B0A",
+        "-age": "4.0",
+        "-na": "SOUTH EAST BLACK ARROW"
+      },
+      {
+        "-cp": "2B0B",
+        "-age": "4.0",
+        "-na": "SOUTH WEST BLACK ARROW"
+      },
+      {
+        "-cp": "2B0C",
+        "-age": "4.0",
+        "-na": "LEFT RIGHT BLACK ARROW"
+      },
+      {
+        "-cp": "2B0D",
+        "-age": "4.0",
+        "-na": "UP DOWN BLACK ARROW"
+      },
+      {
+        "-cp": "2B0E",
+        "-age": "4.1",
+        "-na": "RIGHTWARDS ARROW WITH TIP DOWNWARDS"
+      },
+      {
+        "-cp": "2B0F",
+        "-age": "4.1",
+        "-na": "RIGHTWARDS ARROW WITH TIP UPWARDS"
+      },
+      {
+        "-cp": "2B10",
+        "-age": "4.1",
+        "-na": "LEFTWARDS ARROW WITH TIP DOWNWARDS"
+      },
+      {
+        "-cp": "2B11",
+        "-age": "4.1",
+        "-na": "LEFTWARDS ARROW WITH TIP UPWARDS"
+      },
+      {
+        "-cp": "2B12",
+        "-age": "4.1",
+        "-na": "SQUARE WITH TOP HALF BLACK"
+      },
+      {
+        "-cp": "2B13",
+        "-age": "4.1",
+        "-na": "SQUARE WITH BOTTOM HALF BLACK"
+      },
+      {
+        "-cp": "2B14",
+        "-age": "5.0",
+        "-na": "SQUARE WITH UPPER RIGHT DIAGONAL HALF BLACK"
+      },
+      {
+        "-cp": "2B15",
+        "-age": "5.0",
+        "-na": "SQUARE WITH LOWER LEFT DIAGONAL HALF BLACK"
+      },
+      {
+        "-cp": "2B16",
+        "-age": "5.0",
+        "-na": "DIAMOND WITH LEFT HALF BLACK"
+      },
+      {
+        "-cp": "2B17",
+        "-age": "5.0",
+        "-na": "DIAMOND WITH RIGHT HALF BLACK"
+      },
+      {
+        "-cp": "2B18",
+        "-age": "5.0",
+        "-na": "DIAMOND WITH TOP HALF BLACK"
+      },
+      {
+        "-cp": "2B19",
+        "-age": "5.0",
+        "-na": "DIAMOND WITH BOTTOM HALF BLACK"
+      },
+      {
+        "-cp": "2B1A",
+        "-age": "5.0",
+        "-na": "DOTTED SQUARE"
+      },
+      {
+        "-cp": "2B1B",
+        "-age": "5.1",
+        "-na": "BLACK LARGE SQUARE",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2B1C",
+        "-age": "5.1",
+        "-na": "WHITE LARGE SQUARE",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2B1D",
+        "-age": "5.1",
+        "-na": "BLACK VERY SMALL SQUARE"
+      },
+      {
+        "-cp": "2B1E",
+        "-age": "5.1",
+        "-na": "WHITE VERY SMALL SQUARE"
+      },
+      {
+        "-cp": "2B1F",
+        "-age": "5.1",
+        "-na": "BLACK PENTAGON"
+      },
+      {
+        "-cp": "2B20",
+        "-age": "5.0",
+        "-na": "WHITE PENTAGON"
+      },
+      {
+        "-cp": "2B21",
+        "-age": "5.0",
+        "-na": "WHITE HEXAGON"
+      },
+      {
+        "-cp": "2B22",
+        "-age": "5.0",
+        "-na": "BLACK HEXAGON"
+      },
+      {
+        "-cp": "2B23",
+        "-age": "5.0",
+        "-na": "HORIZONTAL BLACK HEXAGON"
+      },
+      {
+        "-cp": "2B24",
+        "-age": "5.1",
+        "-na": "BLACK LARGE CIRCLE"
+      },
+      {
+        "-cp": "2B25",
+        "-age": "5.1",
+        "-na": "BLACK MEDIUM DIAMOND"
+      },
+      {
+        "-cp": "2B26",
+        "-age": "5.1",
+        "-na": "WHITE MEDIUM DIAMOND"
+      },
+      {
+        "-cp": "2B27",
+        "-age": "5.1",
+        "-na": "BLACK MEDIUM LOZENGE"
+      },
+      {
+        "-cp": "2B28",
+        "-age": "5.1",
+        "-na": "WHITE MEDIUM LOZENGE"
+      },
+      {
+        "-cp": "2B29",
+        "-age": "5.1",
+        "-na": "BLACK SMALL DIAMOND"
+      },
+      {
+        "-cp": "2B2A",
+        "-age": "5.1",
+        "-na": "BLACK SMALL LOZENGE"
+      },
+      {
+        "-cp": "2B2B",
+        "-age": "5.1",
+        "-na": "WHITE SMALL LOZENGE"
+      },
+      {
+        "-cp": "2B2C",
+        "-age": "5.1",
+        "-na": "BLACK HORIZONTAL ELLIPSE"
+      },
+      {
+        "-cp": "2B2D",
+        "-age": "5.1",
+        "-na": "WHITE HORIZONTAL ELLIPSE"
+      },
+      {
+        "-cp": "2B2E",
+        "-age": "5.1",
+        "-na": "BLACK VERTICAL ELLIPSE"
+      },
+      {
+        "-cp": "2B2F",
+        "-age": "5.1",
+        "-na": "WHITE VERTICAL ELLIPSE"
+      },
+      {
+        "-cp": "2B30",
+        "-age": "5.1",
+        "-na": "LEFT ARROW WITH SMALL CIRCLE",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B31",
+        "-age": "5.1",
+        "-na": "THREE LEFTWARDS ARROWS",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B32",
+        "-age": "5.1",
+        "-na": "LEFT ARROW WITH CIRCLED PLUS",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B33",
+        "-age": "5.1",
+        "-na": "LONG LEFTWARDS SQUIGGLE ARROW",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B34",
+        "-age": "5.1",
+        "-na": "LEFTWARDS TWO-HEADED ARROW WITH VERTICAL STROKE",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B35",
+        "-age": "5.1",
+        "-na": "LEFTWARDS TWO-HEADED ARROW WITH DOUBLE VERTICAL STROKE",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B36",
+        "-age": "5.1",
+        "-na": "LEFTWARDS TWO-HEADED ARROW FROM BAR",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B37",
+        "-age": "5.1",
+        "-na": "LEFTWARDS TWO-HEADED TRIPLE DASH ARROW",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B38",
+        "-age": "5.1",
+        "-na": "LEFTWARDS ARROW WITH DOTTED STEM",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B39",
+        "-age": "5.1",
+        "-na": "LEFTWARDS ARROW WITH TAIL WITH VERTICAL STROKE",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B3A",
+        "-age": "5.1",
+        "-na": "LEFTWARDS ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B3B",
+        "-age": "5.1",
+        "-na": "LEFTWARDS TWO-HEADED ARROW WITH TAIL",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B3C",
+        "-age": "5.1",
+        "-na": "LEFTWARDS TWO-HEADED ARROW WITH TAIL WITH VERTICAL STROKE",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B3D",
+        "-age": "5.1",
+        "-na": "LEFTWARDS TWO-HEADED ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B3E",
+        "-age": "5.1",
+        "-na": "LEFTWARDS ARROW THROUGH X",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B3F",
+        "-age": "5.1",
+        "-na": "WAVE ARROW POINTING DIRECTLY LEFT",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B40",
+        "-age": "5.1",
+        "-na": "EQUALS SIGN ABOVE LEFTWARDS ARROW",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B41",
+        "-age": "5.1",
+        "-na": "REVERSE TILDE OPERATOR ABOVE LEFTWARDS ARROW",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B42",
+        "-age": "5.1",
+        "-na": "LEFTWARDS ARROW ABOVE REVERSE ALMOST EQUAL TO",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B43",
+        "-age": "5.1",
+        "-na": "RIGHTWARDS ARROW THROUGH GREATER-THAN",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B44",
+        "-age": "5.1",
+        "-na": "RIGHTWARDS ARROW THROUGH SUPERSET",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B45",
+        "-age": "5.1",
+        "-na": "LEFTWARDS QUADRUPLE ARROW"
+      },
+      {
+        "-cp": "2B46",
+        "-age": "5.1",
+        "-na": "RIGHTWARDS QUADRUPLE ARROW"
+      },
+      {
+        "-cp": "2B47",
+        "-age": "5.1",
+        "-na": "REVERSE TILDE OPERATOR ABOVE RIGHTWARDS ARROW",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B48",
+        "-age": "5.1",
+        "-na": "RIGHTWARDS ARROW ABOVE REVERSE ALMOST EQUAL TO",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B49",
+        "-age": "5.1",
+        "-na": "TILDE OPERATOR ABOVE LEFTWARDS ARROW",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B4A",
+        "-age": "5.1",
+        "-na": "LEFTWARDS ARROW ABOVE ALMOST EQUAL TO",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B4B",
+        "-age": "5.1",
+        "-na": "LEFTWARDS ARROW ABOVE REVERSE TILDE OPERATOR",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B4C",
+        "-age": "5.1",
+        "-na": "RIGHTWARDS ARROW ABOVE REVERSE TILDE OPERATOR",
+        "-gc": "Sm",
+        "-Math": "Y"
+      },
+      {
+        "-cp": "2B4D",
+        "-na": "DOWNWARDS TRIANGLE-HEADED ZIGZAG ARROW"
+      },
+      {
+        "-cp": "2B4E",
+        "-na": "SHORT SLANTED NORTH ARROW"
+      },
+      {
+        "-cp": "2B4F",
+        "-na": "SHORT BACKSLANTED SOUTH ARROW"
+      },
+      {
+        "-cp": "2B50",
+        "-age": "5.1",
+        "-na": "WHITE MEDIUM STAR",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2B51",
+        "-age": "5.1",
+        "-na": "BLACK SMALL STAR"
+      },
+      {
+        "-cp": "2B52",
+        "-age": "5.1",
+        "-na": "WHITE SMALL STAR"
+      },
+      {
+        "-cp": "2B53",
+        "-age": "5.1",
+        "-na": "BLACK RIGHT-POINTING PENTAGON"
+      },
+      {
+        "-cp": "2B54",
+        "-age": "5.1",
+        "-na": "WHITE RIGHT-POINTING PENTAGON"
+      },
+      {
+        "-cp": "2B55",
+        "-age": "5.2",
+        "-na": "HEAVY LARGE CIRCLE",
+        "-ea": "W",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "2B56",
+        "-age": "5.2",
+        "-na": "HEAVY OVAL WITH OVAL INSIDE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "2B57",
+        "-age": "5.2",
+        "-na": "HEAVY CIRCLE WITH CIRCLE INSIDE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "2B58",
+        "-age": "5.2",
+        "-na": "HEAVY CIRCLE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "2B59",
+        "-age": "5.2",
+        "-na": "HEAVY CIRCLED SALTIRE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "2B5A",
+        "-na": "SLANTED NORTH ARROW WITH HOOKED HEAD"
+      },
+      {
+        "-cp": "2B5B",
+        "-na": "BACKSLANTED SOUTH ARROW WITH HOOKED TAIL"
+      },
+      {
+        "-cp": "2B5C",
+        "-na": "SLANTED NORTH ARROW WITH HORIZONTAL TAIL"
+      },
+      {
+        "-cp": "2B5D",
+        "-na": "BACKSLANTED SOUTH ARROW WITH HORIZONTAL TAIL"
+      },
+      {
+        "-cp": "2B5E",
+        "-na": "BENT ARROW POINTING DOWNWARDS THEN NORTH EAST"
+      },
+      {
+        "-cp": "2B5F",
+        "-na": "SHORT BENT ARROW POINTING DOWNWARDS THEN NORTH EAST"
+      },
+      {
+        "-cp": "2B60",
+        "-na": "LEFTWARDS TRIANGLE-HEADED ARROW"
+      },
+      {
+        "-cp": "2B61",
+        "-na": "UPWARDS TRIANGLE-HEADED ARROW"
+      },
+      {
+        "-cp": "2B62",
+        "-na": "RIGHTWARDS TRIANGLE-HEADED ARROW"
+      },
+      {
+        "-cp": "2B63",
+        "-na": "DOWNWARDS TRIANGLE-HEADED ARROW"
+      },
+      {
+        "-cp": "2B64",
+        "-na": "LEFT RIGHT TRIANGLE-HEADED ARROW"
+      },
+      {
+        "-cp": "2B65",
+        "-na": "UP DOWN TRIANGLE-HEADED ARROW"
+      },
+      {
+        "-cp": "2B66",
+        "-na": "NORTH WEST TRIANGLE-HEADED ARROW"
+      },
+      {
+        "-cp": "2B67",
+        "-na": "NORTH EAST TRIANGLE-HEADED ARROW"
+      },
+      {
+        "-cp": "2B68",
+        "-na": "SOUTH EAST TRIANGLE-HEADED ARROW"
+      },
+      {
+        "-cp": "2B69",
+        "-na": "SOUTH WEST TRIANGLE-HEADED ARROW"
+      },
+      {
+        "-cp": "2B6A",
+        "-na": "LEFTWARDS TRIANGLE-HEADED DASHED ARROW"
+      },
+      {
+        "-cp": "2B6B",
+        "-na": "UPWARDS TRIANGLE-HEADED DASHED ARROW"
+      },
+      {
+        "-cp": "2B6C",
+        "-na": "RIGHTWARDS TRIANGLE-HEADED DASHED ARROW"
+      },
+      {
+        "-cp": "2B6D",
+        "-na": "DOWNWARDS TRIANGLE-HEADED DASHED ARROW"
+      },
+      {
+        "-cp": "2B6E",
+        "-na": "CLOCKWISE TRIANGLE-HEADED OPEN CIRCLE ARROW"
+      },
+      {
+        "-cp": "2B6F",
+        "-na": "ANTICLOCKWISE TRIANGLE-HEADED OPEN CIRCLE ARROW"
+      },
+      {
+        "-cp": "2B70",
+        "-na": "LEFTWARDS TRIANGLE-HEADED ARROW TO BAR"
+      },
+      {
+        "-cp": "2B71",
+        "-na": "UPWARDS TRIANGLE-HEADED ARROW TO BAR"
+      },
+      {
+        "-cp": "2B72",
+        "-na": "RIGHTWARDS TRIANGLE-HEADED ARROW TO BAR"
+      },
+      {
+        "-cp": "2B73",
+        "-na": "DOWNWARDS TRIANGLE-HEADED ARROW TO BAR"
+      },
+      {
+        "-cp": "2B76",
+        "-na": "NORTH WEST TRIANGLE-HEADED ARROW TO BAR"
+      },
+      {
+        "-cp": "2B77",
+        "-na": "NORTH EAST TRIANGLE-HEADED ARROW TO BAR"
+      },
+      {
+        "-cp": "2B78",
+        "-na": "SOUTH EAST TRIANGLE-HEADED ARROW TO BAR"
+      },
+      {
+        "-cp": "2B79",
+        "-na": "SOUTH WEST TRIANGLE-HEADED ARROW TO BAR"
+      },
+      {
+        "-cp": "2B7A",
+        "-na": "LEFTWARDS TRIANGLE-HEADED ARROW WITH DOUBLE HORIZONTAL STROKE",
+        "name-alias": {
+          "-alias": "LEFTWARDS TRIANGLE-HEADED ARROW WITH DOUBLE VERTICAL STROKE",
+          "-type": "correction"
+        }
+      },
+      {
+        "-cp": "2B7B",
+        "-na": "UPWARDS TRIANGLE-HEADED ARROW WITH DOUBLE HORIZONTAL STROKE"
+      },
+      {
+        "-cp": "2B7C",
+        "-na": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH DOUBLE HORIZONTAL STROKE",
+        "name-alias": {
+          "-alias": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH DOUBLE VERTICAL STROKE",
+          "-type": "correction"
+        }
+      },
+      {
+        "-cp": "2B7D",
+        "-na": "DOWNWARDS TRIANGLE-HEADED ARROW WITH DOUBLE HORIZONTAL STROKE"
+      },
+      {
+        "-cp": "2B7E",
+        "-na": "HORIZONTAL TAB KEY"
+      },
+      {
+        "-cp": "2B7F",
+        "-na": "VERTICAL TAB KEY"
+      },
+      {
+        "-cp": "2B80",
+        "-na": "LEFTWARDS TRIANGLE-HEADED ARROW OVER RIGHTWARDS TRIANGLE-HEADED ARROW"
+      },
+      {
+        "-cp": "2B81",
+        "-na": "UPWARDS TRIANGLE-HEADED ARROW LEFTWARDS OF DOWNWARDS TRIANGLE-HEADED ARROW"
+      },
+      {
+        "-cp": "2B82",
+        "-na": "RIGHTWARDS TRIANGLE-HEADED ARROW OVER LEFTWARDS TRIANGLE-HEADED ARROW"
+      },
+      {
+        "-cp": "2B83",
+        "-na": "DOWNWARDS TRIANGLE-HEADED ARROW LEFTWARDS OF UPWARDS TRIANGLE-HEADED ARROW"
+      },
+      {
+        "-cp": "2B84",
+        "-na": "LEFTWARDS TRIANGLE-HEADED PAIRED ARROWS"
+      },
+      {
+        "-cp": "2B85",
+        "-na": "UPWARDS TRIANGLE-HEADED PAIRED ARROWS"
+      },
+      {
+        "-cp": "2B86",
+        "-na": "RIGHTWARDS TRIANGLE-HEADED PAIRED ARROWS"
+      },
+      {
+        "-cp": "2B87",
+        "-na": "DOWNWARDS TRIANGLE-HEADED PAIRED ARROWS"
+      },
+      {
+        "-cp": "2B88",
+        "-na": "LEFTWARDS BLACK CIRCLED WHITE ARROW"
+      },
+      {
+        "-cp": "2B89",
+        "-na": "UPWARDS BLACK CIRCLED WHITE ARROW"
+      },
+      {
+        "-cp": "2B8A",
+        "-na": "RIGHTWARDS BLACK CIRCLED WHITE ARROW"
+      },
+      {
+        "-cp": "2B8B",
+        "-na": "DOWNWARDS BLACK CIRCLED WHITE ARROW"
+      },
+      {
+        "-cp": "2B8C",
+        "-na": "ANTICLOCKWISE TRIANGLE-HEADED RIGHT U-SHAPED ARROW"
+      },
+      {
+        "-cp": "2B8D",
+        "-na": "ANTICLOCKWISE TRIANGLE-HEADED BOTTOM U-SHAPED ARROW"
+      },
+      {
+        "-cp": "2B8E",
+        "-na": "ANTICLOCKWISE TRIANGLE-HEADED LEFT U-SHAPED ARROW"
+      },
+      {
+        "-cp": "2B8F",
+        "-na": "ANTICLOCKWISE TRIANGLE-HEADED TOP U-SHAPED ARROW"
+      },
+      {
+        "-cp": "2B90",
+        "-na": "RETURN LEFT"
+      },
+      {
+        "-cp": "2B91",
+        "-na": "RETURN RIGHT"
+      },
+      {
+        "-cp": "2B92",
+        "-na": "NEWLINE LEFT"
+      },
+      {
+        "-cp": "2B93",
+        "-na": "NEWLINE RIGHT"
+      },
+      {
+        "-cp": "2B94",
+        "-na": "FOUR CORNER ARROWS CIRCLING ANTICLOCKWISE"
+      },
+      {
+        "-cp": "2B95",
+        "-na": "RIGHTWARDS BLACK ARROW"
+      },
+      {
+        "-cp": "2B98",
+        "-na": "THREE-D TOP-LIGHTED LEFTWARDS EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "2B99",
+        "-na": "THREE-D RIGHT-LIGHTED UPWARDS EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "2B9A",
+        "-na": "THREE-D TOP-LIGHTED RIGHTWARDS EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "2B9B",
+        "-na": "THREE-D LEFT-LIGHTED DOWNWARDS EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "2B9C",
+        "-na": "BLACK LEFTWARDS EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "2B9D",
+        "-na": "BLACK UPWARDS EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "2B9E",
+        "-na": "BLACK RIGHTWARDS EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "2B9F",
+        "-na": "BLACK DOWNWARDS EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "2BA0",
+        "-na": "DOWNWARDS TRIANGLE-HEADED ARROW WITH LONG TIP LEFTWARDS"
+      },
+      {
+        "-cp": "2BA1",
+        "-na": "DOWNWARDS TRIANGLE-HEADED ARROW WITH LONG TIP RIGHTWARDS"
+      },
+      {
+        "-cp": "2BA2",
+        "-na": "UPWARDS TRIANGLE-HEADED ARROW WITH LONG TIP LEFTWARDS"
+      },
+      {
+        "-cp": "2BA3",
+        "-na": "UPWARDS TRIANGLE-HEADED ARROW WITH LONG TIP RIGHTWARDS"
+      },
+      {
+        "-cp": "2BA4",
+        "-na": "LEFTWARDS TRIANGLE-HEADED ARROW WITH LONG TIP UPWARDS"
+      },
+      {
+        "-cp": "2BA5",
+        "-na": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH LONG TIP UPWARDS"
+      },
+      {
+        "-cp": "2BA6",
+        "-na": "LEFTWARDS TRIANGLE-HEADED ARROW WITH LONG TIP DOWNWARDS"
+      },
+      {
+        "-cp": "2BA7",
+        "-na": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH LONG TIP DOWNWARDS"
+      },
+      {
+        "-cp": "2BA8",
+        "-na": "BLACK CURVED DOWNWARDS AND LEFTWARDS ARROW"
+      },
+      {
+        "-cp": "2BA9",
+        "-na": "BLACK CURVED DOWNWARDS AND RIGHTWARDS ARROW"
+      },
+      {
+        "-cp": "2BAA",
+        "-na": "BLACK CURVED UPWARDS AND LEFTWARDS ARROW"
+      },
+      {
+        "-cp": "2BAB",
+        "-na": "BLACK CURVED UPWARDS AND RIGHTWARDS ARROW"
+      },
+      {
+        "-cp": "2BAC",
+        "-na": "BLACK CURVED LEFTWARDS AND UPWARDS ARROW"
+      },
+      {
+        "-cp": "2BAD",
+        "-na": "BLACK CURVED RIGHTWARDS AND UPWARDS ARROW"
+      },
+      {
+        "-cp": "2BAE",
+        "-na": "BLACK CURVED LEFTWARDS AND DOWNWARDS ARROW"
+      },
+      {
+        "-cp": "2BAF",
+        "-na": "BLACK CURVED RIGHTWARDS AND DOWNWARDS ARROW"
+      },
+      {
+        "-cp": "2BB0",
+        "-na": "RIBBON ARROW DOWN LEFT"
+      },
+      {
+        "-cp": "2BB1",
+        "-na": "RIBBON ARROW DOWN RIGHT"
+      },
+      {
+        "-cp": "2BB2",
+        "-na": "RIBBON ARROW UP LEFT"
+      },
+      {
+        "-cp": "2BB3",
+        "-na": "RIBBON ARROW UP RIGHT"
+      },
+      {
+        "-cp": "2BB4",
+        "-na": "RIBBON ARROW LEFT UP"
+      },
+      {
+        "-cp": "2BB5",
+        "-na": "RIBBON ARROW RIGHT UP"
+      },
+      {
+        "-cp": "2BB6",
+        "-na": "RIBBON ARROW LEFT DOWN"
+      },
+      {
+        "-cp": "2BB7",
+        "-na": "RIBBON ARROW RIGHT DOWN"
+      },
+      {
+        "-cp": "2BB8",
+        "-na": "UPWARDS WHITE ARROW FROM BAR WITH HORIZONTAL BAR"
+      },
+      {
+        "-cp": "2BB9",
+        "-na": "UP ARROWHEAD IN A RECTANGLE BOX"
+      },
+      {
+        "-cp": "2BBD",
+        "-na": "BALLOT BOX WITH LIGHT X"
+      },
+      {
+        "-cp": "2BBE",
+        "-na": "CIRCLED X"
+      },
+      {
+        "-cp": "2BBF",
+        "-na": "CIRCLED BOLD X"
+      },
+      {
+        "-cp": "2BC0",
+        "-na": "BLACK SQUARE CENTRED"
+      },
+      {
+        "-cp": "2BC1",
+        "-na": "BLACK DIAMOND CENTRED"
+      },
+      {
+        "-cp": "2BC2",
+        "-na": "TURNED BLACK PENTAGON"
+      },
+      {
+        "-cp": "2BC3",
+        "-na": "HORIZONTAL BLACK OCTAGON"
+      },
+      {
+        "-cp": "2BC4",
+        "-na": "BLACK OCTAGON"
+      },
+      {
+        "-cp": "2BC5",
+        "-na": "BLACK MEDIUM UP-POINTING TRIANGLE CENTRED"
+      },
+      {
+        "-cp": "2BC6",
+        "-na": "BLACK MEDIUM DOWN-POINTING TRIANGLE CENTRED"
+      },
+      {
+        "-cp": "2BC7",
+        "-na": "BLACK MEDIUM LEFT-POINTING TRIANGLE CENTRED"
+      },
+      {
+        "-cp": "2BC8",
+        "-na": "BLACK MEDIUM RIGHT-POINTING TRIANGLE CENTRED"
+      },
+      {
+        "-cp": "2BCA",
+        "-na": "TOP HALF BLACK CIRCLE"
+      },
+      {
+        "-cp": "2BCB",
+        "-na": "BOTTOM HALF BLACK CIRCLE"
+      },
+      {
+        "-cp": "2BCC",
+        "-na": "LIGHT FOUR POINTED BLACK CUSP"
+      },
+      {
+        "-cp": "2BCD",
+        "-na": "ROTATED LIGHT FOUR POINTED BLACK CUSP"
+      },
+      {
+        "-cp": "2BCE",
+        "-na": "WHITE FOUR POINTED CUSP"
+      },
+      {
+        "-cp": "2BCF",
+        "-na": "ROTATED WHITE FOUR POINTED CUSP"
+      },
+      {
+        "-cp": "2BD0",
+        "-na": "SQUARE POSITION INDICATOR"
+      },
+      {
+        "-cp": "2BD1",
+        "-na": "UNCERTAINTY SIGN"
+      },
+      {
+        "-cp": "2BEC",
+        "-age": "8.0",
+        "-na": "LEFTWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS"
+      },
+      {
+        "-cp": "2BED",
+        "-age": "8.0",
+        "-na": "UPWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS"
+      },
+      {
+        "-cp": "2BEE",
+        "-age": "8.0",
+        "-na": "RIGHTWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS"
+      },
+      {
+        "-cp": "2BEF",
+        "-age": "8.0",
+        "-na": "DOWNWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS"
+      }
+    ],
+    "reserved": [
+      {
+        "-first-cp": "2B74",
+        "-last-cp": "2B75",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-lb": "XX",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-first-cp": "2B96",
+        "-last-cp": "2B97",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-lb": "XX",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-first-cp": "2BBA",
+        "-last-cp": "2BBC",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-lb": "XX",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-cp": "2BC9",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-lb": "XX",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-first-cp": "2BD2",
+        "-last-cp": "2BEB",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-lb": "XX",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-first-cp": "2BF0",
+        "-last-cp": "2BFF",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-lb": "XX",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,826 @@
+{
+  "group": {
+    "-age": "1.1",
+    "-gc": "So",
+    "-ccc": "0",
+    "-dt": "none",
+    "-dm": "#",
+    "-nt": "None",
+    "-nv": "NaN",
+    "-bc": "ON",
+    "-bpt": "n",
+    "-bpb": "#",
+    "-Bidi_M": "N",
+    "-suc": "#",
+    "-slc": "#",
+    "-stc": "#",
+    "-uc": "#",
+    "-lc": "#",
+    "-tc": "#",
+    "-scf": "#",
+    "-cf": "#",
+    "-jt": "U",
+    "-jg": "No_Joining_Group",
+    "-ea": "N",
+    "-lb": "AL",
+    "-sc": "Zyyy",
+    "-scx": "Zyyy",
+    "-Dash": "N",
+    "-WSpace": "N",
+    "-Hyphen": "N",
+    "-QMark": "N",
+    "-Radical": "N",
+    "-Ideo": "N",
+    "-UIdeo": "N",
+    "-IDSB": "N",
+    "-IDST": "N",
+    "-hst": "NA",
+    "-DI": "N",
+    "-ODI": "N",
+    "-Alpha": "N",
+    "-OAlpha": "N",
+    "-Upper": "N",
+    "-OUpper": "N",
+    "-Lower": "N",
+    "-OLower": "N",
+    "-Math": "Y",
+    "-OMath": "N",
+    "-Hex": "N",
+    "-AHex": "N",
+    "-NChar": "N",
+    "-VS": "N",
+    "-Bidi_C": "N",
+    "-Join_C": "N",
+    "-Gr_Base": "Y",
+    "-Gr_Ext": "N",
+    "-OGr_Ext": "N",
+    "-Gr_Link": "N",
+    "-STerm": "N",
+    "-Ext": "N",
+    "-Term": "N",
+    "-Dia": "N",
+    "-Dep": "N",
+    "-IDS": "N",
+    "-OIDS": "N",
+    "-XIDS": "N",
+    "-IDC": "N",
+    "-OIDC": "N",
+    "-XIDC": "N",
+    "-SD": "N",
+    "-LOE": "N",
+    "-Pat_WS": "N",
+    "-Pat_Syn": "Y",
+    "-GCB": "XX",
+    "-WB": "XX",
+    "-SB": "XX",
+    "-CE": "N",
+    "-Comp_Ex": "N",
+    "-NFC_QC": "Y",
+    "-NFD_QC": "Y",
+    "-NFKC_QC": "Y",
+    "-NFKD_QC": "Y",
+    "-XO_NFC": "N",
+    "-XO_NFD": "N",
+    "-XO_NFKC": "N",
+    "-XO_NFKD": "N",
+    "-FC_NFKC": "#",
+    "-CI": "N",
+    "-Cased": "N",
+    "-CWCF": "N",
+    "-CWCM": "N",
+    "-CWKCF": "N",
+    "-CWL": "N",
+    "-CWT": "N",
+    "-CWU": "N",
+    "-NFKC_CF": "#",
+    "-InSC": "Other",
+    "-InPC": "NA",
+    "-PCM": "N",
+    "-blk": "Arrows",
+    "char": [
+      {
+        "-cp": "2190",
+        "-na": "LEFTWARDS ARROW",
+        "-gc": "Sm",
+        "-ea": "A",
+        "-lb": "AI",
+        "-na1": "LEFT ARROW"
+      },
+      {
+        "-cp": "2191",
+        "-na": "UPWARDS ARROW",
+        "-gc": "Sm",
+        "-ea": "A",
+        "-lb": "AI",
+        "-na1": "UP ARROW"
+      },
+      {
+        "-cp": "2192",
+        "-na": "RIGHTWARDS ARROW",
+        "-gc": "Sm",
+        "-ea": "A",
+        "-lb": "AI",
+        "-na1": "RIGHT ARROW"
+      },
+      {
+        "-cp": "2193",
+        "-na": "DOWNWARDS ARROW",
+        "-gc": "Sm",
+        "-ea": "A",
+        "-lb": "AI",
+        "-na1": "DOWN ARROW"
+      },
+      {
+        "-cp": "2194",
+        "-na": "LEFT RIGHT ARROW",
+        "-gc": "Sm",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "2195",
+        "-na": "UP DOWN ARROW",
+        "-ea": "A",
+        "-lb": "AI",
+        "-OMath": "Y"
+      },
+      {
+        "-cp": "2196",
+        "-na": "NORTH WEST ARROW",
+        "-ea": "A",
+        "-lb": "AI",
+        "-OMath": "Y",
+        "-na1": "UPPER LEFT ARROW"
+      },
+      {
+        "-cp": "2197",
+        "-na": "NORTH EAST ARROW",
+        "-ea": "A",
+        "-lb": "AI",
+        "-OMath": "Y",
+        "-na1": "UPPER RIGHT ARROW"
+      },
+      {
+        "-cp": "2198",
+        "-na": "SOUTH EAST ARROW",
+        "-ea": "A",
+        "-lb": "AI",
+        "-OMath": "Y",
+        "-na1": "LOWER RIGHT ARROW"
+      },
+      {
+        "-cp": "2199",
+        "-na": "SOUTH WEST ARROW",
+        "-ea": "A",
+        "-lb": "AI",
+        "-OMath": "Y",
+        "-na1": "LOWER LEFT ARROW"
+      },
+      {
+        "-cp": "219A",
+        "-na": "LEFTWARDS ARROW WITH STROKE",
+        "-gc": "Sm",
+        "-dt": "can",
+        "-dm": "2190 0338",
+        "-NFD_QC": "N",
+        "-NFKD_QC": "N",
+        "-XO_NFD": "Y",
+        "-XO_NFKD": "Y",
+        "-na1": "LEFT ARROW WITH STROKE"
+      },
+      {
+        "-cp": "219B",
+        "-na": "RIGHTWARDS ARROW WITH STROKE",
+        "-gc": "Sm",
+        "-dt": "can",
+        "-dm": "2192 0338",
+        "-NFD_QC": "N",
+        "-NFKD_QC": "N",
+        "-XO_NFD": "Y",
+        "-XO_NFKD": "Y",
+        "-na1": "RIGHT ARROW WITH STROKE"
+      },
+      {
+        "-cp": "219C",
+        "-na": "LEFTWARDS WAVE ARROW",
+        "-OMath": "Y",
+        "-na1": "LEFT WAVE ARROW"
+      },
+      {
+        "-cp": "219D",
+        "-na": "RIGHTWARDS WAVE ARROW",
+        "-OMath": "Y",
+        "-na1": "RIGHT WAVE ARROW"
+      },
+      {
+        "-cp": "219E",
+        "-na": "LEFTWARDS TWO HEADED ARROW",
+        "-OMath": "Y",
+        "-na1": "LEFT TWO HEADED ARROW"
+      },
+      {
+        "-cp": "219F",
+        "-na": "UPWARDS TWO HEADED ARROW",
+        "-OMath": "Y",
+        "-na1": "UP TWO HEADED ARROW"
+      },
+      {
+        "-cp": "21A0",
+        "-na": "RIGHTWARDS TWO HEADED ARROW",
+        "-gc": "Sm",
+        "-na1": "RIGHT TWO HEADED ARROW"
+      },
+      {
+        "-cp": "21A1",
+        "-na": "DOWNWARDS TWO HEADED ARROW",
+        "-OMath": "Y",
+        "-na1": "DOWN TWO HEADED ARROW"
+      },
+      {
+        "-cp": "21A2",
+        "-na": "LEFTWARDS ARROW WITH TAIL",
+        "-OMath": "Y",
+        "-na1": "LEFT ARROW WITH TAIL"
+      },
+      {
+        "-cp": "21A3",
+        "-na": "RIGHTWARDS ARROW WITH TAIL",
+        "-gc": "Sm",
+        "-na1": "RIGHT ARROW WITH TAIL"
+      },
+      {
+        "-cp": "21A4",
+        "-na": "LEFTWARDS ARROW FROM BAR",
+        "-OMath": "Y",
+        "-na1": "LEFT ARROW FROM BAR"
+      },
+      {
+        "-cp": "21A5",
+        "-na": "UPWARDS ARROW FROM BAR",
+        "-OMath": "Y",
+        "-na1": "UP ARROW FROM BAR"
+      },
+      {
+        "-cp": "21A6",
+        "-na": "RIGHTWARDS ARROW FROM BAR",
+        "-gc": "Sm",
+        "-na1": "RIGHT ARROW FROM BAR"
+      },
+      {
+        "-cp": "21A7",
+        "-na": "DOWNWARDS ARROW FROM BAR",
+        "-OMath": "Y",
+        "-na1": "DOWN ARROW FROM BAR"
+      },
+      {
+        "-cp": "21A8",
+        "-na": "UP DOWN ARROW WITH BASE",
+        "-Math": "N"
+      },
+      {
+        "-cp": "21A9",
+        "-na": "LEFTWARDS ARROW WITH HOOK",
+        "-OMath": "Y",
+        "-na1": "LEFT ARROW WITH HOOK"
+      },
+      {
+        "-cp": "21AA",
+        "-na": "RIGHTWARDS ARROW WITH HOOK",
+        "-OMath": "Y",
+        "-na1": "RIGHT ARROW WITH HOOK"
+      },
+      {
+        "-cp": "21AB",
+        "-na": "LEFTWARDS ARROW WITH LOOP",
+        "-OMath": "Y",
+        "-na1": "LEFT ARROW WITH LOOP"
+      },
+      {
+        "-cp": "21AC",
+        "-na": "RIGHTWARDS ARROW WITH LOOP",
+        "-OMath": "Y",
+        "-na1": "RIGHT ARROW WITH LOOP"
+      },
+      {
+        "-cp": "21AD",
+        "-na": "LEFT RIGHT WAVE ARROW",
+        "-OMath": "Y"
+      },
+      {
+        "-cp": "21AE",
+        "-na": "LEFT RIGHT ARROW WITH STROKE",
+        "-gc": "Sm",
+        "-dt": "can",
+        "-dm": "2194 0338",
+        "-NFD_QC": "N",
+        "-NFKD_QC": "N",
+        "-XO_NFD": "Y",
+        "-XO_NFKD": "Y"
+      },
+      {
+        "-cp": "21AF",
+        "-na": "DOWNWARDS ZIGZAG ARROW",
+        "-Math": "N",
+        "-na1": "DOWN ZIGZAG ARROW"
+      },
+      {
+        "-cp": "21B0",
+        "-na": "UPWARDS ARROW WITH TIP LEFTWARDS",
+        "-OMath": "Y",
+        "-na1": "UP ARROW WITH TIP LEFT"
+      },
+      {
+        "-cp": "21B1",
+        "-na": "UPWARDS ARROW WITH TIP RIGHTWARDS",
+        "-OMath": "Y",
+        "-na1": "UP ARROW WITH TIP RIGHT"
+      },
+      {
+        "-cp": "21B2",
+        "-na": "DOWNWARDS ARROW WITH TIP LEFTWARDS",
+        "-Math": "N",
+        "-na1": "DOWN ARROW WITH TIP LEFT"
+      },
+      {
+        "-cp": "21B3",
+        "-na": "DOWNWARDS ARROW WITH TIP RIGHTWARDS",
+        "-Math": "N",
+        "-na1": "DOWN ARROW WITH TIP RIGHT"
+      },
+      {
+        "-cp": "21B4",
+        "-na": "RIGHTWARDS ARROW WITH CORNER DOWNWARDS",
+        "-Math": "N",
+        "-na1": "RIGHT ARROW WITH CORNER DOWN"
+      },
+      {
+        "-cp": "21B5",
+        "-na": "DOWNWARDS ARROW WITH CORNER LEFTWARDS",
+        "-Math": "N",
+        "-na1": "DOWN ARROW WITH CORNER LEFT"
+      },
+      {
+        "-cp": "21B6",
+        "-na": "ANTICLOCKWISE TOP SEMICIRCLE ARROW",
+        "-OMath": "Y"
+      },
+      {
+        "-cp": "21B7",
+        "-na": "CLOCKWISE TOP SEMICIRCLE ARROW",
+        "-OMath": "Y"
+      },
+      {
+        "-cp": "21B8",
+        "-na": "NORTH WEST ARROW TO LONG BAR",
+        "-ea": "A",
+        "-Math": "N",
+        "-na1": "UPPER LEFT ARROW TO LONG BAR"
+      },
+      {
+        "-cp": "21B9",
+        "-na": "LEFTWARDS ARROW TO BAR OVER RIGHTWARDS ARROW TO BAR",
+        "-ea": "A",
+        "-Math": "N",
+        "-na1": "LEFT ARROW TO BAR OVER RIGHT ARROW TO BAR"
+      },
+      {
+        "-cp": "21BA",
+        "-na": "ANTICLOCKWISE OPEN CIRCLE ARROW",
+        "-Math": "N"
+      },
+      {
+        "-cp": "21BB",
+        "-na": "CLOCKWISE OPEN CIRCLE ARROW",
+        "-Math": "N"
+      },
+      {
+        "-cp": "21BC",
+        "-na": "LEFTWARDS HARPOON WITH BARB UPWARDS",
+        "-OMath": "Y",
+        "-na1": "LEFT HARPOON WITH BARB UP"
+      },
+      {
+        "-cp": "21BD",
+        "-na": "LEFTWARDS HARPOON WITH BARB DOWNWARDS",
+        "-OMath": "Y",
+        "-na1": "LEFT HARPOON WITH BARB DOWN"
+      },
+      {
+        "-cp": "21BE",
+        "-na": "UPWARDS HARPOON WITH BARB RIGHTWARDS",
+        "-OMath": "Y",
+        "-na1": "UP HARPOON WITH BARB RIGHT"
+      },
+      {
+        "-cp": "21BF",
+        "-na": "UPWARDS HARPOON WITH BARB LEFTWARDS",
+        "-OMath": "Y",
+        "-na1": "UP HARPOON WITH BARB LEFT"
+      },
+      {
+        "-cp": "21C0",
+        "-na": "RIGHTWARDS HARPOON WITH BARB UPWARDS",
+        "-OMath": "Y",
+        "-na1": "RIGHT HARPOON WITH BARB UP"
+      },
+      {
+        "-cp": "21C1",
+        "-na": "RIGHTWARDS HARPOON WITH BARB DOWNWARDS",
+        "-OMath": "Y",
+        "-na1": "RIGHT HARPOON WITH BARB DOWN"
+      },
+      {
+        "-cp": "21C2",
+        "-na": "DOWNWARDS HARPOON WITH BARB RIGHTWARDS",
+        "-OMath": "Y",
+        "-na1": "DOWN HARPOON WITH BARB RIGHT"
+      },
+      {
+        "-cp": "21C3",
+        "-na": "DOWNWARDS HARPOON WITH BARB LEFTWARDS",
+        "-OMath": "Y",
+        "-na1": "DOWN HARPOON WITH BARB LEFT"
+      },
+      {
+        "-cp": "21C4",
+        "-na": "RIGHTWARDS ARROW OVER LEFTWARDS ARROW",
+        "-OMath": "Y",
+        "-na1": "RIGHT ARROW OVER LEFT ARROW"
+      },
+      {
+        "-cp": "21C5",
+        "-na": "UPWARDS ARROW LEFTWARDS OF DOWNWARDS ARROW",
+        "-OMath": "Y",
+        "-na1": "UP ARROW LEFT OF DOWN ARROW"
+      },
+      {
+        "-cp": "21C6",
+        "-na": "LEFTWARDS ARROW OVER RIGHTWARDS ARROW",
+        "-OMath": "Y",
+        "-na1": "LEFT ARROW OVER RIGHT ARROW"
+      },
+      {
+        "-cp": "21C7",
+        "-na": "LEFTWARDS PAIRED ARROWS",
+        "-OMath": "Y",
+        "-na1": "LEFT PAIRED ARROWS"
+      },
+      {
+        "-cp": "21C8",
+        "-na": "UPWARDS PAIRED ARROWS",
+        "-OMath": "Y",
+        "-na1": "UP PAIRED ARROWS"
+      },
+      {
+        "-cp": "21C9",
+        "-na": "RIGHTWARDS PAIRED ARROWS",
+        "-OMath": "Y",
+        "-na1": "RIGHT PAIRED ARROWS"
+      },
+      {
+        "-cp": "21CA",
+        "-na": "DOWNWARDS PAIRED ARROWS",
+        "-OMath": "Y",
+        "-na1": "DOWN PAIRED ARROWS"
+      },
+      {
+        "-cp": "21CB",
+        "-na": "LEFTWARDS HARPOON OVER RIGHTWARDS HARPOON",
+        "-OMath": "Y",
+        "-na1": "LEFT HARPOON OVER RIGHT HARPOON"
+      },
+      {
+        "-cp": "21CC",
+        "-na": "RIGHTWARDS HARPOON OVER LEFTWARDS HARPOON",
+        "-OMath": "Y",
+        "-na1": "RIGHT HARPOON OVER LEFT HARPOON"
+      },
+      {
+        "-cp": "21CD",
+        "-na": "LEFTWARDS DOUBLE ARROW WITH STROKE",
+        "-dt": "can",
+        "-dm": "21D0 0338",
+        "-OMath": "Y",
+        "-NFD_QC": "N",
+        "-NFKD_QC": "N",
+        "-XO_NFD": "Y",
+        "-XO_NFKD": "Y",
+        "-na1": "LEFT DOUBLE ARROW WITH STROKE"
+      },
+      {
+        "-cp": "21CE",
+        "-na": "LEFT RIGHT DOUBLE ARROW WITH STROKE",
+        "-gc": "Sm",
+        "-dt": "can",
+        "-dm": "21D4 0338",
+        "-NFD_QC": "N",
+        "-NFKD_QC": "N",
+        "-XO_NFD": "Y",
+        "-XO_NFKD": "Y"
+      },
+      {
+        "-cp": "21CF",
+        "-na": "RIGHTWARDS DOUBLE ARROW WITH STROKE",
+        "-gc": "Sm",
+        "-dt": "can",
+        "-dm": "21D2 0338",
+        "-NFD_QC": "N",
+        "-NFKD_QC": "N",
+        "-XO_NFD": "Y",
+        "-XO_NFKD": "Y",
+        "-na1": "RIGHT DOUBLE ARROW WITH STROKE"
+      },
+      {
+        "-cp": "21D0",
+        "-na": "LEFTWARDS DOUBLE ARROW",
+        "-OMath": "Y",
+        "-na1": "LEFT DOUBLE ARROW"
+      },
+      {
+        "-cp": "21D1",
+        "-na": "UPWARDS DOUBLE ARROW",
+        "-OMath": "Y",
+        "-na1": "UP DOUBLE ARROW"
+      },
+      {
+        "-cp": "21D2",
+        "-na": "RIGHTWARDS DOUBLE ARROW",
+        "-gc": "Sm",
+        "-ea": "A",
+        "-lb": "AI",
+        "-na1": "RIGHT DOUBLE ARROW"
+      },
+      {
+        "-cp": "21D3",
+        "-na": "DOWNWARDS DOUBLE ARROW",
+        "-OMath": "Y",
+        "-na1": "DOWN DOUBLE ARROW"
+      },
+      {
+        "-cp": "21D4",
+        "-na": "LEFT RIGHT DOUBLE ARROW",
+        "-gc": "Sm",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "21D5",
+        "-na": "UP DOWN DOUBLE ARROW",
+        "-OMath": "Y"
+      },
+      {
+        "-cp": "21D6",
+        "-na": "NORTH WEST DOUBLE ARROW",
+        "-OMath": "Y",
+        "-na1": "UPPER LEFT DOUBLE ARROW"
+      },
+      {
+        "-cp": "21D7",
+        "-na": "NORTH EAST DOUBLE ARROW",
+        "-OMath": "Y",
+        "-na1": "UPPER RIGHT DOUBLE ARROW"
+      },
+      {
+        "-cp": "21D8",
+        "-na": "SOUTH EAST DOUBLE ARROW",
+        "-OMath": "Y",
+        "-na1": "LOWER RIGHT DOUBLE ARROW"
+      },
+      {
+        "-cp": "21D9",
+        "-na": "SOUTH WEST DOUBLE ARROW",
+        "-OMath": "Y",
+        "-na1": "LOWER LEFT DOUBLE ARROW"
+      },
+      {
+        "-cp": "21DA",
+        "-na": "LEFTWARDS TRIPLE ARROW",
+        "-OMath": "Y",
+        "-na1": "LEFT TRIPLE ARROW"
+      },
+      {
+        "-cp": "21DB",
+        "-na": "RIGHTWARDS TRIPLE ARROW",
+        "-OMath": "Y",
+        "-na1": "RIGHT TRIPLE ARROW"
+      },
+      {
+        "-cp": "21DC",
+        "-na": "LEFTWARDS SQUIGGLE ARROW",
+        "-Math": "N",
+        "-na1": "LEFT SQUIGGLE ARROW"
+      },
+      {
+        "-cp": "21DD",
+        "-na": "RIGHTWARDS SQUIGGLE ARROW",
+        "-OMath": "Y",
+        "-na1": "RIGHT SQUIGGLE ARROW"
+      },
+      {
+        "-cp": "21DE",
+        "-na": "UPWARDS ARROW WITH DOUBLE STROKE",
+        "-Math": "N",
+        "-na1": "UP ARROW WITH DOUBLE STROKE"
+      },
+      {
+        "-cp": "21DF",
+        "-na": "DOWNWARDS ARROW WITH DOUBLE STROKE",
+        "-Math": "N",
+        "-na1": "DOWN ARROW WITH DOUBLE STROKE"
+      },
+      {
+        "-cp": "21E0",
+        "-na": "LEFTWARDS DASHED ARROW",
+        "-Math": "N",
+        "-na1": "LEFT DASHED ARROW"
+      },
+      {
+        "-cp": "21E1",
+        "-na": "UPWARDS DASHED ARROW",
+        "-Math": "N",
+        "-na1": "UP DASHED ARROW"
+      },
+      {
+        "-cp": "21E2",
+        "-na": "RIGHTWARDS DASHED ARROW",
+        "-Math": "N",
+        "-na1": "RIGHT DASHED ARROW"
+      },
+      {
+        "-cp": "21E3",
+        "-na": "DOWNWARDS DASHED ARROW",
+        "-Math": "N",
+        "-na1": "DOWN DASHED ARROW"
+      },
+      {
+        "-cp": "21E4",
+        "-na": "LEFTWARDS ARROW TO BAR",
+        "-OMath": "Y",
+        "-na1": "LEFT ARROW TO BAR"
+      },
+      {
+        "-cp": "21E5",
+        "-na": "RIGHTWARDS ARROW TO BAR",
+        "-OMath": "Y",
+        "-na1": "RIGHT ARROW TO BAR"
+      },
+      {
+        "-cp": "21E6",
+        "-na": "LEFTWARDS WHITE ARROW",
+        "-Math": "N",
+        "-na1": "WHITE LEFT ARROW"
+      },
+      {
+        "-cp": "21E7",
+        "-na": "UPWARDS WHITE ARROW",
+        "-ea": "A",
+        "-Math": "N",
+        "-na1": "WHITE UP ARROW"
+      },
+      {
+        "-cp": "21E8",
+        "-na": "RIGHTWARDS WHITE ARROW",
+        "-Math": "N",
+        "-na1": "WHITE RIGHT ARROW"
+      },
+      {
+        "-cp": "21E9",
+        "-na": "DOWNWARDS WHITE ARROW",
+        "-Math": "N",
+        "-na1": "WHITE DOWN ARROW"
+      },
+      {
+        "-cp": "21EA",
+        "-na": "UPWARDS WHITE ARROW FROM BAR",
+        "-Math": "N",
+        "-na1": "WHITE UP ARROW FROM BAR"
+      },
+      {
+        "-cp": "21EB",
+        "-age": "3.0",
+        "-na": "UPWARDS WHITE ARROW ON PEDESTAL",
+        "-Math": "N"
+      },
+      {
+        "-cp": "21EC",
+        "-age": "3.0",
+        "-na": "UPWARDS WHITE ARROW ON PEDESTAL WITH HORIZONTAL BAR",
+        "-Math": "N"
+      },
+      {
+        "-cp": "21ED",
+        "-age": "3.0",
+        "-na": "UPWARDS WHITE ARROW ON PEDESTAL WITH VERTICAL BAR",
+        "-Math": "N"
+      },
+      {
+        "-cp": "21EE",
+        "-age": "3.0",
+        "-na": "UPWARDS WHITE DOUBLE ARROW",
+        "-Math": "N"
+      },
+      {
+        "-cp": "21EF",
+        "-age": "3.0",
+        "-na": "UPWARDS WHITE DOUBLE ARROW ON PEDESTAL",
+        "-Math": "N"
+      },
+      {
+        "-cp": "21F0",
+        "-age": "3.0",
+        "-na": "RIGHTWARDS WHITE ARROW FROM WALL",
+        "-Math": "N"
+      },
+      {
+        "-cp": "21F1",
+        "-age": "3.0",
+        "-na": "NORTH WEST ARROW TO CORNER",
+        "-Math": "N"
+      },
+      {
+        "-cp": "21F2",
+        "-age": "3.0",
+        "-na": "SOUTH EAST ARROW TO CORNER",
+        "-Math": "N"
+      },
+      {
+        "-cp": "21F3",
+        "-age": "3.0",
+        "-na": "UP DOWN WHITE ARROW",
+        "-Math": "N"
+      },
+      {
+        "-cp": "21F4",
+        "-age": "3.2",
+        "-na": "RIGHT ARROW WITH SMALL CIRCLE",
+        "-gc": "Sm"
+      },
+      {
+        "-cp": "21F5",
+        "-age": "3.2",
+        "-na": "DOWNWARDS ARROW LEFTWARDS OF UPWARDS ARROW",
+        "-gc": "Sm"
+      },
+      {
+        "-cp": "21F6",
+        "-age": "3.2",
+        "-na": "THREE RIGHTWARDS ARROWS",
+        "-gc": "Sm"
+      },
+      {
+        "-cp": "21F7",
+        "-age": "3.2",
+        "-na": "LEFTWARDS ARROW WITH VERTICAL STROKE",
+        "-gc": "Sm"
+      },
+      {
+        "-cp": "21F8",
+        "-age": "3.2",
+        "-na": "RIGHTWARDS ARROW WITH VERTICAL STROKE",
+        "-gc": "Sm"
+      },
+      {
+        "-cp": "21F9",
+        "-age": "3.2",
+        "-na": "LEFT RIGHT ARROW WITH VERTICAL STROKE",
+        "-gc": "Sm"
+      },
+      {
+        "-cp": "21FA",
+        "-age": "3.2",
+        "-na": "LEFTWARDS ARROW WITH DOUBLE VERTICAL STROKE",
+        "-gc": "Sm"
+      },
+      {
+        "-cp": "21FB",
+        "-age": "3.2",
+        "-na": "RIGHTWARDS ARROW WITH DOUBLE VERTICAL STROKE",
+        "-gc": "Sm"
+      },
+      {
+        "-cp": "21FC",
+        "-age": "3.2",
+        "-na": "LEFT RIGHT ARROW WITH DOUBLE VERTICAL STROKE",
+        "-gc": "Sm"
+      },
+      {
+        "-cp": "21FD",
+        "-age": "3.2",
+        "-na": "LEFTWARDS OPEN-HEADED ARROW",
+        "-gc": "Sm"
+      },
+      {
+        "-cp": "21FE",
+        "-age": "3.2",
+        "-na": "RIGHTWARDS OPEN-HEADED ARROW",
+        "-gc": "Sm"
+      },
+      {
+        "-cp": "21FF",
+        "-age": "3.2",
+        "-na": "LEFT RIGHT OPEN-HEADED ARROW",
+        "-gc": "Sm"
+      }
+    ]
+  }
+}

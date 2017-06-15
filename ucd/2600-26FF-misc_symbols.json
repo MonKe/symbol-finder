@@ -1,0 +1,1511 @@
+{
+  "group": {
+    "-age": "1.1",
+    "-gc": "So",
+    "-ccc": "0",
+    "-dt": "none",
+    "-dm": "#",
+    "-nt": "None",
+    "-nv": "NaN",
+    "-bc": "ON",
+    "-bpt": "n",
+    "-bpb": "#",
+    "-Bidi_M": "N",
+    "-suc": "#",
+    "-slc": "#",
+    "-stc": "#",
+    "-uc": "#",
+    "-lc": "#",
+    "-tc": "#",
+    "-scf": "#",
+    "-cf": "#",
+    "-jt": "U",
+    "-jg": "No_Joining_Group",
+    "-ea": "N",
+    "-lb": "AL",
+    "-sc": "Zyyy",
+    "-scx": "Zyyy",
+    "-Dash": "N",
+    "-WSpace": "N",
+    "-Hyphen": "N",
+    "-QMark": "N",
+    "-Radical": "N",
+    "-Ideo": "N",
+    "-UIdeo": "N",
+    "-IDSB": "N",
+    "-IDST": "N",
+    "-hst": "NA",
+    "-DI": "N",
+    "-ODI": "N",
+    "-Alpha": "N",
+    "-OAlpha": "N",
+    "-Upper": "N",
+    "-OUpper": "N",
+    "-Lower": "N",
+    "-OLower": "N",
+    "-Math": "N",
+    "-OMath": "N",
+    "-Hex": "N",
+    "-AHex": "N",
+    "-NChar": "N",
+    "-VS": "N",
+    "-Bidi_C": "N",
+    "-Join_C": "N",
+    "-Gr_Base": "Y",
+    "-Gr_Ext": "N",
+    "-OGr_Ext": "N",
+    "-Gr_Link": "N",
+    "-STerm": "N",
+    "-Ext": "N",
+    "-Term": "N",
+    "-Dia": "N",
+    "-Dep": "N",
+    "-IDS": "N",
+    "-OIDS": "N",
+    "-XIDS": "N",
+    "-IDC": "N",
+    "-OIDC": "N",
+    "-XIDC": "N",
+    "-SD": "N",
+    "-LOE": "N",
+    "-Pat_WS": "N",
+    "-Pat_Syn": "Y",
+    "-GCB": "XX",
+    "-WB": "XX",
+    "-SB": "XX",
+    "-CE": "N",
+    "-Comp_Ex": "N",
+    "-NFC_QC": "Y",
+    "-NFD_QC": "Y",
+    "-NFKC_QC": "Y",
+    "-NFKD_QC": "Y",
+    "-XO_NFC": "N",
+    "-XO_NFD": "N",
+    "-XO_NFKC": "N",
+    "-XO_NFKD": "N",
+    "-FC_NFKC": "#",
+    "-CI": "N",
+    "-Cased": "N",
+    "-CWCF": "N",
+    "-CWCM": "N",
+    "-CWKCF": "N",
+    "-CWL": "N",
+    "-CWT": "N",
+    "-CWU": "N",
+    "-NFKC_CF": "#",
+    "-InSC": "Other",
+    "-InPC": "NA",
+    "-PCM": "N",
+    "-blk": "Misc_Symbols",
+    "char": [
+      {
+        "-cp": "2600",
+        "-na": "BLACK SUN WITH RAYS",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "2601",
+        "-na": "CLOUD",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "2602",
+        "-na": "UMBRELLA",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "2603",
+        "-na": "SNOWMAN",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "2604",
+        "-na": "COMET"
+      },
+      {
+        "-cp": "2605",
+        "-na": "BLACK STAR",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Math": "Y",
+        "-OMath": "Y"
+      },
+      {
+        "-cp": "2606",
+        "-na": "WHITE STAR",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Math": "Y",
+        "-OMath": "Y"
+      },
+      {
+        "-cp": "2607",
+        "-na": "LIGHTNING"
+      },
+      {
+        "-cp": "2608",
+        "-na": "THUNDERSTORM"
+      },
+      {
+        "-cp": "2609",
+        "-na": "SUN",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "260A",
+        "-na": "ASCENDING NODE"
+      },
+      {
+        "-cp": "260B",
+        "-na": "DESCENDING NODE"
+      },
+      {
+        "-cp": "260C",
+        "-na": "CONJUNCTION"
+      },
+      {
+        "-cp": "260D",
+        "-na": "OPPOSITION"
+      },
+      {
+        "-cp": "260E",
+        "-na": "BLACK TELEPHONE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "260F",
+        "-na": "WHITE TELEPHONE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "2610",
+        "-na": "BALLOT BOX"
+      },
+      {
+        "-cp": "2611",
+        "-na": "BALLOT BOX WITH CHECK"
+      },
+      {
+        "-cp": "2612",
+        "-na": "BALLOT BOX WITH X"
+      },
+      {
+        "-cp": "2613",
+        "-na": "SALTIRE"
+      },
+      {
+        "-cp": "2614",
+        "-age": "4.0",
+        "-na": "UMBRELLA WITH RAIN DROPS",
+        "-ea": "W",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "2615",
+        "-age": "4.0",
+        "-na": "HOT BEVERAGE",
+        "-ea": "W",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "2616",
+        "-age": "3.2",
+        "-na": "WHITE SHOGI PIECE",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "2617",
+        "-age": "3.2",
+        "-na": "BLACK SHOGI PIECE",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "2618",
+        "-age": "4.1",
+        "-na": "SHAMROCK",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "2619",
+        "-age": "3.0",
+        "-na": "REVERSED ROTATED FLORAL HEART BULLET"
+      },
+      {
+        "-cp": "261A",
+        "-na": "BLACK LEFT POINTING INDEX",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "261B",
+        "-na": "BLACK RIGHT POINTING INDEX",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "261C",
+        "-na": "WHITE LEFT POINTING INDEX",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "261D",
+        "-na": "WHITE UP POINTING INDEX",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "261E",
+        "-na": "WHITE RIGHT POINTING INDEX",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "261F",
+        "-na": "WHITE DOWN POINTING INDEX",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "2620",
+        "-na": "SKULL AND CROSSBONES"
+      },
+      {
+        "-cp": "2621",
+        "-na": "CAUTION SIGN"
+      },
+      {
+        "-cp": "2622",
+        "-na": "RADIOACTIVE SIGN"
+      },
+      {
+        "-cp": "2623",
+        "-na": "BIOHAZARD SIGN"
+      },
+      {
+        "-cp": "2624",
+        "-na": "CADUCEUS"
+      },
+      {
+        "-cp": "2625",
+        "-na": "ANKH"
+      },
+      {
+        "-cp": "2626",
+        "-na": "ORTHODOX CROSS"
+      },
+      {
+        "-cp": "2627",
+        "-na": "CHI RHO"
+      },
+      {
+        "-cp": "2628",
+        "-na": "CROSS OF LORRAINE"
+      },
+      {
+        "-cp": "2629",
+        "-na": "CROSS OF JERUSALEM"
+      },
+      {
+        "-cp": "262A",
+        "-na": "STAR AND CRESCENT"
+      },
+      {
+        "-cp": "262B",
+        "-na": "FARSI SYMBOL",
+        "-na1": "SYMBOL OF IRAN"
+      },
+      {
+        "-cp": "262C",
+        "-na": "ADI SHAKTI"
+      },
+      {
+        "-cp": "262D",
+        "-na": "HAMMER AND SICKLE"
+      },
+      {
+        "-cp": "262E",
+        "-na": "PEACE SYMBOL"
+      },
+      {
+        "-cp": "262F",
+        "-na": "YIN YANG"
+      },
+      {
+        "-cp": "2630",
+        "-na": "TRIGRAM FOR HEAVEN"
+      },
+      {
+        "-cp": "2631",
+        "-na": "TRIGRAM FOR LAKE"
+      },
+      {
+        "-cp": "2632",
+        "-na": "TRIGRAM FOR FIRE"
+      },
+      {
+        "-cp": "2633",
+        "-na": "TRIGRAM FOR THUNDER"
+      },
+      {
+        "-cp": "2634",
+        "-na": "TRIGRAM FOR WIND"
+      },
+      {
+        "-cp": "2635",
+        "-na": "TRIGRAM FOR WATER"
+      },
+      {
+        "-cp": "2636",
+        "-na": "TRIGRAM FOR MOUNTAIN"
+      },
+      {
+        "-cp": "2637",
+        "-na": "TRIGRAM FOR EARTH"
+      },
+      {
+        "-cp": "2638",
+        "-na": "WHEEL OF DHARMA"
+      },
+      {
+        "-cp": "2639",
+        "-na": "WHITE FROWNING FACE",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "263A",
+        "-na": "WHITE SMILING FACE",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "263B",
+        "-na": "BLACK SMILING FACE",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "263C",
+        "-na": "WHITE SUN WITH RAYS"
+      },
+      {
+        "-cp": "263D",
+        "-na": "FIRST QUARTER MOON"
+      },
+      {
+        "-cp": "263E",
+        "-na": "LAST QUARTER MOON"
+      },
+      {
+        "-cp": "263F",
+        "-na": "MERCURY"
+      },
+      {
+        "-cp": "2640",
+        "-na": "FEMALE SIGN",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Math": "Y",
+        "-OMath": "Y"
+      },
+      {
+        "-cp": "2641",
+        "-na": "EARTH"
+      },
+      {
+        "-cp": "2642",
+        "-na": "MALE SIGN",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Math": "Y",
+        "-OMath": "Y"
+      },
+      {
+        "-cp": "2643",
+        "-na": "JUPITER"
+      },
+      {
+        "-cp": "2644",
+        "-na": "SATURN"
+      },
+      {
+        "-cp": "2645",
+        "-na": "URANUS"
+      },
+      {
+        "-cp": "2646",
+        "-na": "NEPTUNE"
+      },
+      {
+        "-cp": "2647",
+        "-na": "PLUTO"
+      },
+      {
+        "-cp": "2648",
+        "-na": "ARIES",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2649",
+        "-na": "TAURUS",
+        "-ea": "W"
+      },
+      {
+        "-cp": "264A",
+        "-na": "GEMINI",
+        "-ea": "W"
+      },
+      {
+        "-cp": "264B",
+        "-na": "CANCER",
+        "-ea": "W"
+      },
+      {
+        "-cp": "264C",
+        "-na": "LEO",
+        "-ea": "W"
+      },
+      {
+        "-cp": "264D",
+        "-na": "VIRGO",
+        "-ea": "W"
+      },
+      {
+        "-cp": "264E",
+        "-na": "LIBRA",
+        "-ea": "W"
+      },
+      {
+        "-cp": "264F",
+        "-na": "SCORPIUS",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2650",
+        "-na": "SAGITTARIUS",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2651",
+        "-na": "CAPRICORN",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2652",
+        "-na": "AQUARIUS",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2653",
+        "-na": "PISCES",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2654",
+        "-na": "WHITE CHESS KING"
+      },
+      {
+        "-cp": "2655",
+        "-na": "WHITE CHESS QUEEN"
+      },
+      {
+        "-cp": "2656",
+        "-na": "WHITE CHESS ROOK"
+      },
+      {
+        "-cp": "2657",
+        "-na": "WHITE CHESS BISHOP"
+      },
+      {
+        "-cp": "2658",
+        "-na": "WHITE CHESS KNIGHT"
+      },
+      {
+        "-cp": "2659",
+        "-na": "WHITE CHESS PAWN"
+      },
+      {
+        "-cp": "265A",
+        "-na": "BLACK CHESS KING"
+      },
+      {
+        "-cp": "265B",
+        "-na": "BLACK CHESS QUEEN"
+      },
+      {
+        "-cp": "265C",
+        "-na": "BLACK CHESS ROOK"
+      },
+      {
+        "-cp": "265D",
+        "-na": "BLACK CHESS BISHOP"
+      },
+      {
+        "-cp": "265E",
+        "-na": "BLACK CHESS KNIGHT"
+      },
+      {
+        "-cp": "265F",
+        "-na": "BLACK CHESS PAWN"
+      },
+      {
+        "-cp": "2660",
+        "-na": "BLACK SPADE SUIT",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Math": "Y",
+        "-OMath": "Y"
+      },
+      {
+        "-cp": "2661",
+        "-na": "WHITE HEART SUIT",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Math": "Y",
+        "-OMath": "Y"
+      },
+      {
+        "-cp": "2662",
+        "-na": "WHITE DIAMOND SUIT",
+        "-Math": "Y",
+        "-OMath": "Y"
+      },
+      {
+        "-cp": "2663",
+        "-na": "BLACK CLUB SUIT",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Math": "Y",
+        "-OMath": "Y"
+      },
+      {
+        "-cp": "2664",
+        "-na": "WHITE SPADE SUIT",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "2665",
+        "-na": "BLACK HEART SUIT",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "2666",
+        "-na": "BLACK DIAMOND SUIT"
+      },
+      {
+        "-cp": "2667",
+        "-na": "WHITE CLUB SUIT",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "2668",
+        "-na": "HOT SPRINGS",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "2669",
+        "-na": "QUARTER NOTE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "266A",
+        "-na": "EIGHTH NOTE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "266B",
+        "-na": "BEAMED EIGHTH NOTES",
+        "-na1": "BARRED EIGHTH NOTES"
+      },
+      {
+        "-cp": "266C",
+        "-na": "BEAMED SIXTEENTH NOTES",
+        "-ea": "A",
+        "-lb": "AI",
+        "-na1": "BARRED SIXTEENTH NOTES"
+      },
+      {
+        "-cp": "266D",
+        "-na": "MUSIC FLAT SIGN",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Math": "Y",
+        "-OMath": "Y",
+        "-na1": "FLAT"
+      },
+      {
+        "-cp": "266E",
+        "-na": "MUSIC NATURAL SIGN",
+        "-Math": "Y",
+        "-OMath": "Y",
+        "-na1": "NATURAL"
+      },
+      {
+        "-cp": "266F",
+        "-na": "MUSIC SHARP SIGN",
+        "-gc": "Sm",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Math": "Y",
+        "-na1": "SHARP"
+      },
+      {
+        "-cp": "2670",
+        "-age": "3.0",
+        "-na": "WEST SYRIAC CROSS"
+      },
+      {
+        "-cp": "2671",
+        "-age": "3.0",
+        "-na": "EAST SYRIAC CROSS"
+      },
+      {
+        "-cp": "2672",
+        "-age": "3.2",
+        "-na": "UNIVERSAL RECYCLING SYMBOL"
+      },
+      {
+        "-cp": "2673",
+        "-age": "3.2",
+        "-na": "RECYCLING SYMBOL FOR TYPE-1 PLASTICS"
+      },
+      {
+        "-cp": "2674",
+        "-age": "3.2",
+        "-na": "RECYCLING SYMBOL FOR TYPE-2 PLASTICS"
+      },
+      {
+        "-cp": "2675",
+        "-age": "3.2",
+        "-na": "RECYCLING SYMBOL FOR TYPE-3 PLASTICS"
+      },
+      {
+        "-cp": "2676",
+        "-age": "3.2",
+        "-na": "RECYCLING SYMBOL FOR TYPE-4 PLASTICS"
+      },
+      {
+        "-cp": "2677",
+        "-age": "3.2",
+        "-na": "RECYCLING SYMBOL FOR TYPE-5 PLASTICS"
+      },
+      {
+        "-cp": "2678",
+        "-age": "3.2",
+        "-na": "RECYCLING SYMBOL FOR TYPE-6 PLASTICS"
+      },
+      {
+        "-cp": "2679",
+        "-age": "3.2",
+        "-na": "RECYCLING SYMBOL FOR TYPE-7 PLASTICS"
+      },
+      {
+        "-cp": "267A",
+        "-age": "3.2",
+        "-na": "RECYCLING SYMBOL FOR GENERIC MATERIALS"
+      },
+      {
+        "-cp": "267B",
+        "-age": "3.2",
+        "-na": "BLACK UNIVERSAL RECYCLING SYMBOL"
+      },
+      {
+        "-cp": "267C",
+        "-age": "3.2",
+        "-na": "RECYCLED PAPER SYMBOL"
+      },
+      {
+        "-cp": "267D",
+        "-age": "3.2",
+        "-na": "PARTIALLY-RECYCLED PAPER SYMBOL"
+      },
+      {
+        "-cp": "267E",
+        "-age": "4.1",
+        "-na": "PERMANENT PAPER SIGN"
+      },
+      {
+        "-cp": "267F",
+        "-age": "4.1",
+        "-na": "WHEELCHAIR SYMBOL",
+        "-ea": "W",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "2680",
+        "-age": "3.2",
+        "-na": "DIE FACE-1"
+      },
+      {
+        "-cp": "2681",
+        "-age": "3.2",
+        "-na": "DIE FACE-2"
+      },
+      {
+        "-cp": "2682",
+        "-age": "3.2",
+        "-na": "DIE FACE-3"
+      },
+      {
+        "-cp": "2683",
+        "-age": "3.2",
+        "-na": "DIE FACE-4"
+      },
+      {
+        "-cp": "2684",
+        "-age": "3.2",
+        "-na": "DIE FACE-5"
+      },
+      {
+        "-cp": "2685",
+        "-age": "3.2",
+        "-na": "DIE FACE-6"
+      },
+      {
+        "-cp": "2686",
+        "-age": "3.2",
+        "-na": "WHITE CIRCLE WITH DOT RIGHT"
+      },
+      {
+        "-cp": "2687",
+        "-age": "3.2",
+        "-na": "WHITE CIRCLE WITH TWO DOTS"
+      },
+      {
+        "-cp": "2688",
+        "-age": "3.2",
+        "-na": "BLACK CIRCLE WITH WHITE DOT RIGHT"
+      },
+      {
+        "-cp": "2689",
+        "-age": "3.2",
+        "-na": "BLACK CIRCLE WITH TWO WHITE DOTS"
+      },
+      {
+        "-cp": "268A",
+        "-age": "4.0",
+        "-na": "MONOGRAM FOR YANG"
+      },
+      {
+        "-cp": "268B",
+        "-age": "4.0",
+        "-na": "MONOGRAM FOR YIN"
+      },
+      {
+        "-cp": "268C",
+        "-age": "4.0",
+        "-na": "DIGRAM FOR GREATER YANG"
+      },
+      {
+        "-cp": "268D",
+        "-age": "4.0",
+        "-na": "DIGRAM FOR LESSER YIN"
+      },
+      {
+        "-cp": "268E",
+        "-age": "4.0",
+        "-na": "DIGRAM FOR LESSER YANG"
+      },
+      {
+        "-cp": "268F",
+        "-age": "4.0",
+        "-na": "DIGRAM FOR GREATER YIN"
+      },
+      {
+        "-cp": "2690",
+        "-age": "4.0",
+        "-na": "WHITE FLAG"
+      },
+      {
+        "-cp": "2691",
+        "-age": "4.0",
+        "-na": "BLACK FLAG"
+      },
+      {
+        "-cp": "2692",
+        "-age": "4.1",
+        "-na": "HAMMER AND PICK"
+      },
+      {
+        "-cp": "2693",
+        "-age": "4.1",
+        "-na": "ANCHOR",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2694",
+        "-age": "4.1",
+        "-na": "CROSSED SWORDS"
+      },
+      {
+        "-cp": "2695",
+        "-age": "4.1",
+        "-na": "STAFF OF AESCULAPIUS"
+      },
+      {
+        "-cp": "2696",
+        "-age": "4.1",
+        "-na": "SCALES"
+      },
+      {
+        "-cp": "2697",
+        "-age": "4.1",
+        "-na": "ALEMBIC"
+      },
+      {
+        "-cp": "2698",
+        "-age": "4.1",
+        "-na": "FLOWER"
+      },
+      {
+        "-cp": "2699",
+        "-age": "4.1",
+        "-na": "GEAR"
+      },
+      {
+        "-cp": "269A",
+        "-age": "4.1",
+        "-na": "STAFF OF HERMES"
+      },
+      {
+        "-cp": "269B",
+        "-age": "4.1",
+        "-na": "ATOM SYMBOL"
+      },
+      {
+        "-cp": "269C",
+        "-age": "4.1",
+        "-na": "FLEUR-DE-LIS"
+      },
+      {
+        "-cp": "269D",
+        "-age": "5.1",
+        "-na": "OUTLINED WHITE STAR"
+      },
+      {
+        "-cp": "269E",
+        "-age": "5.2",
+        "-na": "THREE LINES CONVERGING RIGHT",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "269F",
+        "-age": "5.2",
+        "-na": "THREE LINES CONVERGING LEFT",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26A0",
+        "-age": "4.0",
+        "-na": "WARNING SIGN"
+      },
+      {
+        "-cp": "26A1",
+        "-age": "4.0",
+        "-na": "HIGH VOLTAGE SIGN",
+        "-ea": "W"
+      },
+      {
+        "-cp": "26A2",
+        "-age": "4.1",
+        "-na": "DOUBLED FEMALE SIGN"
+      },
+      {
+        "-cp": "26A3",
+        "-age": "4.1",
+        "-na": "DOUBLED MALE SIGN"
+      },
+      {
+        "-cp": "26A4",
+        "-age": "4.1",
+        "-na": "INTERLOCKED FEMALE AND MALE SIGN"
+      },
+      {
+        "-cp": "26A5",
+        "-age": "4.1",
+        "-na": "MALE AND FEMALE SIGN"
+      },
+      {
+        "-cp": "26A6",
+        "-age": "4.1",
+        "-na": "MALE WITH STROKE SIGN"
+      },
+      {
+        "-cp": "26A7",
+        "-age": "4.1",
+        "-na": "MALE WITH STROKE AND MALE AND FEMALE SIGN"
+      },
+      {
+        "-cp": "26A8",
+        "-age": "4.1",
+        "-na": "VERTICAL MALE WITH STROKE SIGN"
+      },
+      {
+        "-cp": "26A9",
+        "-age": "4.1",
+        "-na": "HORIZONTAL MALE WITH STROKE SIGN"
+      },
+      {
+        "-cp": "26AA",
+        "-age": "4.1",
+        "-na": "MEDIUM WHITE CIRCLE",
+        "-ea": "W"
+      },
+      {
+        "-cp": "26AB",
+        "-age": "4.1",
+        "-na": "MEDIUM BLACK CIRCLE",
+        "-ea": "W"
+      },
+      {
+        "-cp": "26AC",
+        "-age": "4.1",
+        "-na": "MEDIUM SMALL WHITE CIRCLE",
+        "-bc": "L"
+      },
+      {
+        "-cp": "26AD",
+        "-age": "4.1",
+        "-na": "MARRIAGE SYMBOL"
+      },
+      {
+        "-cp": "26AE",
+        "-age": "4.1",
+        "-na": "DIVORCE SYMBOL"
+      },
+      {
+        "-cp": "26AF",
+        "-age": "4.1",
+        "-na": "UNMARRIED PARTNERSHIP SYMBOL"
+      },
+      {
+        "-cp": "26B0",
+        "-age": "4.1",
+        "-na": "COFFIN"
+      },
+      {
+        "-cp": "26B1",
+        "-age": "4.1",
+        "-na": "FUNERAL URN"
+      },
+      {
+        "-cp": "26B2",
+        "-age": "5.0",
+        "-na": "NEUTER"
+      },
+      {
+        "-cp": "26B3",
+        "-age": "5.1",
+        "-na": "CERES"
+      },
+      {
+        "-cp": "26B4",
+        "-age": "5.1",
+        "-na": "PALLAS"
+      },
+      {
+        "-cp": "26B5",
+        "-age": "5.1",
+        "-na": "JUNO"
+      },
+      {
+        "-cp": "26B6",
+        "-age": "5.1",
+        "-na": "VESTA"
+      },
+      {
+        "-cp": "26B7",
+        "-age": "5.1",
+        "-na": "CHIRON"
+      },
+      {
+        "-cp": "26B8",
+        "-age": "5.1",
+        "-na": "BLACK MOON LILITH"
+      },
+      {
+        "-cp": "26B9",
+        "-age": "5.1",
+        "-na": "SEXTILE"
+      },
+      {
+        "-cp": "26BA",
+        "-age": "5.1",
+        "-na": "SEMISEXTILE"
+      },
+      {
+        "-cp": "26BB",
+        "-age": "5.1",
+        "-na": "QUINCUNX"
+      },
+      {
+        "-cp": "26BC",
+        "-age": "5.1",
+        "-na": "SESQUIQUADRATE"
+      },
+      {
+        "-cp": "26BD",
+        "-age": "5.2",
+        "-na": "SOCCER BALL",
+        "-ea": "W",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26BE",
+        "-age": "5.2",
+        "-na": "BASEBALL",
+        "-ea": "W",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26BF",
+        "-age": "5.2",
+        "-na": "SQUARED KEY",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26C0",
+        "-age": "5.1",
+        "-na": "WHITE DRAUGHTS MAN",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26C1",
+        "-age": "5.1",
+        "-na": "WHITE DRAUGHTS KING",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26C2",
+        "-age": "5.1",
+        "-na": "BLACK DRAUGHTS MAN",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26C3",
+        "-age": "5.1",
+        "-na": "BLACK DRAUGHTS KING",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26C4",
+        "-age": "5.2",
+        "-na": "SNOWMAN WITHOUT SNOW",
+        "-ea": "W",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26C5",
+        "-age": "5.2",
+        "-na": "SUN BEHIND CLOUD",
+        "-ea": "W",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26C6",
+        "-age": "5.2",
+        "-na": "RAIN",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26C7",
+        "-age": "5.2",
+        "-na": "BLACK SNOWMAN",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26C8",
+        "-age": "5.2",
+        "-na": "THUNDER CLOUD AND RAIN",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26C9",
+        "-age": "5.2",
+        "-na": "TURNED WHITE SHOGI PIECE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26CA",
+        "-age": "5.2",
+        "-na": "TURNED BLACK SHOGI PIECE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26CB",
+        "-age": "5.2",
+        "-na": "WHITE DIAMOND IN SQUARE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26CC",
+        "-age": "5.2",
+        "-na": "CROSSING LANES",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26CD",
+        "-age": "5.2",
+        "-na": "DISABLED CAR",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26CE",
+        "-age": "6.0",
+        "-na": "OPHIUCHUS",
+        "-ea": "W"
+      },
+      {
+        "-cp": "26CF",
+        "-age": "5.2",
+        "-na": "PICK",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26D0",
+        "-age": "5.2",
+        "-na": "CAR SLIDING",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26D1",
+        "-age": "5.2",
+        "-na": "HELMET WITH WHITE CROSS",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26D2",
+        "-age": "5.2",
+        "-na": "CIRCLED CROSSING LANES",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26D3",
+        "-age": "5.2",
+        "-na": "CHAINS",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26D4",
+        "-age": "5.2",
+        "-na": "NO ENTRY",
+        "-ea": "W",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26D5",
+        "-age": "5.2",
+        "-na": "ALTERNATE ONE-WAY LEFT WAY TRAFFIC",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26D6",
+        "-age": "5.2",
+        "-na": "BLACK TWO-WAY LEFT WAY TRAFFIC",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26D7",
+        "-age": "5.2",
+        "-na": "WHITE TWO-WAY LEFT WAY TRAFFIC",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26D8",
+        "-age": "5.2",
+        "-na": "BLACK LEFT LANE MERGE",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26D9",
+        "-age": "5.2",
+        "-na": "WHITE LEFT LANE MERGE",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26DA",
+        "-age": "5.2",
+        "-na": "DRIVE SLOW SIGN",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26DB",
+        "-age": "5.2",
+        "-na": "HEAVY WHITE DOWN-POINTING TRIANGLE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26DC",
+        "-age": "5.2",
+        "-na": "LEFT CLOSED ENTRY",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26DD",
+        "-age": "5.2",
+        "-na": "SQUARED SALTIRE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26DE",
+        "-age": "5.2",
+        "-na": "FALLING DIAGONAL IN WHITE CIRCLE IN BLACK SQUARE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26DF",
+        "-age": "5.2",
+        "-na": "BLACK TRUCK",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26E0",
+        "-age": "5.2",
+        "-na": "RESTRICTED LEFT ENTRY-1",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26E1",
+        "-age": "5.2",
+        "-na": "RESTRICTED LEFT ENTRY-2",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26E2",
+        "-age": "6.0",
+        "-na": "ASTRONOMICAL SYMBOL FOR URANUS"
+      },
+      {
+        "-cp": "26E3",
+        "-age": "5.2",
+        "-na": "HEAVY CIRCLE WITH STROKE AND TWO DOTS ABOVE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26E4",
+        "-age": "6.0",
+        "-na": "PENTAGRAM"
+      },
+      {
+        "-cp": "26E5",
+        "-age": "6.0",
+        "-na": "RIGHT-HANDED INTERLACED PENTAGRAM"
+      },
+      {
+        "-cp": "26E6",
+        "-age": "6.0",
+        "-na": "LEFT-HANDED INTERLACED PENTAGRAM"
+      },
+      {
+        "-cp": "26E7",
+        "-age": "6.0",
+        "-na": "INVERTED PENTAGRAM"
+      },
+      {
+        "-cp": "26E8",
+        "-age": "5.2",
+        "-na": "BLACK CROSS ON SHIELD",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26E9",
+        "-age": "5.2",
+        "-na": "SHINTO SHRINE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26EA",
+        "-age": "5.2",
+        "-na": "CHURCH",
+        "-ea": "W",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26EB",
+        "-age": "5.2",
+        "-na": "CASTLE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26EC",
+        "-age": "5.2",
+        "-na": "HISTORIC SITE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26ED",
+        "-age": "5.2",
+        "-na": "GEAR WITHOUT HUB",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26EE",
+        "-age": "5.2",
+        "-na": "GEAR WITH HANDLES",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26EF",
+        "-age": "5.2",
+        "-na": "MAP SYMBOL FOR LIGHTHOUSE",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26F0",
+        "-age": "5.2",
+        "-na": "MOUNTAIN",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26F1",
+        "-age": "5.2",
+        "-na": "UMBRELLA ON GROUND",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26F2",
+        "-age": "5.2",
+        "-na": "FOUNTAIN",
+        "-ea": "W",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26F3",
+        "-age": "5.2",
+        "-na": "FLAG IN HOLE",
+        "-ea": "W",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26F4",
+        "-age": "5.2",
+        "-na": "FERRY",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26F5",
+        "-age": "5.2",
+        "-na": "SAILBOAT",
+        "-ea": "W",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26F6",
+        "-age": "5.2",
+        "-na": "SQUARE FOUR CORNERS",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26F7",
+        "-age": "5.2",
+        "-na": "SKIER",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26F8",
+        "-age": "5.2",
+        "-na": "ICE SKATE",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26F9",
+        "-age": "5.2",
+        "-na": "PERSON WITH BALL",
+        "-ea": "A",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "26FA",
+        "-age": "5.2",
+        "-na": "TENT",
+        "-ea": "W",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26FB",
+        "-age": "5.2",
+        "-na": "JAPANESE BANK SYMBOL",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26FC",
+        "-age": "5.2",
+        "-na": "HEADSTONE GRAVEYARD SYMBOL",
+        "-ea": "A",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "26FD",
+        "-age": "5.2",
+        "-na": "FUEL PUMP",
+        "-ea": "W",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26FE",
+        "-age": "5.2",
+        "-na": "CUP ON BLACK SQUARE",
+        "-ea": "A",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "26FF",
+        "-age": "5.2",
+        "-na": "WHITE FLAG WITH HORIZONTAL MIDDLE BLACK STRIPE",
+        "-ea": "A",
+        "-lb": "ID"
+      }
+    ]
+  }
+}

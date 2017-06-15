@@ -1,0 +1,454 @@
+{
+  "group": {
+    "-age": "7.0",
+    "-gc": "So",
+    "-ccc": "0",
+    "-dt": "none",
+    "-dm": "#",
+    "-nt": "None",
+    "-nv": "NaN",
+    "-bc": "ON",
+    "-bpt": "n",
+    "-bpb": "#",
+    "-Bidi_M": "N",
+    "-suc": "#",
+    "-slc": "#",
+    "-stc": "#",
+    "-uc": "#",
+    "-lc": "#",
+    "-tc": "#",
+    "-scf": "#",
+    "-cf": "#",
+    "-jt": "U",
+    "-jg": "No_Joining_Group",
+    "-ea": "N",
+    "-lb": "AL",
+    "-sc": "Zyyy",
+    "-scx": "Zyyy",
+    "-Dash": "N",
+    "-WSpace": "N",
+    "-Hyphen": "N",
+    "-QMark": "N",
+    "-Radical": "N",
+    "-Ideo": "N",
+    "-UIdeo": "N",
+    "-IDSB": "N",
+    "-IDST": "N",
+    "-hst": "NA",
+    "-DI": "N",
+    "-ODI": "N",
+    "-Alpha": "N",
+    "-OAlpha": "N",
+    "-Upper": "N",
+    "-OUpper": "N",
+    "-Lower": "N",
+    "-OLower": "N",
+    "-Math": "N",
+    "-OMath": "N",
+    "-Hex": "N",
+    "-AHex": "N",
+    "-NChar": "N",
+    "-VS": "N",
+    "-Bidi_C": "N",
+    "-Join_C": "N",
+    "-Gr_Base": "Y",
+    "-Gr_Ext": "N",
+    "-OGr_Ext": "N",
+    "-Gr_Link": "N",
+    "-STerm": "N",
+    "-Ext": "N",
+    "-Term": "N",
+    "-Dia": "N",
+    "-Dep": "N",
+    "-IDS": "N",
+    "-OIDS": "N",
+    "-XIDS": "N",
+    "-IDC": "N",
+    "-OIDC": "N",
+    "-XIDC": "N",
+    "-SD": "N",
+    "-LOE": "N",
+    "-Pat_WS": "N",
+    "-Pat_Syn": "N",
+    "-GCB": "XX",
+    "-WB": "XX",
+    "-SB": "XX",
+    "-CE": "N",
+    "-Comp_Ex": "N",
+    "-NFC_QC": "Y",
+    "-NFD_QC": "Y",
+    "-NFKC_QC": "Y",
+    "-NFKD_QC": "Y",
+    "-XO_NFC": "N",
+    "-XO_NFD": "N",
+    "-XO_NFKC": "N",
+    "-XO_NFKD": "N",
+    "-FC_NFKC": "#",
+    "-CI": "N",
+    "-Cased": "N",
+    "-CWCF": "N",
+    "-CWCM": "N",
+    "-CWKCF": "N",
+    "-CWL": "N",
+    "-CWT": "N",
+    "-CWU": "N",
+    "-NFKC_CF": "#",
+    "-InSC": "Other",
+    "-InPC": "NA",
+    "-PCM": "N",
+    "-blk": "Geometric_Shapes_Ext",
+    "char": [
+      {
+        "-cp": "1F780",
+        "-na": "BLACK LEFT-POINTING ISOSCELES RIGHT TRIANGLE"
+      },
+      {
+        "-cp": "1F781",
+        "-na": "BLACK UP-POINTING ISOSCELES RIGHT TRIANGLE"
+      },
+      {
+        "-cp": "1F782",
+        "-na": "BLACK RIGHT-POINTING ISOSCELES RIGHT TRIANGLE"
+      },
+      {
+        "-cp": "1F783",
+        "-na": "BLACK DOWN-POINTING ISOSCELES RIGHT TRIANGLE"
+      },
+      {
+        "-cp": "1F784",
+        "-na": "BLACK SLIGHTLY SMALL CIRCLE"
+      },
+      {
+        "-cp": "1F785",
+        "-na": "MEDIUM BOLD WHITE CIRCLE"
+      },
+      {
+        "-cp": "1F786",
+        "-na": "BOLD WHITE CIRCLE"
+      },
+      {
+        "-cp": "1F787",
+        "-na": "HEAVY WHITE CIRCLE"
+      },
+      {
+        "-cp": "1F788",
+        "-na": "VERY HEAVY WHITE CIRCLE"
+      },
+      {
+        "-cp": "1F789",
+        "-na": "EXTREMELY HEAVY WHITE CIRCLE"
+      },
+      {
+        "-cp": "1F78A",
+        "-na": "WHITE CIRCLE CONTAINING BLACK SMALL CIRCLE"
+      },
+      {
+        "-cp": "1F78B",
+        "-na": "ROUND TARGET"
+      },
+      {
+        "-cp": "1F78C",
+        "-na": "BLACK TINY SQUARE"
+      },
+      {
+        "-cp": "1F78D",
+        "-na": "BLACK SLIGHTLY SMALL SQUARE"
+      },
+      {
+        "-cp": "1F78E",
+        "-na": "LIGHT WHITE SQUARE"
+      },
+      {
+        "-cp": "1F78F",
+        "-na": "MEDIUM WHITE SQUARE"
+      },
+      {
+        "-cp": "1F790",
+        "-na": "BOLD WHITE SQUARE"
+      },
+      {
+        "-cp": "1F791",
+        "-na": "HEAVY WHITE SQUARE"
+      },
+      {
+        "-cp": "1F792",
+        "-na": "VERY HEAVY WHITE SQUARE"
+      },
+      {
+        "-cp": "1F793",
+        "-na": "EXTREMELY HEAVY WHITE SQUARE"
+      },
+      {
+        "-cp": "1F794",
+        "-na": "WHITE SQUARE CONTAINING BLACK VERY SMALL SQUARE"
+      },
+      {
+        "-cp": "1F795",
+        "-na": "WHITE SQUARE CONTAINING BLACK MEDIUM SQUARE"
+      },
+      {
+        "-cp": "1F796",
+        "-na": "SQUARE TARGET"
+      },
+      {
+        "-cp": "1F797",
+        "-na": "BLACK TINY DIAMOND"
+      },
+      {
+        "-cp": "1F798",
+        "-na": "BLACK VERY SMALL DIAMOND"
+      },
+      {
+        "-cp": "1F799",
+        "-na": "BLACK MEDIUM SMALL DIAMOND"
+      },
+      {
+        "-cp": "1F79A",
+        "-na": "WHITE DIAMOND CONTAINING BLACK VERY SMALL DIAMOND"
+      },
+      {
+        "-cp": "1F79B",
+        "-na": "WHITE DIAMOND CONTAINING BLACK MEDIUM DIAMOND"
+      },
+      {
+        "-cp": "1F79C",
+        "-na": "DIAMOND TARGET"
+      },
+      {
+        "-cp": "1F79D",
+        "-na": "BLACK TINY LOZENGE"
+      },
+      {
+        "-cp": "1F79E",
+        "-na": "BLACK VERY SMALL LOZENGE"
+      },
+      {
+        "-cp": "1F79F",
+        "-na": "BLACK MEDIUM SMALL LOZENGE"
+      },
+      {
+        "-cp": "1F7A0",
+        "-na": "WHITE LOZENGE CONTAINING BLACK SMALL LOZENGE"
+      },
+      {
+        "-cp": "1F7A1",
+        "-na": "THIN GREEK CROSS"
+      },
+      {
+        "-cp": "1F7A2",
+        "-na": "LIGHT GREEK CROSS"
+      },
+      {
+        "-cp": "1F7A3",
+        "-na": "MEDIUM GREEK CROSS"
+      },
+      {
+        "-cp": "1F7A4",
+        "-na": "BOLD GREEK CROSS"
+      },
+      {
+        "-cp": "1F7A5",
+        "-na": "VERY BOLD GREEK CROSS"
+      },
+      {
+        "-cp": "1F7A6",
+        "-na": "VERY HEAVY GREEK CROSS"
+      },
+      {
+        "-cp": "1F7A7",
+        "-na": "EXTREMELY HEAVY GREEK CROSS"
+      },
+      {
+        "-cp": "1F7A8",
+        "-na": "THIN SALTIRE"
+      },
+      {
+        "-cp": "1F7A9",
+        "-na": "LIGHT SALTIRE"
+      },
+      {
+        "-cp": "1F7AA",
+        "-na": "MEDIUM SALTIRE"
+      },
+      {
+        "-cp": "1F7AB",
+        "-na": "BOLD SALTIRE"
+      },
+      {
+        "-cp": "1F7AC",
+        "-na": "HEAVY SALTIRE"
+      },
+      {
+        "-cp": "1F7AD",
+        "-na": "VERY HEAVY SALTIRE"
+      },
+      {
+        "-cp": "1F7AE",
+        "-na": "EXTREMELY HEAVY SALTIRE"
+      },
+      {
+        "-cp": "1F7AF",
+        "-na": "LIGHT FIVE SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7B0",
+        "-na": "MEDIUM FIVE SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7B1",
+        "-na": "BOLD FIVE SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7B2",
+        "-na": "HEAVY FIVE SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7B3",
+        "-na": "VERY HEAVY FIVE SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7B4",
+        "-na": "EXTREMELY HEAVY FIVE SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7B5",
+        "-na": "LIGHT SIX SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7B6",
+        "-na": "MEDIUM SIX SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7B7",
+        "-na": "BOLD SIX SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7B8",
+        "-na": "HEAVY SIX SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7B9",
+        "-na": "VERY HEAVY SIX SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7BA",
+        "-na": "EXTREMELY HEAVY SIX SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7BB",
+        "-na": "LIGHT EIGHT SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7BC",
+        "-na": "MEDIUM EIGHT SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7BD",
+        "-na": "BOLD EIGHT SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7BE",
+        "-na": "HEAVY EIGHT SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7BF",
+        "-na": "VERY HEAVY EIGHT SPOKED ASTERISK"
+      },
+      {
+        "-cp": "1F7C0",
+        "-na": "LIGHT THREE POINTED BLACK STAR"
+      },
+      {
+        "-cp": "1F7C1",
+        "-na": "MEDIUM THREE POINTED BLACK STAR"
+      },
+      {
+        "-cp": "1F7C2",
+        "-na": "THREE POINTED BLACK STAR"
+      },
+      {
+        "-cp": "1F7C3",
+        "-na": "MEDIUM THREE POINTED PINWHEEL STAR"
+      },
+      {
+        "-cp": "1F7C4",
+        "-na": "LIGHT FOUR POINTED BLACK STAR"
+      },
+      {
+        "-cp": "1F7C5",
+        "-na": "MEDIUM FOUR POINTED BLACK STAR"
+      },
+      {
+        "-cp": "1F7C6",
+        "-na": "FOUR POINTED BLACK STAR"
+      },
+      {
+        "-cp": "1F7C7",
+        "-na": "MEDIUM FOUR POINTED PINWHEEL STAR"
+      },
+      {
+        "-cp": "1F7C8",
+        "-na": "REVERSE LIGHT FOUR POINTED PINWHEEL STAR"
+      },
+      {
+        "-cp": "1F7C9",
+        "-na": "LIGHT FIVE POINTED BLACK STAR"
+      },
+      {
+        "-cp": "1F7CA",
+        "-na": "HEAVY FIVE POINTED BLACK STAR"
+      },
+      {
+        "-cp": "1F7CB",
+        "-na": "MEDIUM SIX POINTED BLACK STAR"
+      },
+      {
+        "-cp": "1F7CC",
+        "-na": "HEAVY SIX POINTED BLACK STAR"
+      },
+      {
+        "-cp": "1F7CD",
+        "-na": "SIX POINTED PINWHEEL STAR"
+      },
+      {
+        "-cp": "1F7CE",
+        "-na": "MEDIUM EIGHT POINTED BLACK STAR"
+      },
+      {
+        "-cp": "1F7CF",
+        "-na": "HEAVY EIGHT POINTED BLACK STAR"
+      },
+      {
+        "-cp": "1F7D0",
+        "-na": "VERY HEAVY EIGHT POINTED BLACK STAR"
+      },
+      {
+        "-cp": "1F7D1",
+        "-na": "HEAVY EIGHT POINTED PINWHEEL STAR"
+      },
+      {
+        "-cp": "1F7D2",
+        "-na": "LIGHT TWELVE POINTED BLACK STAR"
+      },
+      {
+        "-cp": "1F7D3",
+        "-na": "HEAVY TWELVE POINTED BLACK STAR"
+      },
+      {
+        "-cp": "1F7D4",
+        "-na": "HEAVY TWELVE POINTED PINWHEEL STAR"
+      }
+    ],
+    "reserved": {
+      "-first-cp": "1F7D5",
+      "-last-cp": "1F7FF",
+      "-age": "unassigned",
+      "-gc": "Cn",
+      "-bc": "L",
+      "-lb": "ID",
+      "-sc": "Zzzz",
+      "-scx": "Zzzz",
+      "-Gr_Base": "N"
+    }
+  }
+}

@@ -1,0 +1,464 @@
+{
+  "group": {
+    "-age": "6.0",
+    "-gc": "So",
+    "-ccc": "0",
+    "-dt": "none",
+    "-dm": "#",
+    "-nt": "None",
+    "-nv": "NaN",
+    "-bc": "ON",
+    "-bpt": "n",
+    "-bpb": "#",
+    "-Bidi_M": "N",
+    "-suc": "#",
+    "-slc": "#",
+    "-stc": "#",
+    "-uc": "#",
+    "-lc": "#",
+    "-tc": "#",
+    "-scf": "#",
+    "-cf": "#",
+    "-jt": "U",
+    "-jg": "No_Joining_Group",
+    "-ea": "W",
+    "-lb": "ID",
+    "-sc": "Zyyy",
+    "-scx": "Zyyy",
+    "-Dash": "N",
+    "-WSpace": "N",
+    "-Hyphen": "N",
+    "-QMark": "N",
+    "-Radical": "N",
+    "-Ideo": "N",
+    "-UIdeo": "N",
+    "-IDSB": "N",
+    "-IDST": "N",
+    "-hst": "NA",
+    "-DI": "N",
+    "-ODI": "N",
+    "-Alpha": "N",
+    "-OAlpha": "N",
+    "-Upper": "N",
+    "-OUpper": "N",
+    "-Lower": "N",
+    "-OLower": "N",
+    "-Math": "N",
+    "-OMath": "N",
+    "-Hex": "N",
+    "-AHex": "N",
+    "-NChar": "N",
+    "-VS": "N",
+    "-Bidi_C": "N",
+    "-Join_C": "N",
+    "-Gr_Base": "Y",
+    "-Gr_Ext": "N",
+    "-OGr_Ext": "N",
+    "-Gr_Link": "N",
+    "-STerm": "N",
+    "-Ext": "N",
+    "-Term": "N",
+    "-Dia": "N",
+    "-Dep": "N",
+    "-IDS": "N",
+    "-OIDS": "N",
+    "-XIDS": "N",
+    "-IDC": "N",
+    "-OIDC": "N",
+    "-XIDC": "N",
+    "-SD": "N",
+    "-LOE": "N",
+    "-Pat_WS": "N",
+    "-Pat_Syn": "N",
+    "-GCB": "XX",
+    "-WB": "XX",
+    "-SB": "XX",
+    "-CE": "N",
+    "-Comp_Ex": "N",
+    "-NFC_QC": "Y",
+    "-NFD_QC": "Y",
+    "-NFKC_QC": "Y",
+    "-NFKD_QC": "Y",
+    "-XO_NFC": "N",
+    "-XO_NFD": "N",
+    "-XO_NFKC": "N",
+    "-XO_NFKD": "N",
+    "-FC_NFKC": "#",
+    "-CI": "N",
+    "-Cased": "N",
+    "-CWCF": "N",
+    "-CWCM": "N",
+    "-CWKCF": "N",
+    "-CWL": "N",
+    "-CWT": "N",
+    "-CWU": "N",
+    "-NFKC_CF": "#",
+    "-InSC": "Other",
+    "-InPC": "NA",
+    "-PCM": "N",
+    "-blk": "Emoticons",
+    "char": [
+      {
+        "-cp": "1F600",
+        "-age": "6.1",
+        "-na": "GRINNING FACE"
+      },
+      {
+        "-cp": "1F601",
+        "-na": "GRINNING FACE WITH SMILING EYES"
+      },
+      {
+        "-cp": "1F602",
+        "-na": "FACE WITH TEARS OF JOY"
+      },
+      {
+        "-cp": "1F603",
+        "-na": "SMILING FACE WITH OPEN MOUTH"
+      },
+      {
+        "-cp": "1F604",
+        "-na": "SMILING FACE WITH OPEN MOUTH AND SMILING EYES"
+      },
+      {
+        "-cp": "1F605",
+        "-na": "SMILING FACE WITH OPEN MOUTH AND COLD SWEAT"
+      },
+      {
+        "-cp": "1F606",
+        "-na": "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES"
+      },
+      {
+        "-cp": "1F607",
+        "-na": "SMILING FACE WITH HALO"
+      },
+      {
+        "-cp": "1F608",
+        "-na": "SMILING FACE WITH HORNS"
+      },
+      {
+        "-cp": "1F609",
+        "-na": "WINKING FACE"
+      },
+      {
+        "-cp": "1F60A",
+        "-na": "SMILING FACE WITH SMILING EYES"
+      },
+      {
+        "-cp": "1F60B",
+        "-na": "FACE SAVOURING DELICIOUS FOOD"
+      },
+      {
+        "-cp": "1F60C",
+        "-na": "RELIEVED FACE"
+      },
+      {
+        "-cp": "1F60D",
+        "-na": "SMILING FACE WITH HEART-SHAPED EYES"
+      },
+      {
+        "-cp": "1F60E",
+        "-na": "SMILING FACE WITH SUNGLASSES"
+      },
+      {
+        "-cp": "1F60F",
+        "-na": "SMIRKING FACE"
+      },
+      {
+        "-cp": "1F610",
+        "-na": "NEUTRAL FACE"
+      },
+      {
+        "-cp": "1F611",
+        "-age": "6.1",
+        "-na": "EXPRESSIONLESS FACE"
+      },
+      {
+        "-cp": "1F612",
+        "-na": "UNAMUSED FACE"
+      },
+      {
+        "-cp": "1F613",
+        "-na": "FACE WITH COLD SWEAT"
+      },
+      {
+        "-cp": "1F614",
+        "-na": "PENSIVE FACE"
+      },
+      {
+        "-cp": "1F615",
+        "-age": "6.1",
+        "-na": "CONFUSED FACE"
+      },
+      {
+        "-cp": "1F616",
+        "-na": "CONFOUNDED FACE"
+      },
+      {
+        "-cp": "1F617",
+        "-age": "6.1",
+        "-na": "KISSING FACE"
+      },
+      {
+        "-cp": "1F618",
+        "-na": "FACE THROWING A KISS"
+      },
+      {
+        "-cp": "1F619",
+        "-age": "6.1",
+        "-na": "KISSING FACE WITH SMILING EYES"
+      },
+      {
+        "-cp": "1F61A",
+        "-na": "KISSING FACE WITH CLOSED EYES"
+      },
+      {
+        "-cp": "1F61B",
+        "-age": "6.1",
+        "-na": "FACE WITH STUCK-OUT TONGUE"
+      },
+      {
+        "-cp": "1F61C",
+        "-na": "FACE WITH STUCK-OUT TONGUE AND WINKING EYE"
+      },
+      {
+        "-cp": "1F61D",
+        "-na": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES"
+      },
+      {
+        "-cp": "1F61E",
+        "-na": "DISAPPOINTED FACE"
+      },
+      {
+        "-cp": "1F61F",
+        "-age": "6.1",
+        "-na": "WORRIED FACE"
+      },
+      {
+        "-cp": "1F620",
+        "-na": "ANGRY FACE"
+      },
+      {
+        "-cp": "1F621",
+        "-na": "POUTING FACE"
+      },
+      {
+        "-cp": "1F622",
+        "-na": "CRYING FACE"
+      },
+      {
+        "-cp": "1F623",
+        "-na": "PERSEVERING FACE"
+      },
+      {
+        "-cp": "1F624",
+        "-na": "FACE WITH LOOK OF TRIUMPH"
+      },
+      {
+        "-cp": "1F625",
+        "-na": "DISAPPOINTED BUT RELIEVED FACE"
+      },
+      {
+        "-cp": "1F626",
+        "-age": "6.1",
+        "-na": "FROWNING FACE WITH OPEN MOUTH"
+      },
+      {
+        "-cp": "1F627",
+        "-age": "6.1",
+        "-na": "ANGUISHED FACE"
+      },
+      {
+        "-cp": "1F628",
+        "-na": "FEARFUL FACE"
+      },
+      {
+        "-cp": "1F629",
+        "-na": "WEARY FACE"
+      },
+      {
+        "-cp": "1F62A",
+        "-na": "SLEEPY FACE"
+      },
+      {
+        "-cp": "1F62B",
+        "-na": "TIRED FACE"
+      },
+      {
+        "-cp": "1F62C",
+        "-age": "6.1",
+        "-na": "GRIMACING FACE"
+      },
+      {
+        "-cp": "1F62D",
+        "-na": "LOUDLY CRYING FACE"
+      },
+      {
+        "-cp": "1F62E",
+        "-age": "6.1",
+        "-na": "FACE WITH OPEN MOUTH"
+      },
+      {
+        "-cp": "1F62F",
+        "-age": "6.1",
+        "-na": "HUSHED FACE"
+      },
+      {
+        "-cp": "1F630",
+        "-na": "FACE WITH OPEN MOUTH AND COLD SWEAT"
+      },
+      {
+        "-cp": "1F631",
+        "-na": "FACE SCREAMING IN FEAR"
+      },
+      {
+        "-cp": "1F632",
+        "-na": "ASTONISHED FACE"
+      },
+      {
+        "-cp": "1F633",
+        "-na": "FLUSHED FACE"
+      },
+      {
+        "-cp": "1F634",
+        "-age": "6.1",
+        "-na": "SLEEPING FACE"
+      },
+      {
+        "-cp": "1F635",
+        "-na": "DIZZY FACE"
+      },
+      {
+        "-cp": "1F636",
+        "-na": "FACE WITHOUT MOUTH"
+      },
+      {
+        "-cp": "1F637",
+        "-na": "FACE WITH MEDICAL MASK"
+      },
+      {
+        "-cp": "1F638",
+        "-na": "GRINNING CAT FACE WITH SMILING EYES"
+      },
+      {
+        "-cp": "1F639",
+        "-na": "CAT FACE WITH TEARS OF JOY"
+      },
+      {
+        "-cp": "1F63A",
+        "-na": "SMILING CAT FACE WITH OPEN MOUTH"
+      },
+      {
+        "-cp": "1F63B",
+        "-na": "SMILING CAT FACE WITH HEART-SHAPED EYES"
+      },
+      {
+        "-cp": "1F63C",
+        "-na": "CAT FACE WITH WRY SMILE"
+      },
+      {
+        "-cp": "1F63D",
+        "-na": "KISSING CAT FACE WITH CLOSED EYES"
+      },
+      {
+        "-cp": "1F63E",
+        "-na": "POUTING CAT FACE"
+      },
+      {
+        "-cp": "1F63F",
+        "-na": "CRYING CAT FACE"
+      },
+      {
+        "-cp": "1F640",
+        "-na": "WEARY CAT FACE"
+      },
+      {
+        "-cp": "1F641",
+        "-age": "7.0",
+        "-na": "SLIGHTLY FROWNING FACE"
+      },
+      {
+        "-cp": "1F642",
+        "-age": "7.0",
+        "-na": "SLIGHTLY SMILING FACE"
+      },
+      {
+        "-cp": "1F643",
+        "-age": "8.0",
+        "-na": "UPSIDE-DOWN FACE"
+      },
+      {
+        "-cp": "1F644",
+        "-age": "8.0",
+        "-na": "FACE WITH ROLLING EYES"
+      },
+      {
+        "-cp": "1F645",
+        "-na": "FACE WITH NO GOOD GESTURE",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F646",
+        "-na": "FACE WITH OK GESTURE",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F647",
+        "-na": "PERSON BOWING DEEPLY",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F648",
+        "-na": "SEE-NO-EVIL MONKEY"
+      },
+      {
+        "-cp": "1F649",
+        "-na": "HEAR-NO-EVIL MONKEY"
+      },
+      {
+        "-cp": "1F64A",
+        "-na": "SPEAK-NO-EVIL MONKEY"
+      },
+      {
+        "-cp": "1F64B",
+        "-na": "HAPPY PERSON RAISING ONE HAND",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F64C",
+        "-na": "PERSON RAISING BOTH HANDS IN CELEBRATION",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F64D",
+        "-na": "PERSON FROWNING",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F64E",
+        "-na": "PERSON WITH POUTING FACE",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F64F",
+        "-na": "PERSON WITH FOLDED HANDS",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      }
+    ]
+  }
+}

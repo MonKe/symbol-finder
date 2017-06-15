@@ -1,0 +1,1290 @@
+{
+  "group": {
+    "-age": "1.1",
+    "-gc": "So",
+    "-ccc": "0",
+    "-dt": "none",
+    "-dm": "#",
+    "-nt": "None",
+    "-nv": "NaN",
+    "-bc": "ON",
+    "-bpt": "n",
+    "-bpb": "#",
+    "-Bidi_M": "N",
+    "-suc": "#",
+    "-slc": "#",
+    "-stc": "#",
+    "-uc": "#",
+    "-lc": "#",
+    "-tc": "#",
+    "-scf": "#",
+    "-cf": "#",
+    "-jt": "U",
+    "-jg": "No_Joining_Group",
+    "-ea": "N",
+    "-lb": "AL",
+    "-sc": "Zyyy",
+    "-scx": "Zyyy",
+    "-Dash": "N",
+    "-WSpace": "N",
+    "-Hyphen": "N",
+    "-QMark": "N",
+    "-Radical": "N",
+    "-Ideo": "N",
+    "-UIdeo": "N",
+    "-IDSB": "N",
+    "-IDST": "N",
+    "-hst": "NA",
+    "-DI": "N",
+    "-ODI": "N",
+    "-Alpha": "N",
+    "-OAlpha": "N",
+    "-Upper": "N",
+    "-OUpper": "N",
+    "-Lower": "N",
+    "-OLower": "N",
+    "-Math": "N",
+    "-OMath": "N",
+    "-Hex": "N",
+    "-AHex": "N",
+    "-NChar": "N",
+    "-VS": "N",
+    "-Bidi_C": "N",
+    "-Join_C": "N",
+    "-Gr_Base": "Y",
+    "-Gr_Ext": "N",
+    "-OGr_Ext": "N",
+    "-Gr_Link": "N",
+    "-STerm": "N",
+    "-Ext": "N",
+    "-Term": "N",
+    "-Dia": "N",
+    "-Dep": "N",
+    "-IDS": "N",
+    "-OIDS": "N",
+    "-XIDS": "N",
+    "-IDC": "N",
+    "-OIDC": "N",
+    "-XIDC": "N",
+    "-SD": "N",
+    "-LOE": "N",
+    "-Pat_WS": "N",
+    "-Pat_Syn": "Y",
+    "-GCB": "XX",
+    "-WB": "XX",
+    "-SB": "XX",
+    "-CE": "N",
+    "-Comp_Ex": "N",
+    "-NFC_QC": "Y",
+    "-NFD_QC": "Y",
+    "-NFKC_QC": "Y",
+    "-NFKD_QC": "Y",
+    "-XO_NFC": "N",
+    "-XO_NFD": "N",
+    "-XO_NFKC": "N",
+    "-XO_NFKD": "N",
+    "-FC_NFKC": "#",
+    "-CI": "N",
+    "-Cased": "N",
+    "-CWCF": "N",
+    "-CWCM": "N",
+    "-CWKCF": "N",
+    "-CWL": "N",
+    "-CWT": "N",
+    "-CWU": "N",
+    "-NFKC_CF": "#",
+    "-InSC": "Other",
+    "-InPC": "NA",
+    "-PCM": "N",
+    "-blk": "Dingbats",
+    "char": [
+      {
+        "-cp": "2700",
+        "-age": "7.0",
+        "-na": "BLACK SAFETY SCISSORS",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "2701",
+        "-na": "UPPER BLADE SCISSORS",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "2702",
+        "-na": "BLACK SCISSORS",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "2703",
+        "-na": "LOWER BLADE SCISSORS",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "2704",
+        "-na": "WHITE SCISSORS",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "2705",
+        "-age": "6.0",
+        "-na": "WHITE HEAVY CHECK MARK",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2706",
+        "-na": "TELEPHONE LOCATION SIGN"
+      },
+      {
+        "-cp": "2707",
+        "-na": "TAPE DRIVE"
+      },
+      {
+        "-cp": "2708",
+        "-na": "AIRPLANE",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "2709",
+        "-na": "ENVELOPE",
+        "-lb": "ID"
+      },
+      {
+        "-cp": "270A",
+        "-age": "6.0",
+        "-na": "RAISED FIST",
+        "-ea": "W",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "270B",
+        "-age": "6.0",
+        "-na": "RAISED HAND",
+        "-ea": "W",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "270C",
+        "-na": "VICTORY HAND",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "270D",
+        "-na": "WRITING HAND",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "270E",
+        "-na": "LOWER RIGHT PENCIL"
+      },
+      {
+        "-cp": "270F",
+        "-na": "PENCIL"
+      },
+      {
+        "-cp": "2710",
+        "-na": "UPPER RIGHT PENCIL"
+      },
+      {
+        "-cp": "2711",
+        "-na": "WHITE NIB"
+      },
+      {
+        "-cp": "2712",
+        "-na": "BLACK NIB"
+      },
+      {
+        "-cp": "2713",
+        "-na": "CHECK MARK"
+      },
+      {
+        "-cp": "2714",
+        "-na": "HEAVY CHECK MARK"
+      },
+      {
+        "-cp": "2715",
+        "-na": "MULTIPLICATION X"
+      },
+      {
+        "-cp": "2716",
+        "-na": "HEAVY MULTIPLICATION X"
+      },
+      {
+        "-cp": "2717",
+        "-na": "BALLOT X"
+      },
+      {
+        "-cp": "2718",
+        "-na": "HEAVY BALLOT X"
+      },
+      {
+        "-cp": "2719",
+        "-na": "OUTLINED GREEK CROSS"
+      },
+      {
+        "-cp": "271A",
+        "-na": "HEAVY GREEK CROSS"
+      },
+      {
+        "-cp": "271B",
+        "-na": "OPEN CENTRE CROSS",
+        "-na1": "OPEN CENTER CROSS"
+      },
+      {
+        "-cp": "271C",
+        "-na": "HEAVY OPEN CENTRE CROSS",
+        "-na1": "HEAVY OPEN CENTER CROSS"
+      },
+      {
+        "-cp": "271D",
+        "-na": "LATIN CROSS"
+      },
+      {
+        "-cp": "271E",
+        "-na": "SHADOWED WHITE LATIN CROSS"
+      },
+      {
+        "-cp": "271F",
+        "-na": "OUTLINED LATIN CROSS"
+      },
+      {
+        "-cp": "2720",
+        "-na": "MALTESE CROSS"
+      },
+      {
+        "-cp": "2721",
+        "-na": "STAR OF DAVID"
+      },
+      {
+        "-cp": "2722",
+        "-na": "FOUR TEARDROP-SPOKED ASTERISK"
+      },
+      {
+        "-cp": "2723",
+        "-na": "FOUR BALLOON-SPOKED ASTERISK"
+      },
+      {
+        "-cp": "2724",
+        "-na": "HEAVY FOUR BALLOON-SPOKED ASTERISK"
+      },
+      {
+        "-cp": "2725",
+        "-na": "FOUR CLUB-SPOKED ASTERISK"
+      },
+      {
+        "-cp": "2726",
+        "-na": "BLACK FOUR POINTED STAR"
+      },
+      {
+        "-cp": "2727",
+        "-na": "WHITE FOUR POINTED STAR"
+      },
+      {
+        "-cp": "2728",
+        "-age": "6.0",
+        "-na": "SPARKLES",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2729",
+        "-na": "STRESS OUTLINED WHITE STAR"
+      },
+      {
+        "-cp": "272A",
+        "-na": "CIRCLED WHITE STAR"
+      },
+      {
+        "-cp": "272B",
+        "-na": "OPEN CENTRE BLACK STAR",
+        "-na1": "OPEN CENTER BLACK STAR"
+      },
+      {
+        "-cp": "272C",
+        "-na": "BLACK CENTRE WHITE STAR",
+        "-na1": "BLACK CENTER WHITE STAR"
+      },
+      {
+        "-cp": "272D",
+        "-na": "OUTLINED BLACK STAR"
+      },
+      {
+        "-cp": "272E",
+        "-na": "HEAVY OUTLINED BLACK STAR"
+      },
+      {
+        "-cp": "272F",
+        "-na": "PINWHEEL STAR"
+      },
+      {
+        "-cp": "2730",
+        "-na": "SHADOWED WHITE STAR"
+      },
+      {
+        "-cp": "2731",
+        "-na": "HEAVY ASTERISK"
+      },
+      {
+        "-cp": "2732",
+        "-na": "OPEN CENTRE ASTERISK",
+        "-na1": "OPEN CENTER ASTERISK"
+      },
+      {
+        "-cp": "2733",
+        "-na": "EIGHT SPOKED ASTERISK"
+      },
+      {
+        "-cp": "2734",
+        "-na": "EIGHT POINTED BLACK STAR"
+      },
+      {
+        "-cp": "2735",
+        "-na": "EIGHT POINTED PINWHEEL STAR"
+      },
+      {
+        "-cp": "2736",
+        "-na": "SIX POINTED BLACK STAR"
+      },
+      {
+        "-cp": "2737",
+        "-na": "EIGHT POINTED RECTILINEAR BLACK STAR"
+      },
+      {
+        "-cp": "2738",
+        "-na": "HEAVY EIGHT POINTED RECTILINEAR BLACK STAR"
+      },
+      {
+        "-cp": "2739",
+        "-na": "TWELVE POINTED BLACK STAR"
+      },
+      {
+        "-cp": "273A",
+        "-na": "SIXTEEN POINTED ASTERISK"
+      },
+      {
+        "-cp": "273B",
+        "-na": "TEARDROP-SPOKED ASTERISK"
+      },
+      {
+        "-cp": "273C",
+        "-na": "OPEN CENTRE TEARDROP-SPOKED ASTERISK",
+        "-na1": "OPEN CENTER TEARDROP-SPOKED ASTERISK"
+      },
+      {
+        "-cp": "273D",
+        "-na": "HEAVY TEARDROP-SPOKED ASTERISK",
+        "-ea": "A"
+      },
+      {
+        "-cp": "273E",
+        "-na": "SIX PETALLED BLACK AND WHITE FLORETTE"
+      },
+      {
+        "-cp": "273F",
+        "-na": "BLACK FLORETTE"
+      },
+      {
+        "-cp": "2740",
+        "-na": "WHITE FLORETTE"
+      },
+      {
+        "-cp": "2741",
+        "-na": "EIGHT PETALLED OUTLINED BLACK FLORETTE"
+      },
+      {
+        "-cp": "2742",
+        "-na": "CIRCLED OPEN CENTRE EIGHT POINTED STAR",
+        "-na1": "CIRCLED OPEN CENTER EIGHT POINTED STAR"
+      },
+      {
+        "-cp": "2743",
+        "-na": "HEAVY TEARDROP-SPOKED PINWHEEL ASTERISK"
+      },
+      {
+        "-cp": "2744",
+        "-na": "SNOWFLAKE"
+      },
+      {
+        "-cp": "2745",
+        "-na": "TIGHT TRIFOLIATE SNOWFLAKE"
+      },
+      {
+        "-cp": "2746",
+        "-na": "HEAVY CHEVRON SNOWFLAKE"
+      },
+      {
+        "-cp": "2747",
+        "-na": "SPARKLE"
+      },
+      {
+        "-cp": "2748",
+        "-na": "HEAVY SPARKLE"
+      },
+      {
+        "-cp": "2749",
+        "-na": "BALLOON-SPOKED ASTERISK"
+      },
+      {
+        "-cp": "274A",
+        "-na": "EIGHT TEARDROP-SPOKED PROPELLER ASTERISK"
+      },
+      {
+        "-cp": "274B",
+        "-na": "HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK"
+      },
+      {
+        "-cp": "274C",
+        "-age": "6.0",
+        "-na": "CROSS MARK",
+        "-ea": "W"
+      },
+      {
+        "-cp": "274D",
+        "-na": "SHADOWED WHITE CIRCLE"
+      },
+      {
+        "-cp": "274E",
+        "-age": "6.0",
+        "-na": "NEGATIVE SQUARED CROSS MARK",
+        "-ea": "W"
+      },
+      {
+        "-cp": "274F",
+        "-na": "LOWER RIGHT DROP-SHADOWED WHITE SQUARE"
+      },
+      {
+        "-cp": "2750",
+        "-na": "UPPER RIGHT DROP-SHADOWED WHITE SQUARE"
+      },
+      {
+        "-cp": "2751",
+        "-na": "LOWER RIGHT SHADOWED WHITE SQUARE"
+      },
+      {
+        "-cp": "2752",
+        "-na": "UPPER RIGHT SHADOWED WHITE SQUARE"
+      },
+      {
+        "-cp": "2753",
+        "-age": "6.0",
+        "-na": "BLACK QUESTION MARK ORNAMENT",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2754",
+        "-age": "6.0",
+        "-na": "WHITE QUESTION MARK ORNAMENT",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2755",
+        "-age": "6.0",
+        "-na": "WHITE EXCLAMATION MARK ORNAMENT",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2756",
+        "-na": "BLACK DIAMOND MINUS WHITE X"
+      },
+      {
+        "-cp": "2757",
+        "-age": "5.2",
+        "-na": "HEAVY EXCLAMATION MARK SYMBOL",
+        "-ea": "W",
+        "-lb": "AI"
+      },
+      {
+        "-cp": "2758",
+        "-na": "LIGHT VERTICAL BAR"
+      },
+      {
+        "-cp": "2759",
+        "-na": "MEDIUM VERTICAL BAR"
+      },
+      {
+        "-cp": "275A",
+        "-na": "HEAVY VERTICAL BAR"
+      },
+      {
+        "-cp": "275B",
+        "-na": "HEAVY SINGLE TURNED COMMA QUOTATION MARK ORNAMENT",
+        "-lb": "QU",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "275C",
+        "-na": "HEAVY SINGLE COMMA QUOTATION MARK ORNAMENT",
+        "-lb": "QU",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "275D",
+        "-na": "HEAVY DOUBLE TURNED COMMA QUOTATION MARK ORNAMENT",
+        "-lb": "QU",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "275E",
+        "-na": "HEAVY DOUBLE COMMA QUOTATION MARK ORNAMENT",
+        "-lb": "QU",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "275F",
+        "-age": "6.0",
+        "-na": "HEAVY LOW SINGLE COMMA QUOTATION MARK ORNAMENT",
+        "-lb": "QU",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "2760",
+        "-age": "6.0",
+        "-na": "HEAVY LOW DOUBLE COMMA QUOTATION MARK ORNAMENT",
+        "-lb": "QU",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "2761",
+        "-na": "CURVED STEM PARAGRAPH SIGN ORNAMENT"
+      },
+      {
+        "-cp": "2762",
+        "-na": "HEAVY EXCLAMATION MARK ORNAMENT",
+        "-lb": "EX"
+      },
+      {
+        "-cp": "2763",
+        "-na": "HEAVY HEART EXCLAMATION MARK ORNAMENT",
+        "-lb": "EX"
+      },
+      {
+        "-cp": "2764",
+        "-na": "HEAVY BLACK HEART",
+        "-lb": "ID",
+        "-GCB": "GAZ",
+        "-WB": "GAZ"
+      },
+      {
+        "-cp": "2765",
+        "-na": "ROTATED HEAVY BLACK HEART BULLET"
+      },
+      {
+        "-cp": "2766",
+        "-na": "FLORAL HEART"
+      },
+      {
+        "-cp": "2767",
+        "-na": "ROTATED FLORAL HEART BULLET"
+      },
+      {
+        "-cp": "2768",
+        "-age": "3.2",
+        "-na": "MEDIUM LEFT PARENTHESIS ORNAMENT",
+        "-gc": "Ps",
+        "-bpt": "o",
+        "-bpb": "2769",
+        "-Bidi_M": "Y",
+        "-bmg": "2769",
+        "-lb": "OP",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "2769",
+        "-age": "3.2",
+        "-na": "MEDIUM RIGHT PARENTHESIS ORNAMENT",
+        "-gc": "Pe",
+        "-bpt": "c",
+        "-bpb": "2768",
+        "-Bidi_M": "Y",
+        "-bmg": "2768",
+        "-lb": "CL",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "276A",
+        "-age": "3.2",
+        "-na": "MEDIUM FLATTENED LEFT PARENTHESIS ORNAMENT",
+        "-gc": "Ps",
+        "-bpt": "o",
+        "-bpb": "276B",
+        "-Bidi_M": "Y",
+        "-bmg": "276B",
+        "-lb": "OP",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "276B",
+        "-age": "3.2",
+        "-na": "MEDIUM FLATTENED RIGHT PARENTHESIS ORNAMENT",
+        "-gc": "Pe",
+        "-bpt": "c",
+        "-bpb": "276A",
+        "-Bidi_M": "Y",
+        "-bmg": "276A",
+        "-lb": "CL",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "276C",
+        "-age": "3.2",
+        "-na": "MEDIUM LEFT-POINTING ANGLE BRACKET ORNAMENT",
+        "-gc": "Ps",
+        "-bpt": "o",
+        "-bpb": "276D",
+        "-Bidi_M": "Y",
+        "-bmg": "276D",
+        "-lb": "OP",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "276D",
+        "-age": "3.2",
+        "-na": "MEDIUM RIGHT-POINTING ANGLE BRACKET ORNAMENT",
+        "-gc": "Pe",
+        "-bpt": "c",
+        "-bpb": "276C",
+        "-Bidi_M": "Y",
+        "-bmg": "276C",
+        "-lb": "CL",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "276E",
+        "-age": "3.2",
+        "-na": "HEAVY LEFT-POINTING ANGLE QUOTATION MARK ORNAMENT",
+        "-gc": "Ps",
+        "-bpt": "o",
+        "-bpb": "276F",
+        "-Bidi_M": "Y",
+        "-bmg": "276F",
+        "-lb": "OP",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "276F",
+        "-age": "3.2",
+        "-na": "HEAVY RIGHT-POINTING ANGLE QUOTATION MARK ORNAMENT",
+        "-gc": "Pe",
+        "-bpt": "c",
+        "-bpb": "276E",
+        "-Bidi_M": "Y",
+        "-bmg": "276E",
+        "-lb": "CL",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "2770",
+        "-age": "3.2",
+        "-na": "HEAVY LEFT-POINTING ANGLE BRACKET ORNAMENT",
+        "-gc": "Ps",
+        "-bpt": "o",
+        "-bpb": "2771",
+        "-Bidi_M": "Y",
+        "-bmg": "2771",
+        "-lb": "OP",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "2771",
+        "-age": "3.2",
+        "-na": "HEAVY RIGHT-POINTING ANGLE BRACKET ORNAMENT",
+        "-gc": "Pe",
+        "-bpt": "c",
+        "-bpb": "2770",
+        "-Bidi_M": "Y",
+        "-bmg": "2770",
+        "-lb": "CL",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "2772",
+        "-age": "3.2",
+        "-na": "LIGHT LEFT TORTOISE SHELL BRACKET ORNAMENT",
+        "-gc": "Ps",
+        "-bpt": "o",
+        "-bpb": "2773",
+        "-Bidi_M": "Y",
+        "-bmg": "2773",
+        "-lb": "OP",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "2773",
+        "-age": "3.2",
+        "-na": "LIGHT RIGHT TORTOISE SHELL BRACKET ORNAMENT",
+        "-gc": "Pe",
+        "-bpt": "c",
+        "-bpb": "2772",
+        "-Bidi_M": "Y",
+        "-bmg": "2772",
+        "-lb": "CL",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "2774",
+        "-age": "3.2",
+        "-na": "MEDIUM LEFT CURLY BRACKET ORNAMENT",
+        "-gc": "Ps",
+        "-bpt": "o",
+        "-bpb": "2775",
+        "-Bidi_M": "Y",
+        "-bmg": "2775",
+        "-lb": "OP",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "2775",
+        "-age": "3.2",
+        "-na": "MEDIUM RIGHT CURLY BRACKET ORNAMENT",
+        "-gc": "Pe",
+        "-bpt": "c",
+        "-bpb": "2774",
+        "-Bidi_M": "Y",
+        "-bmg": "2774",
+        "-lb": "CL",
+        "-SB": "CL"
+      },
+      {
+        "-cp": "2776",
+        "-na": "DINGBAT NEGATIVE CIRCLED DIGIT ONE",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "1",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED DIGIT ONE"
+      },
+      {
+        "-cp": "2777",
+        "-na": "DINGBAT NEGATIVE CIRCLED DIGIT TWO",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "2",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED DIGIT TWO"
+      },
+      {
+        "-cp": "2778",
+        "-na": "DINGBAT NEGATIVE CIRCLED DIGIT THREE",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "3",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED DIGIT THREE"
+      },
+      {
+        "-cp": "2779",
+        "-na": "DINGBAT NEGATIVE CIRCLED DIGIT FOUR",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "4",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED DIGIT FOUR"
+      },
+      {
+        "-cp": "277A",
+        "-na": "DINGBAT NEGATIVE CIRCLED DIGIT FIVE",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "5",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED DIGIT FIVE"
+      },
+      {
+        "-cp": "277B",
+        "-na": "DINGBAT NEGATIVE CIRCLED DIGIT SIX",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "6",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED DIGIT SIX"
+      },
+      {
+        "-cp": "277C",
+        "-na": "DINGBAT NEGATIVE CIRCLED DIGIT SEVEN",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "7",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED DIGIT SEVEN"
+      },
+      {
+        "-cp": "277D",
+        "-na": "DINGBAT NEGATIVE CIRCLED DIGIT EIGHT",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "8",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED DIGIT EIGHT"
+      },
+      {
+        "-cp": "277E",
+        "-na": "DINGBAT NEGATIVE CIRCLED DIGIT NINE",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "9",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED DIGIT NINE"
+      },
+      {
+        "-cp": "277F",
+        "-na": "DINGBAT NEGATIVE CIRCLED NUMBER TEN",
+        "-gc": "No",
+        "-nt": "Nu",
+        "-nv": "10",
+        "-ea": "A",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED NUMBER TEN"
+      },
+      {
+        "-cp": "2780",
+        "-na": "DINGBAT CIRCLED SANS-SERIF DIGIT ONE",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "1",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "CIRCLED SANS-SERIF DIGIT ONE"
+      },
+      {
+        "-cp": "2781",
+        "-na": "DINGBAT CIRCLED SANS-SERIF DIGIT TWO",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "2",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "CIRCLED SANS-SERIF DIGIT TWO"
+      },
+      {
+        "-cp": "2782",
+        "-na": "DINGBAT CIRCLED SANS-SERIF DIGIT THREE",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "3",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "CIRCLED SANS-SERIF DIGIT THREE"
+      },
+      {
+        "-cp": "2783",
+        "-na": "DINGBAT CIRCLED SANS-SERIF DIGIT FOUR",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "4",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "CIRCLED SANS-SERIF DIGIT FOUR"
+      },
+      {
+        "-cp": "2784",
+        "-na": "DINGBAT CIRCLED SANS-SERIF DIGIT FIVE",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "5",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "CIRCLED SANS-SERIF DIGIT FIVE"
+      },
+      {
+        "-cp": "2785",
+        "-na": "DINGBAT CIRCLED SANS-SERIF DIGIT SIX",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "6",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "CIRCLED SANS-SERIF DIGIT SIX"
+      },
+      {
+        "-cp": "2786",
+        "-na": "DINGBAT CIRCLED SANS-SERIF DIGIT SEVEN",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "7",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "CIRCLED SANS-SERIF DIGIT SEVEN"
+      },
+      {
+        "-cp": "2787",
+        "-na": "DINGBAT CIRCLED SANS-SERIF DIGIT EIGHT",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "8",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "CIRCLED SANS-SERIF DIGIT EIGHT"
+      },
+      {
+        "-cp": "2788",
+        "-na": "DINGBAT CIRCLED SANS-SERIF DIGIT NINE",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "9",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "CIRCLED SANS-SERIF DIGIT NINE"
+      },
+      {
+        "-cp": "2789",
+        "-na": "DINGBAT CIRCLED SANS-SERIF NUMBER TEN",
+        "-gc": "No",
+        "-nt": "Nu",
+        "-nv": "10",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "CIRCLED SANS-SERIF NUMBER TEN"
+      },
+      {
+        "-cp": "278A",
+        "-na": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ONE",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "1",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED SANS-SERIF DIGIT ONE"
+      },
+      {
+        "-cp": "278B",
+        "-na": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT TWO",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "2",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED SANS-SERIF DIGIT TWO"
+      },
+      {
+        "-cp": "278C",
+        "-na": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT THREE",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "3",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED SANS-SERIF DIGIT THREE"
+      },
+      {
+        "-cp": "278D",
+        "-na": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FOUR",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "4",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED SANS-SERIF DIGIT FOUR"
+      },
+      {
+        "-cp": "278E",
+        "-na": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FIVE",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "5",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED SANS-SERIF DIGIT FIVE"
+      },
+      {
+        "-cp": "278F",
+        "-na": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SIX",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "6",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED SANS-SERIF DIGIT SIX"
+      },
+      {
+        "-cp": "2790",
+        "-na": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SEVEN",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "7",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED SANS-SERIF DIGIT SEVEN"
+      },
+      {
+        "-cp": "2791",
+        "-na": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT EIGHT",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "8",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED SANS-SERIF DIGIT EIGHT"
+      },
+      {
+        "-cp": "2792",
+        "-na": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT NINE",
+        "-gc": "No",
+        "-nt": "Di",
+        "-nv": "9",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED SANS-SERIF DIGIT NINE"
+      },
+      {
+        "-cp": "2793",
+        "-na": "DINGBAT NEGATIVE CIRCLED SANS-SERIF NUMBER TEN",
+        "-gc": "No",
+        "-nt": "Nu",
+        "-nv": "10",
+        "-lb": "AI",
+        "-Pat_Syn": "N",
+        "-na1": "INVERSE CIRCLED SANS-SERIF NUMBER TEN"
+      },
+      {
+        "-cp": "2794",
+        "-na": "HEAVY WIDE-HEADED RIGHTWARDS ARROW",
+        "-na1": "HEAVY WIDE-HEADED RIGHT ARROW"
+      },
+      {
+        "-cp": "2795",
+        "-age": "6.0",
+        "-na": "HEAVY PLUS SIGN",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2796",
+        "-age": "6.0",
+        "-na": "HEAVY MINUS SIGN",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2797",
+        "-age": "6.0",
+        "-na": "HEAVY DIVISION SIGN",
+        "-ea": "W"
+      },
+      {
+        "-cp": "2798",
+        "-na": "HEAVY SOUTH EAST ARROW",
+        "-na1": "HEAVY LOWER RIGHT ARROW"
+      },
+      {
+        "-cp": "2799",
+        "-na": "HEAVY RIGHTWARDS ARROW",
+        "-na1": "HEAVY RIGHT ARROW"
+      },
+      {
+        "-cp": "279A",
+        "-na": "HEAVY NORTH EAST ARROW",
+        "-na1": "HEAVY UPPER RIGHT ARROW"
+      },
+      {
+        "-cp": "279B",
+        "-na": "DRAFTING POINT RIGHTWARDS ARROW",
+        "-na1": "DRAFTING POINT RIGHT ARROW"
+      },
+      {
+        "-cp": "279C",
+        "-na": "HEAVY ROUND-TIPPED RIGHTWARDS ARROW",
+        "-na1": "HEAVY ROUND-TIPPED RIGHT ARROW"
+      },
+      {
+        "-cp": "279D",
+        "-na": "TRIANGLE-HEADED RIGHTWARDS ARROW",
+        "-na1": "TRIANGLE-HEADED RIGHT ARROW"
+      },
+      {
+        "-cp": "279E",
+        "-na": "HEAVY TRIANGLE-HEADED RIGHTWARDS ARROW",
+        "-na1": "HEAVY TRIANGLE-HEADED RIGHT ARROW"
+      },
+      {
+        "-cp": "279F",
+        "-na": "DASHED TRIANGLE-HEADED RIGHTWARDS ARROW",
+        "-na1": "DASHED TRIANGLE-HEADED RIGHT ARROW"
+      },
+      {
+        "-cp": "27A0",
+        "-na": "HEAVY DASHED TRIANGLE-HEADED RIGHTWARDS ARROW",
+        "-na1": "HEAVY DASHED TRIANGLE-HEADED RIGHT ARROW"
+      },
+      {
+        "-cp": "27A1",
+        "-na": "BLACK RIGHTWARDS ARROW",
+        "-na1": "BLACK RIGHT ARROW"
+      },
+      {
+        "-cp": "27A2",
+        "-na": "THREE-D TOP-LIGHTED RIGHTWARDS ARROWHEAD",
+        "-na1": "THREE-D TOP-LIGHTED RIGHT ARROWHEAD"
+      },
+      {
+        "-cp": "27A3",
+        "-na": "THREE-D BOTTOM-LIGHTED RIGHTWARDS ARROWHEAD",
+        "-na1": "THREE-D BOTTOM-LIGHTED RIGHT ARROWHEAD"
+      },
+      {
+        "-cp": "27A4",
+        "-na": "BLACK RIGHTWARDS ARROWHEAD",
+        "-na1": "BLACK RIGHT ARROWHEAD"
+      },
+      {
+        "-cp": "27A5",
+        "-na": "HEAVY BLACK CURVED DOWNWARDS AND RIGHTWARDS ARROW",
+        "-na1": "HEAVY BLACK CURVED DOWN AND RIGHT ARROW"
+      },
+      {
+        "-cp": "27A6",
+        "-na": "HEAVY BLACK CURVED UPWARDS AND RIGHTWARDS ARROW",
+        "-na1": "HEAVY BLACK CURVED UP AND RIGHT ARROW"
+      },
+      {
+        "-cp": "27A7",
+        "-na": "SQUAT BLACK RIGHTWARDS ARROW",
+        "-na1": "SQUAT BLACK RIGHT ARROW"
+      },
+      {
+        "-cp": "27A8",
+        "-na": "HEAVY CONCAVE-POINTED BLACK RIGHTWARDS ARROW",
+        "-na1": "HEAVY CONCAVE-POINTED BLACK RIGHT ARROW"
+      },
+      {
+        "-cp": "27A9",
+        "-na": "RIGHT-SHADED WHITE RIGHTWARDS ARROW",
+        "-na1": "RIGHT-SHADED WHITE RIGHT ARROW"
+      },
+      {
+        "-cp": "27AA",
+        "-na": "LEFT-SHADED WHITE RIGHTWARDS ARROW",
+        "-na1": "LEFT-SHADED WHITE RIGHT ARROW"
+      },
+      {
+        "-cp": "27AB",
+        "-na": "BACK-TILTED SHADOWED WHITE RIGHTWARDS ARROW",
+        "-na1": "BACK-TILTED SHADOWED WHITE RIGHT ARROW"
+      },
+      {
+        "-cp": "27AC",
+        "-na": "FRONT-TILTED SHADOWED WHITE RIGHTWARDS ARROW",
+        "-na1": "FRONT-TILTED SHADOWED WHITE RIGHT ARROW"
+      },
+      {
+        "-cp": "27AD",
+        "-na": "HEAVY LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
+        "-na1": "HEAVY LOWER RIGHT-SHADOWED WHITE RIGHT ARROW"
+      },
+      {
+        "-cp": "27AE",
+        "-na": "HEAVY UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
+        "-na1": "HEAVY UPPER RIGHT-SHADOWED WHITE RIGHT ARROW"
+      },
+      {
+        "-cp": "27AF",
+        "-na": "NOTCHED LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
+        "-na1": "NOTCHED LOWER RIGHT-SHADOWED WHITE RIGHT ARROW"
+      },
+      {
+        "-cp": "27B0",
+        "-age": "6.0",
+        "-na": "CURLY LOOP",
+        "-ea": "W"
+      },
+      {
+        "-cp": "27B1",
+        "-na": "NOTCHED UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
+        "-na1": "NOTCHED UPPER RIGHT-SHADOWED WHITE RIGHT ARROW"
+      },
+      {
+        "-cp": "27B2",
+        "-na": "CIRCLED HEAVY WHITE RIGHTWARDS ARROW",
+        "-na1": "CIRCLED HEAVY WHITE RIGHT ARROW"
+      },
+      {
+        "-cp": "27B3",
+        "-na": "WHITE-FEATHERED RIGHTWARDS ARROW",
+        "-na1": "WHITE-FEATHERED RIGHT ARROW"
+      },
+      {
+        "-cp": "27B4",
+        "-na": "BLACK-FEATHERED SOUTH EAST ARROW",
+        "-na1": "BLACK-FEATHERED LOWER RIGHT ARROW"
+      },
+      {
+        "-cp": "27B5",
+        "-na": "BLACK-FEATHERED RIGHTWARDS ARROW",
+        "-na1": "BLACK-FEATHERED RIGHT ARROW"
+      },
+      {
+        "-cp": "27B6",
+        "-na": "BLACK-FEATHERED NORTH EAST ARROW",
+        "-na1": "BLACK-FEATHERED UPPER RIGHT ARROW"
+      },
+      {
+        "-cp": "27B7",
+        "-na": "HEAVY BLACK-FEATHERED SOUTH EAST ARROW",
+        "-na1": "HEAVY BLACK-FEATHERED LOWER RIGHT ARROW"
+      },
+      {
+        "-cp": "27B8",
+        "-na": "HEAVY BLACK-FEATHERED RIGHTWARDS ARROW",
+        "-na1": "HEAVY BLACK-FEATHERED RIGHT ARROW"
+      },
+      {
+        "-cp": "27B9",
+        "-na": "HEAVY BLACK-FEATHERED NORTH EAST ARROW",
+        "-na1": "HEAVY BLACK-FEATHERED UPPER RIGHT ARROW"
+      },
+      {
+        "-cp": "27BA",
+        "-na": "TEARDROP-BARBED RIGHTWARDS ARROW",
+        "-na1": "TEARDROP-BARBED RIGHT ARROW"
+      },
+      {
+        "-cp": "27BB",
+        "-na": "HEAVY TEARDROP-SHANKED RIGHTWARDS ARROW",
+        "-na1": "HEAVY TEARDROP-SHANKED RIGHT ARROW"
+      },
+      {
+        "-cp": "27BC",
+        "-na": "WEDGE-TAILED RIGHTWARDS ARROW",
+        "-na1": "WEDGE-TAILED RIGHT ARROW"
+      },
+      {
+        "-cp": "27BD",
+        "-na": "HEAVY WEDGE-TAILED RIGHTWARDS ARROW",
+        "-na1": "HEAVY WEDGE-TAILED RIGHT ARROW"
+      },
+      {
+        "-cp": "27BE",
+        "-na": "OPEN-OUTLINED RIGHTWARDS ARROW",
+        "-na1": "OPEN-OUTLINED RIGHT ARROW"
+      },
+      {
+        "-cp": "27BF",
+        "-age": "6.0",
+        "-na": "DOUBLE CURLY LOOP",
+        "-ea": "W"
+      }
+    ]
+  }
+}

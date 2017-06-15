@@ -1,0 +1,3857 @@
+{
+  "group": {
+    "-age": "6.0",
+    "-gc": "So",
+    "-ccc": "0",
+    "-dt": "none",
+    "-dm": "#",
+    "-nt": "None",
+    "-nv": "NaN",
+    "-bc": "ON",
+    "-bpt": "n",
+    "-bpb": "#",
+    "-Bidi_M": "N",
+    "-suc": "#",
+    "-slc": "#",
+    "-stc": "#",
+    "-uc": "#",
+    "-lc": "#",
+    "-tc": "#",
+    "-scf": "#",
+    "-cf": "#",
+    "-jt": "U",
+    "-jg": "No_Joining_Group",
+    "-ea": "W",
+    "-lb": "ID",
+    "-sc": "Zyyy",
+    "-scx": "Zyyy",
+    "-Dash": "N",
+    "-WSpace": "N",
+    "-Hyphen": "N",
+    "-QMark": "N",
+    "-Radical": "N",
+    "-Ideo": "N",
+    "-UIdeo": "N",
+    "-IDSB": "N",
+    "-IDST": "N",
+    "-hst": "NA",
+    "-DI": "N",
+    "-ODI": "N",
+    "-Alpha": "N",
+    "-OAlpha": "N",
+    "-Upper": "N",
+    "-OUpper": "N",
+    "-Lower": "N",
+    "-OLower": "N",
+    "-Math": "N",
+    "-OMath": "N",
+    "-Hex": "N",
+    "-AHex": "N",
+    "-NChar": "N",
+    "-VS": "N",
+    "-Bidi_C": "N",
+    "-Join_C": "N",
+    "-Gr_Base": "Y",
+    "-Gr_Ext": "N",
+    "-OGr_Ext": "N",
+    "-Gr_Link": "N",
+    "-STerm": "N",
+    "-Ext": "N",
+    "-Term": "N",
+    "-Dia": "N",
+    "-Dep": "N",
+    "-IDS": "N",
+    "-OIDS": "N",
+    "-XIDS": "N",
+    "-IDC": "N",
+    "-OIDC": "N",
+    "-XIDC": "N",
+    "-SD": "N",
+    "-LOE": "N",
+    "-Pat_WS": "N",
+    "-Pat_Syn": "N",
+    "-GCB": "XX",
+    "-WB": "XX",
+    "-SB": "XX",
+    "-CE": "N",
+    "-Comp_Ex": "N",
+    "-NFC_QC": "Y",
+    "-NFD_QC": "Y",
+    "-NFKC_QC": "Y",
+    "-NFKD_QC": "Y",
+    "-XO_NFC": "N",
+    "-XO_NFD": "N",
+    "-XO_NFKC": "N",
+    "-XO_NFKD": "N",
+    "-FC_NFKC": "#",
+    "-CI": "N",
+    "-Cased": "N",
+    "-CWCF": "N",
+    "-CWCM": "N",
+    "-CWKCF": "N",
+    "-CWL": "N",
+    "-CWT": "N",
+    "-CWU": "N",
+    "-NFKC_CF": "#",
+    "-InSC": "Other",
+    "-InPC": "NA",
+    "-PCM": "N",
+    "-blk": "Misc_Pictographs",
+    "char": [
+      {
+        "-cp": "1F300",
+        "-na": "CYCLONE"
+      },
+      {
+        "-cp": "1F301",
+        "-na": "FOGGY"
+      },
+      {
+        "-cp": "1F302",
+        "-na": "CLOSED UMBRELLA"
+      },
+      {
+        "-cp": "1F303",
+        "-na": "NIGHT WITH STARS"
+      },
+      {
+        "-cp": "1F304",
+        "-na": "SUNRISE OVER MOUNTAINS"
+      },
+      {
+        "-cp": "1F305",
+        "-na": "SUNRISE"
+      },
+      {
+        "-cp": "1F306",
+        "-na": "CITYSCAPE AT DUSK"
+      },
+      {
+        "-cp": "1F307",
+        "-na": "SUNSET OVER BUILDINGS"
+      },
+      {
+        "-cp": "1F308",
+        "-na": "RAINBOW"
+      },
+      {
+        "-cp": "1F309",
+        "-na": "BRIDGE AT NIGHT"
+      },
+      {
+        "-cp": "1F30A",
+        "-na": "WATER WAVE"
+      },
+      {
+        "-cp": "1F30B",
+        "-na": "VOLCANO"
+      },
+      {
+        "-cp": "1F30C",
+        "-na": "MILKY WAY"
+      },
+      {
+        "-cp": "1F30D",
+        "-na": "EARTH GLOBE EUROPE-AFRICA"
+      },
+      {
+        "-cp": "1F30E",
+        "-na": "EARTH GLOBE AMERICAS"
+      },
+      {
+        "-cp": "1F30F",
+        "-na": "EARTH GLOBE ASIA-AUSTRALIA"
+      },
+      {
+        "-cp": "1F310",
+        "-na": "GLOBE WITH MERIDIANS"
+      },
+      {
+        "-cp": "1F311",
+        "-na": "NEW MOON SYMBOL"
+      },
+      {
+        "-cp": "1F312",
+        "-na": "WAXING CRESCENT MOON SYMBOL"
+      },
+      {
+        "-cp": "1F313",
+        "-na": "FIRST QUARTER MOON SYMBOL"
+      },
+      {
+        "-cp": "1F314",
+        "-na": "WAXING GIBBOUS MOON SYMBOL"
+      },
+      {
+        "-cp": "1F315",
+        "-na": "FULL MOON SYMBOL"
+      },
+      {
+        "-cp": "1F316",
+        "-na": "WANING GIBBOUS MOON SYMBOL"
+      },
+      {
+        "-cp": "1F317",
+        "-na": "LAST QUARTER MOON SYMBOL"
+      },
+      {
+        "-cp": "1F318",
+        "-na": "WANING CRESCENT MOON SYMBOL"
+      },
+      {
+        "-cp": "1F319",
+        "-na": "CRESCENT MOON"
+      },
+      {
+        "-cp": "1F31A",
+        "-na": "NEW MOON WITH FACE"
+      },
+      {
+        "-cp": "1F31B",
+        "-na": "FIRST QUARTER MOON WITH FACE"
+      },
+      {
+        "-cp": "1F31C",
+        "-na": "LAST QUARTER MOON WITH FACE"
+      },
+      {
+        "-cp": "1F31D",
+        "-na": "FULL MOON WITH FACE"
+      },
+      {
+        "-cp": "1F31E",
+        "-na": "SUN WITH FACE"
+      },
+      {
+        "-cp": "1F31F",
+        "-na": "GLOWING STAR"
+      },
+      {
+        "-cp": "1F320",
+        "-na": "SHOOTING STAR"
+      },
+      {
+        "-cp": "1F321",
+        "-age": "7.0",
+        "-na": "THERMOMETER",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F322",
+        "-age": "7.0",
+        "-na": "BLACK DROPLET",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F323",
+        "-age": "7.0",
+        "-na": "WHITE SUN",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F324",
+        "-age": "7.0",
+        "-na": "WHITE SUN WITH SMALL CLOUD",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F325",
+        "-age": "7.0",
+        "-na": "WHITE SUN BEHIND CLOUD",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F326",
+        "-age": "7.0",
+        "-na": "WHITE SUN BEHIND CLOUD WITH RAIN",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F327",
+        "-age": "7.0",
+        "-na": "CLOUD WITH RAIN",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F328",
+        "-age": "7.0",
+        "-na": "CLOUD WITH SNOW",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F329",
+        "-age": "7.0",
+        "-na": "CLOUD WITH LIGHTNING",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F32A",
+        "-age": "7.0",
+        "-na": "CLOUD WITH TORNADO",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F32B",
+        "-age": "7.0",
+        "-na": "FOG",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F32C",
+        "-age": "7.0",
+        "-na": "WIND BLOWING FACE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F32D",
+        "-age": "8.0",
+        "-na": "HOT DOG"
+      },
+      {
+        "-cp": "1F32E",
+        "-age": "8.0",
+        "-na": "TACO"
+      },
+      {
+        "-cp": "1F32F",
+        "-age": "8.0",
+        "-na": "BURRITO"
+      },
+      {
+        "-cp": "1F330",
+        "-na": "CHESTNUT"
+      },
+      {
+        "-cp": "1F331",
+        "-na": "SEEDLING"
+      },
+      {
+        "-cp": "1F332",
+        "-na": "EVERGREEN TREE"
+      },
+      {
+        "-cp": "1F333",
+        "-na": "DECIDUOUS TREE"
+      },
+      {
+        "-cp": "1F334",
+        "-na": "PALM TREE"
+      },
+      {
+        "-cp": "1F335",
+        "-na": "CACTUS"
+      },
+      {
+        "-cp": "1F336",
+        "-age": "7.0",
+        "-na": "HOT PEPPER",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F337",
+        "-na": "TULIP"
+      },
+      {
+        "-cp": "1F338",
+        "-na": "CHERRY BLOSSOM"
+      },
+      {
+        "-cp": "1F339",
+        "-na": "ROSE"
+      },
+      {
+        "-cp": "1F33A",
+        "-na": "HIBISCUS"
+      },
+      {
+        "-cp": "1F33B",
+        "-na": "SUNFLOWER"
+      },
+      {
+        "-cp": "1F33C",
+        "-na": "BLOSSOM"
+      },
+      {
+        "-cp": "1F33D",
+        "-na": "EAR OF MAIZE"
+      },
+      {
+        "-cp": "1F33E",
+        "-na": "EAR OF RICE"
+      },
+      {
+        "-cp": "1F33F",
+        "-na": "HERB"
+      },
+      {
+        "-cp": "1F340",
+        "-na": "FOUR LEAF CLOVER"
+      },
+      {
+        "-cp": "1F341",
+        "-na": "MAPLE LEAF"
+      },
+      {
+        "-cp": "1F342",
+        "-na": "FALLEN LEAF"
+      },
+      {
+        "-cp": "1F343",
+        "-na": "LEAF FLUTTERING IN WIND"
+      },
+      {
+        "-cp": "1F344",
+        "-na": "MUSHROOM"
+      },
+      {
+        "-cp": "1F345",
+        "-na": "TOMATO"
+      },
+      {
+        "-cp": "1F346",
+        "-na": "AUBERGINE"
+      },
+      {
+        "-cp": "1F347",
+        "-na": "GRAPES"
+      },
+      {
+        "-cp": "1F348",
+        "-na": "MELON"
+      },
+      {
+        "-cp": "1F349",
+        "-na": "WATERMELON"
+      },
+      {
+        "-cp": "1F34A",
+        "-na": "TANGERINE"
+      },
+      {
+        "-cp": "1F34B",
+        "-na": "LEMON"
+      },
+      {
+        "-cp": "1F34C",
+        "-na": "BANANA"
+      },
+      {
+        "-cp": "1F34D",
+        "-na": "PINEAPPLE"
+      },
+      {
+        "-cp": "1F34E",
+        "-na": "RED APPLE"
+      },
+      {
+        "-cp": "1F34F",
+        "-na": "GREEN APPLE"
+      },
+      {
+        "-cp": "1F350",
+        "-na": "PEAR"
+      },
+      {
+        "-cp": "1F351",
+        "-na": "PEACH"
+      },
+      {
+        "-cp": "1F352",
+        "-na": "CHERRIES"
+      },
+      {
+        "-cp": "1F353",
+        "-na": "STRAWBERRY"
+      },
+      {
+        "-cp": "1F354",
+        "-na": "HAMBURGER"
+      },
+      {
+        "-cp": "1F355",
+        "-na": "SLICE OF PIZZA"
+      },
+      {
+        "-cp": "1F356",
+        "-na": "MEAT ON BONE"
+      },
+      {
+        "-cp": "1F357",
+        "-na": "POULTRY LEG"
+      },
+      {
+        "-cp": "1F358",
+        "-na": "RICE CRACKER"
+      },
+      {
+        "-cp": "1F359",
+        "-na": "RICE BALL"
+      },
+      {
+        "-cp": "1F35A",
+        "-na": "COOKED RICE"
+      },
+      {
+        "-cp": "1F35B",
+        "-na": "CURRY AND RICE"
+      },
+      {
+        "-cp": "1F35C",
+        "-na": "STEAMING BOWL"
+      },
+      {
+        "-cp": "1F35D",
+        "-na": "SPAGHETTI"
+      },
+      {
+        "-cp": "1F35E",
+        "-na": "BREAD"
+      },
+      {
+        "-cp": "1F35F",
+        "-na": "FRENCH FRIES"
+      },
+      {
+        "-cp": "1F360",
+        "-na": "ROASTED SWEET POTATO"
+      },
+      {
+        "-cp": "1F361",
+        "-na": "DANGO"
+      },
+      {
+        "-cp": "1F362",
+        "-na": "ODEN"
+      },
+      {
+        "-cp": "1F363",
+        "-na": "SUSHI"
+      },
+      {
+        "-cp": "1F364",
+        "-na": "FRIED SHRIMP"
+      },
+      {
+        "-cp": "1F365",
+        "-na": "FISH CAKE WITH SWIRL DESIGN"
+      },
+      {
+        "-cp": "1F366",
+        "-na": "SOFT ICE CREAM"
+      },
+      {
+        "-cp": "1F367",
+        "-na": "SHAVED ICE"
+      },
+      {
+        "-cp": "1F368",
+        "-na": "ICE CREAM"
+      },
+      {
+        "-cp": "1F369",
+        "-na": "DOUGHNUT"
+      },
+      {
+        "-cp": "1F36A",
+        "-na": "COOKIE"
+      },
+      {
+        "-cp": "1F36B",
+        "-na": "CHOCOLATE BAR"
+      },
+      {
+        "-cp": "1F36C",
+        "-na": "CANDY"
+      },
+      {
+        "-cp": "1F36D",
+        "-na": "LOLLIPOP"
+      },
+      {
+        "-cp": "1F36E",
+        "-na": "CUSTARD"
+      },
+      {
+        "-cp": "1F36F",
+        "-na": "HONEY POT"
+      },
+      {
+        "-cp": "1F370",
+        "-na": "SHORTCAKE"
+      },
+      {
+        "-cp": "1F371",
+        "-na": "BENTO BOX"
+      },
+      {
+        "-cp": "1F372",
+        "-na": "POT OF FOOD"
+      },
+      {
+        "-cp": "1F373",
+        "-na": "COOKING"
+      },
+      {
+        "-cp": "1F374",
+        "-na": "FORK AND KNIFE"
+      },
+      {
+        "-cp": "1F375",
+        "-na": "TEACUP WITHOUT HANDLE"
+      },
+      {
+        "-cp": "1F376",
+        "-na": "SAKE BOTTLE AND CUP"
+      },
+      {
+        "-cp": "1F377",
+        "-na": "WINE GLASS"
+      },
+      {
+        "-cp": "1F378",
+        "-na": "COCKTAIL GLASS"
+      },
+      {
+        "-cp": "1F379",
+        "-na": "TROPICAL DRINK"
+      },
+      {
+        "-cp": "1F37A",
+        "-na": "BEER MUG"
+      },
+      {
+        "-cp": "1F37B",
+        "-na": "CLINKING BEER MUGS"
+      },
+      {
+        "-cp": "1F37C",
+        "-na": "BABY BOTTLE"
+      },
+      {
+        "-cp": "1F37D",
+        "-age": "7.0",
+        "-na": "FORK AND KNIFE WITH PLATE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F37E",
+        "-age": "8.0",
+        "-na": "BOTTLE WITH POPPING CORK"
+      },
+      {
+        "-cp": "1F37F",
+        "-age": "8.0",
+        "-na": "POPCORN"
+      },
+      {
+        "-cp": "1F380",
+        "-na": "RIBBON"
+      },
+      {
+        "-cp": "1F381",
+        "-na": "WRAPPED PRESENT"
+      },
+      {
+        "-cp": "1F382",
+        "-na": "BIRTHDAY CAKE"
+      },
+      {
+        "-cp": "1F383",
+        "-na": "JACK-O-LANTERN"
+      },
+      {
+        "-cp": "1F384",
+        "-na": "CHRISTMAS TREE"
+      },
+      {
+        "-cp": "1F385",
+        "-na": "FATHER CHRISTMAS",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F386",
+        "-na": "FIREWORKS"
+      },
+      {
+        "-cp": "1F387",
+        "-na": "FIREWORK SPARKLER"
+      },
+      {
+        "-cp": "1F388",
+        "-na": "BALLOON"
+      },
+      {
+        "-cp": "1F389",
+        "-na": "PARTY POPPER"
+      },
+      {
+        "-cp": "1F38A",
+        "-na": "CONFETTI BALL"
+      },
+      {
+        "-cp": "1F38B",
+        "-na": "TANABATA TREE"
+      },
+      {
+        "-cp": "1F38C",
+        "-na": "CROSSED FLAGS"
+      },
+      {
+        "-cp": "1F38D",
+        "-na": "PINE DECORATION"
+      },
+      {
+        "-cp": "1F38E",
+        "-na": "JAPANESE DOLLS"
+      },
+      {
+        "-cp": "1F38F",
+        "-na": "CARP STREAMER"
+      },
+      {
+        "-cp": "1F390",
+        "-na": "WIND CHIME"
+      },
+      {
+        "-cp": "1F391",
+        "-na": "MOON VIEWING CEREMONY"
+      },
+      {
+        "-cp": "1F392",
+        "-na": "SCHOOL SATCHEL"
+      },
+      {
+        "-cp": "1F393",
+        "-na": "GRADUATION CAP"
+      },
+      {
+        "-cp": "1F394",
+        "-age": "7.0",
+        "-na": "HEART WITH TIP ON THE LEFT",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F395",
+        "-age": "7.0",
+        "-na": "BOUQUET OF FLOWERS",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F396",
+        "-age": "7.0",
+        "-na": "MILITARY MEDAL",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F397",
+        "-age": "7.0",
+        "-na": "REMINDER RIBBON",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F398",
+        "-age": "7.0",
+        "-na": "MUSICAL KEYBOARD WITH JACKS",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F399",
+        "-age": "7.0",
+        "-na": "STUDIO MICROPHONE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F39A",
+        "-age": "7.0",
+        "-na": "LEVEL SLIDER",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F39B",
+        "-age": "7.0",
+        "-na": "CONTROL KNOBS",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F39C",
+        "-age": "7.0",
+        "-na": "BEAMED ASCENDING MUSICAL NOTES",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F39D",
+        "-age": "7.0",
+        "-na": "BEAMED DESCENDING MUSICAL NOTES",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F39E",
+        "-age": "7.0",
+        "-na": "FILM FRAMES",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F39F",
+        "-age": "7.0",
+        "-na": "ADMISSION TICKETS",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3A0",
+        "-na": "CAROUSEL HORSE"
+      },
+      {
+        "-cp": "1F3A1",
+        "-na": "FERRIS WHEEL"
+      },
+      {
+        "-cp": "1F3A2",
+        "-na": "ROLLER COASTER"
+      },
+      {
+        "-cp": "1F3A3",
+        "-na": "FISHING POLE AND FISH"
+      },
+      {
+        "-cp": "1F3A4",
+        "-na": "MICROPHONE"
+      },
+      {
+        "-cp": "1F3A5",
+        "-na": "MOVIE CAMERA"
+      },
+      {
+        "-cp": "1F3A6",
+        "-na": "CINEMA"
+      },
+      {
+        "-cp": "1F3A7",
+        "-na": "HEADPHONE"
+      },
+      {
+        "-cp": "1F3A8",
+        "-na": "ARTIST PALETTE"
+      },
+      {
+        "-cp": "1F3A9",
+        "-na": "TOP HAT"
+      },
+      {
+        "-cp": "1F3AA",
+        "-na": "CIRCUS TENT"
+      },
+      {
+        "-cp": "1F3AB",
+        "-na": "TICKET"
+      },
+      {
+        "-cp": "1F3AC",
+        "-na": "CLAPPER BOARD"
+      },
+      {
+        "-cp": "1F3AD",
+        "-na": "PERFORMING ARTS"
+      },
+      {
+        "-cp": "1F3AE",
+        "-na": "VIDEO GAME"
+      },
+      {
+        "-cp": "1F3AF",
+        "-na": "DIRECT HIT"
+      },
+      {
+        "-cp": "1F3B0",
+        "-na": "SLOT MACHINE"
+      },
+      {
+        "-cp": "1F3B1",
+        "-na": "BILLIARDS"
+      },
+      {
+        "-cp": "1F3B2",
+        "-na": "GAME DIE"
+      },
+      {
+        "-cp": "1F3B3",
+        "-na": "BOWLING"
+      },
+      {
+        "-cp": "1F3B4",
+        "-na": "FLOWER PLAYING CARDS"
+      },
+      {
+        "-cp": "1F3B5",
+        "-na": "MUSICAL NOTE",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F3B6",
+        "-na": "MULTIPLE MUSICAL NOTES",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F3B7",
+        "-na": "SAXOPHONE"
+      },
+      {
+        "-cp": "1F3B8",
+        "-na": "GUITAR"
+      },
+      {
+        "-cp": "1F3B9",
+        "-na": "MUSICAL KEYBOARD"
+      },
+      {
+        "-cp": "1F3BA",
+        "-na": "TRUMPET"
+      },
+      {
+        "-cp": "1F3BB",
+        "-na": "VIOLIN"
+      },
+      {
+        "-cp": "1F3BC",
+        "-na": "MUSICAL SCORE",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F3BD",
+        "-na": "RUNNING SHIRT WITH SASH"
+      },
+      {
+        "-cp": "1F3BE",
+        "-na": "TENNIS RACQUET AND BALL"
+      },
+      {
+        "-cp": "1F3BF",
+        "-na": "SKI AND SKI BOOT"
+      },
+      {
+        "-cp": "1F3C0",
+        "-na": "BASKETBALL AND HOOP"
+      },
+      {
+        "-cp": "1F3C1",
+        "-na": "CHEQUERED FLAG"
+      },
+      {
+        "-cp": "1F3C2",
+        "-na": "SNOWBOARDER"
+      },
+      {
+        "-cp": "1F3C3",
+        "-na": "RUNNER",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F3C4",
+        "-na": "SURFER",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F3C5",
+        "-age": "7.0",
+        "-na": "SPORTS MEDAL"
+      },
+      {
+        "-cp": "1F3C6",
+        "-na": "TROPHY"
+      },
+      {
+        "-cp": "1F3C7",
+        "-na": "HORSE RACING"
+      },
+      {
+        "-cp": "1F3C8",
+        "-na": "AMERICAN FOOTBALL"
+      },
+      {
+        "-cp": "1F3C9",
+        "-na": "RUGBY FOOTBALL"
+      },
+      {
+        "-cp": "1F3CA",
+        "-na": "SWIMMER",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F3CB",
+        "-age": "7.0",
+        "-na": "WEIGHT LIFTER",
+        "-ea": "N",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F3CC",
+        "-age": "7.0",
+        "-na": "GOLFER",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3CD",
+        "-age": "7.0",
+        "-na": "RACING MOTORCYCLE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3CE",
+        "-age": "7.0",
+        "-na": "RACING CAR",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3CF",
+        "-age": "8.0",
+        "-na": "CRICKET BAT AND BALL"
+      },
+      {
+        "-cp": "1F3D0",
+        "-age": "8.0",
+        "-na": "VOLLEYBALL"
+      },
+      {
+        "-cp": "1F3D1",
+        "-age": "8.0",
+        "-na": "FIELD HOCKEY STICK AND BALL"
+      },
+      {
+        "-cp": "1F3D2",
+        "-age": "8.0",
+        "-na": "ICE HOCKEY STICK AND PUCK"
+      },
+      {
+        "-cp": "1F3D3",
+        "-age": "8.0",
+        "-na": "TABLE TENNIS PADDLE AND BALL"
+      },
+      {
+        "-cp": "1F3D4",
+        "-age": "7.0",
+        "-na": "SNOW CAPPED MOUNTAIN",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3D5",
+        "-age": "7.0",
+        "-na": "CAMPING",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3D6",
+        "-age": "7.0",
+        "-na": "BEACH WITH UMBRELLA",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3D7",
+        "-age": "7.0",
+        "-na": "BUILDING CONSTRUCTION",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3D8",
+        "-age": "7.0",
+        "-na": "HOUSE BUILDINGS",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3D9",
+        "-age": "7.0",
+        "-na": "CITYSCAPE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3DA",
+        "-age": "7.0",
+        "-na": "DERELICT HOUSE BUILDING",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3DB",
+        "-age": "7.0",
+        "-na": "CLASSICAL BUILDING",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3DC",
+        "-age": "7.0",
+        "-na": "DESERT",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3DD",
+        "-age": "7.0",
+        "-na": "DESERT ISLAND",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3DE",
+        "-age": "7.0",
+        "-na": "NATIONAL PARK",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3DF",
+        "-age": "7.0",
+        "-na": "STADIUM",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3E0",
+        "-na": "HOUSE BUILDING"
+      },
+      {
+        "-cp": "1F3E1",
+        "-na": "HOUSE WITH GARDEN"
+      },
+      {
+        "-cp": "1F3E2",
+        "-na": "OFFICE BUILDING"
+      },
+      {
+        "-cp": "1F3E3",
+        "-na": "JAPANESE POST OFFICE"
+      },
+      {
+        "-cp": "1F3E4",
+        "-na": "EUROPEAN POST OFFICE"
+      },
+      {
+        "-cp": "1F3E5",
+        "-na": "HOSPITAL"
+      },
+      {
+        "-cp": "1F3E6",
+        "-na": "BANK"
+      },
+      {
+        "-cp": "1F3E7",
+        "-na": "AUTOMATED TELLER MACHINE"
+      },
+      {
+        "-cp": "1F3E8",
+        "-na": "HOTEL"
+      },
+      {
+        "-cp": "1F3E9",
+        "-na": "LOVE HOTEL"
+      },
+      {
+        "-cp": "1F3EA",
+        "-na": "CONVENIENCE STORE"
+      },
+      {
+        "-cp": "1F3EB",
+        "-na": "SCHOOL"
+      },
+      {
+        "-cp": "1F3EC",
+        "-na": "DEPARTMENT STORE"
+      },
+      {
+        "-cp": "1F3ED",
+        "-na": "FACTORY"
+      },
+      {
+        "-cp": "1F3EE",
+        "-na": "IZAKAYA LANTERN"
+      },
+      {
+        "-cp": "1F3EF",
+        "-na": "JAPANESE CASTLE"
+      },
+      {
+        "-cp": "1F3F0",
+        "-na": "EUROPEAN CASTLE"
+      },
+      {
+        "-cp": "1F3F1",
+        "-age": "7.0",
+        "-na": "WHITE PENNANT",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3F2",
+        "-age": "7.0",
+        "-na": "BLACK PENNANT",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3F3",
+        "-age": "7.0",
+        "-na": "WAVING WHITE FLAG",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3F4",
+        "-age": "7.0",
+        "-na": "WAVING BLACK FLAG"
+      },
+      {
+        "-cp": "1F3F5",
+        "-age": "7.0",
+        "-na": "ROSETTE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3F6",
+        "-age": "7.0",
+        "-na": "BLACK ROSETTE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3F7",
+        "-age": "7.0",
+        "-na": "LABEL",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F3F8",
+        "-age": "8.0",
+        "-na": "BADMINTON RACQUET AND SHUTTLECOCK"
+      },
+      {
+        "-cp": "1F3F9",
+        "-age": "8.0",
+        "-na": "BOW AND ARROW"
+      },
+      {
+        "-cp": "1F3FA",
+        "-age": "8.0",
+        "-na": "AMPHORA"
+      },
+      {
+        "-cp": "1F3FB",
+        "-age": "8.0",
+        "-na": "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+        "-gc": "Sk",
+        "-lb": "EM",
+        "-GCB": "EM",
+        "-WB": "EM",
+        "-CI": "Y"
+      },
+      {
+        "-cp": "1F3FC",
+        "-age": "8.0",
+        "-na": "EMOJI MODIFIER FITZPATRICK TYPE-3",
+        "-gc": "Sk",
+        "-lb": "EM",
+        "-GCB": "EM",
+        "-WB": "EM",
+        "-CI": "Y"
+      },
+      {
+        "-cp": "1F3FD",
+        "-age": "8.0",
+        "-na": "EMOJI MODIFIER FITZPATRICK TYPE-4",
+        "-gc": "Sk",
+        "-lb": "EM",
+        "-GCB": "EM",
+        "-WB": "EM",
+        "-CI": "Y"
+      },
+      {
+        "-cp": "1F3FE",
+        "-age": "8.0",
+        "-na": "EMOJI MODIFIER FITZPATRICK TYPE-5",
+        "-gc": "Sk",
+        "-lb": "EM",
+        "-GCB": "EM",
+        "-WB": "EM",
+        "-CI": "Y"
+      },
+      {
+        "-cp": "1F3FF",
+        "-age": "8.0",
+        "-na": "EMOJI MODIFIER FITZPATRICK TYPE-6",
+        "-gc": "Sk",
+        "-lb": "EM",
+        "-GCB": "EM",
+        "-WB": "EM",
+        "-CI": "Y"
+      },
+      {
+        "-cp": "1F400",
+        "-na": "RAT"
+      },
+      {
+        "-cp": "1F401",
+        "-na": "MOUSE"
+      },
+      {
+        "-cp": "1F402",
+        "-na": "OX"
+      },
+      {
+        "-cp": "1F403",
+        "-na": "WATER BUFFALO"
+      },
+      {
+        "-cp": "1F404",
+        "-na": "COW"
+      },
+      {
+        "-cp": "1F405",
+        "-na": "TIGER"
+      },
+      {
+        "-cp": "1F406",
+        "-na": "LEOPARD"
+      },
+      {
+        "-cp": "1F407",
+        "-na": "RABBIT"
+      },
+      {
+        "-cp": "1F408",
+        "-na": "CAT"
+      },
+      {
+        "-cp": "1F409",
+        "-na": "DRAGON"
+      },
+      {
+        "-cp": "1F40A",
+        "-na": "CROCODILE"
+      },
+      {
+        "-cp": "1F40B",
+        "-na": "WHALE"
+      },
+      {
+        "-cp": "1F40C",
+        "-na": "SNAIL"
+      },
+      {
+        "-cp": "1F40D",
+        "-na": "SNAKE"
+      },
+      {
+        "-cp": "1F40E",
+        "-na": "HORSE"
+      },
+      {
+        "-cp": "1F40F",
+        "-na": "RAM"
+      },
+      {
+        "-cp": "1F410",
+        "-na": "GOAT"
+      },
+      {
+        "-cp": "1F411",
+        "-na": "SHEEP"
+      },
+      {
+        "-cp": "1F412",
+        "-na": "MONKEY"
+      },
+      {
+        "-cp": "1F413",
+        "-na": "ROOSTER"
+      },
+      {
+        "-cp": "1F414",
+        "-na": "CHICKEN"
+      },
+      {
+        "-cp": "1F415",
+        "-na": "DOG"
+      },
+      {
+        "-cp": "1F416",
+        "-na": "PIG"
+      },
+      {
+        "-cp": "1F417",
+        "-na": "BOAR"
+      },
+      {
+        "-cp": "1F418",
+        "-na": "ELEPHANT"
+      },
+      {
+        "-cp": "1F419",
+        "-na": "OCTOPUS"
+      },
+      {
+        "-cp": "1F41A",
+        "-na": "SPIRAL SHELL"
+      },
+      {
+        "-cp": "1F41B",
+        "-na": "BUG"
+      },
+      {
+        "-cp": "1F41C",
+        "-na": "ANT"
+      },
+      {
+        "-cp": "1F41D",
+        "-na": "HONEYBEE"
+      },
+      {
+        "-cp": "1F41E",
+        "-na": "LADY BEETLE"
+      },
+      {
+        "-cp": "1F41F",
+        "-na": "FISH"
+      },
+      {
+        "-cp": "1F420",
+        "-na": "TROPICAL FISH"
+      },
+      {
+        "-cp": "1F421",
+        "-na": "BLOWFISH"
+      },
+      {
+        "-cp": "1F422",
+        "-na": "TURTLE"
+      },
+      {
+        "-cp": "1F423",
+        "-na": "HATCHING CHICK"
+      },
+      {
+        "-cp": "1F424",
+        "-na": "BABY CHICK"
+      },
+      {
+        "-cp": "1F425",
+        "-na": "FRONT-FACING BABY CHICK"
+      },
+      {
+        "-cp": "1F426",
+        "-na": "BIRD"
+      },
+      {
+        "-cp": "1F427",
+        "-na": "PENGUIN"
+      },
+      {
+        "-cp": "1F428",
+        "-na": "KOALA"
+      },
+      {
+        "-cp": "1F429",
+        "-na": "POODLE"
+      },
+      {
+        "-cp": "1F42A",
+        "-na": "DROMEDARY CAMEL"
+      },
+      {
+        "-cp": "1F42B",
+        "-na": "BACTRIAN CAMEL"
+      },
+      {
+        "-cp": "1F42C",
+        "-na": "DOLPHIN"
+      },
+      {
+        "-cp": "1F42D",
+        "-na": "MOUSE FACE"
+      },
+      {
+        "-cp": "1F42E",
+        "-na": "COW FACE"
+      },
+      {
+        "-cp": "1F42F",
+        "-na": "TIGER FACE"
+      },
+      {
+        "-cp": "1F430",
+        "-na": "RABBIT FACE"
+      },
+      {
+        "-cp": "1F431",
+        "-na": "CAT FACE"
+      },
+      {
+        "-cp": "1F432",
+        "-na": "DRAGON FACE"
+      },
+      {
+        "-cp": "1F433",
+        "-na": "SPOUTING WHALE"
+      },
+      {
+        "-cp": "1F434",
+        "-na": "HORSE FACE"
+      },
+      {
+        "-cp": "1F435",
+        "-na": "MONKEY FACE"
+      },
+      {
+        "-cp": "1F436",
+        "-na": "DOG FACE"
+      },
+      {
+        "-cp": "1F437",
+        "-na": "PIG FACE"
+      },
+      {
+        "-cp": "1F438",
+        "-na": "FROG FACE"
+      },
+      {
+        "-cp": "1F439",
+        "-na": "HAMSTER FACE"
+      },
+      {
+        "-cp": "1F43A",
+        "-na": "WOLF FACE"
+      },
+      {
+        "-cp": "1F43B",
+        "-na": "BEAR FACE"
+      },
+      {
+        "-cp": "1F43C",
+        "-na": "PANDA FACE"
+      },
+      {
+        "-cp": "1F43D",
+        "-na": "PIG NOSE"
+      },
+      {
+        "-cp": "1F43E",
+        "-na": "PAW PRINTS"
+      },
+      {
+        "-cp": "1F43F",
+        "-age": "7.0",
+        "-na": "CHIPMUNK",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F440",
+        "-na": "EYES"
+      },
+      {
+        "-cp": "1F441",
+        "-age": "7.0",
+        "-na": "EYE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F442",
+        "-na": "EAR",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F443",
+        "-na": "NOSE",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F444",
+        "-na": "MOUTH"
+      },
+      {
+        "-cp": "1F445",
+        "-na": "TONGUE"
+      },
+      {
+        "-cp": "1F446",
+        "-na": "WHITE UP POINTING BACKHAND INDEX",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F447",
+        "-na": "WHITE DOWN POINTING BACKHAND INDEX",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F448",
+        "-na": "WHITE LEFT POINTING BACKHAND INDEX",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F449",
+        "-na": "WHITE RIGHT POINTING BACKHAND INDEX",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F44A",
+        "-na": "FISTED HAND SIGN",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F44B",
+        "-na": "WAVING HAND SIGN",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F44C",
+        "-na": "OK HAND SIGN",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F44D",
+        "-na": "THUMBS UP SIGN",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F44E",
+        "-na": "THUMBS DOWN SIGN",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F44F",
+        "-na": "CLAPPING HANDS SIGN",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F450",
+        "-na": "OPEN HANDS SIGN",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F451",
+        "-na": "CROWN"
+      },
+      {
+        "-cp": "1F452",
+        "-na": "WOMANS HAT"
+      },
+      {
+        "-cp": "1F453",
+        "-na": "EYEGLASSES"
+      },
+      {
+        "-cp": "1F454",
+        "-na": "NECKTIE"
+      },
+      {
+        "-cp": "1F455",
+        "-na": "T-SHIRT"
+      },
+      {
+        "-cp": "1F456",
+        "-na": "JEANS"
+      },
+      {
+        "-cp": "1F457",
+        "-na": "DRESS"
+      },
+      {
+        "-cp": "1F458",
+        "-na": "KIMONO"
+      },
+      {
+        "-cp": "1F459",
+        "-na": "BIKINI"
+      },
+      {
+        "-cp": "1F45A",
+        "-na": "WOMANS CLOTHES"
+      },
+      {
+        "-cp": "1F45B",
+        "-na": "PURSE"
+      },
+      {
+        "-cp": "1F45C",
+        "-na": "HANDBAG"
+      },
+      {
+        "-cp": "1F45D",
+        "-na": "POUCH"
+      },
+      {
+        "-cp": "1F45E",
+        "-na": "MANS SHOE"
+      },
+      {
+        "-cp": "1F45F",
+        "-na": "ATHLETIC SHOE"
+      },
+      {
+        "-cp": "1F460",
+        "-na": "HIGH-HEELED SHOE"
+      },
+      {
+        "-cp": "1F461",
+        "-na": "WOMANS SANDAL"
+      },
+      {
+        "-cp": "1F462",
+        "-na": "WOMANS BOOTS"
+      },
+      {
+        "-cp": "1F463",
+        "-na": "FOOTPRINTS"
+      },
+      {
+        "-cp": "1F464",
+        "-na": "BUST IN SILHOUETTE"
+      },
+      {
+        "-cp": "1F465",
+        "-na": "BUSTS IN SILHOUETTE"
+      },
+      {
+        "-cp": "1F466",
+        "-na": "BOY",
+        "-lb": "EB",
+        "-GCB": "EBG",
+        "-WB": "EBG"
+      },
+      {
+        "-cp": "1F467",
+        "-na": "GIRL",
+        "-lb": "EB",
+        "-GCB": "EBG",
+        "-WB": "EBG"
+      },
+      {
+        "-cp": "1F468",
+        "-na": "MAN",
+        "-lb": "EB",
+        "-GCB": "EBG",
+        "-WB": "EBG"
+      },
+      {
+        "-cp": "1F469",
+        "-na": "WOMAN",
+        "-lb": "EB",
+        "-GCB": "EBG",
+        "-WB": "EBG"
+      },
+      {
+        "-cp": "1F46A",
+        "-na": "FAMILY"
+      },
+      {
+        "-cp": "1F46B",
+        "-na": "MAN AND WOMAN HOLDING HANDS"
+      },
+      {
+        "-cp": "1F46C",
+        "-na": "TWO MEN HOLDING HANDS"
+      },
+      {
+        "-cp": "1F46D",
+        "-na": "TWO WOMEN HOLDING HANDS"
+      },
+      {
+        "-cp": "1F46E",
+        "-na": "POLICE OFFICER",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F46F",
+        "-na": "WOMAN WITH BUNNY EARS"
+      },
+      {
+        "-cp": "1F470",
+        "-na": "BRIDE WITH VEIL",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F471",
+        "-na": "PERSON WITH BLOND HAIR",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F472",
+        "-na": "MAN WITH GUA PI MAO",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F473",
+        "-na": "MAN WITH TURBAN",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F474",
+        "-na": "OLDER MAN",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F475",
+        "-na": "OLDER WOMAN",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F476",
+        "-na": "BABY",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F477",
+        "-na": "CONSTRUCTION WORKER",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F478",
+        "-na": "PRINCESS",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F479",
+        "-na": "JAPANESE OGRE"
+      },
+      {
+        "-cp": "1F47A",
+        "-na": "JAPANESE GOBLIN"
+      },
+      {
+        "-cp": "1F47B",
+        "-na": "GHOST"
+      },
+      {
+        "-cp": "1F47C",
+        "-na": "BABY ANGEL",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F47D",
+        "-na": "EXTRATERRESTRIAL ALIEN"
+      },
+      {
+        "-cp": "1F47E",
+        "-na": "ALIEN MONSTER"
+      },
+      {
+        "-cp": "1F47F",
+        "-na": "IMP"
+      },
+      {
+        "-cp": "1F480",
+        "-na": "SKULL"
+      },
+      {
+        "-cp": "1F481",
+        "-na": "INFORMATION DESK PERSON",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F482",
+        "-na": "GUARDSMAN",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F483",
+        "-na": "DANCER",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F484",
+        "-na": "LIPSTICK"
+      },
+      {
+        "-cp": "1F485",
+        "-na": "NAIL POLISH",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F486",
+        "-na": "FACE MASSAGE",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F487",
+        "-na": "HAIRCUT",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F488",
+        "-na": "BARBER POLE"
+      },
+      {
+        "-cp": "1F489",
+        "-na": "SYRINGE"
+      },
+      {
+        "-cp": "1F48A",
+        "-na": "PILL"
+      },
+      {
+        "-cp": "1F48B",
+        "-na": "KISS MARK",
+        "-GCB": "GAZ",
+        "-WB": "GAZ"
+      },
+      {
+        "-cp": "1F48C",
+        "-na": "LOVE LETTER"
+      },
+      {
+        "-cp": "1F48D",
+        "-na": "RING"
+      },
+      {
+        "-cp": "1F48E",
+        "-na": "GEM STONE"
+      },
+      {
+        "-cp": "1F48F",
+        "-na": "KISS"
+      },
+      {
+        "-cp": "1F490",
+        "-na": "BOUQUET"
+      },
+      {
+        "-cp": "1F491",
+        "-na": "COUPLE WITH HEART"
+      },
+      {
+        "-cp": "1F492",
+        "-na": "WEDDING"
+      },
+      {
+        "-cp": "1F493",
+        "-na": "BEATING HEART"
+      },
+      {
+        "-cp": "1F494",
+        "-na": "BROKEN HEART"
+      },
+      {
+        "-cp": "1F495",
+        "-na": "TWO HEARTS"
+      },
+      {
+        "-cp": "1F496",
+        "-na": "SPARKLING HEART"
+      },
+      {
+        "-cp": "1F497",
+        "-na": "GROWING HEART"
+      },
+      {
+        "-cp": "1F498",
+        "-na": "HEART WITH ARROW"
+      },
+      {
+        "-cp": "1F499",
+        "-na": "BLUE HEART"
+      },
+      {
+        "-cp": "1F49A",
+        "-na": "GREEN HEART"
+      },
+      {
+        "-cp": "1F49B",
+        "-na": "YELLOW HEART"
+      },
+      {
+        "-cp": "1F49C",
+        "-na": "PURPLE HEART"
+      },
+      {
+        "-cp": "1F49D",
+        "-na": "HEART WITH RIBBON"
+      },
+      {
+        "-cp": "1F49E",
+        "-na": "REVOLVING HEARTS"
+      },
+      {
+        "-cp": "1F49F",
+        "-na": "HEART DECORATION"
+      },
+      {
+        "-cp": "1F4A0",
+        "-na": "DIAMOND SHAPE WITH A DOT INSIDE",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F4A1",
+        "-na": "ELECTRIC LIGHT BULB"
+      },
+      {
+        "-cp": "1F4A2",
+        "-na": "ANGER SYMBOL",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F4A3",
+        "-na": "BOMB"
+      },
+      {
+        "-cp": "1F4A4",
+        "-na": "SLEEPING SYMBOL",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F4A5",
+        "-na": "COLLISION SYMBOL"
+      },
+      {
+        "-cp": "1F4A6",
+        "-na": "SPLASHING SWEAT SYMBOL"
+      },
+      {
+        "-cp": "1F4A7",
+        "-na": "DROPLET"
+      },
+      {
+        "-cp": "1F4A8",
+        "-na": "DASH SYMBOL"
+      },
+      {
+        "-cp": "1F4A9",
+        "-na": "PILE OF POO"
+      },
+      {
+        "-cp": "1F4AA",
+        "-na": "FLEXED BICEPS",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F4AB",
+        "-na": "DIZZY SYMBOL"
+      },
+      {
+        "-cp": "1F4AC",
+        "-na": "SPEECH BALLOON"
+      },
+      {
+        "-cp": "1F4AD",
+        "-na": "THOUGHT BALLOON"
+      },
+      {
+        "-cp": "1F4AE",
+        "-na": "WHITE FLOWER"
+      },
+      {
+        "-cp": "1F4AF",
+        "-na": "HUNDRED POINTS SYMBOL",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F4B0",
+        "-na": "MONEY BAG"
+      },
+      {
+        "-cp": "1F4B1",
+        "-na": "CURRENCY EXCHANGE",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F4B2",
+        "-na": "HEAVY DOLLAR SIGN",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F4B3",
+        "-na": "CREDIT CARD"
+      },
+      {
+        "-cp": "1F4B4",
+        "-na": "BANKNOTE WITH YEN SIGN"
+      },
+      {
+        "-cp": "1F4B5",
+        "-na": "BANKNOTE WITH DOLLAR SIGN"
+      },
+      {
+        "-cp": "1F4B6",
+        "-na": "BANKNOTE WITH EURO SIGN"
+      },
+      {
+        "-cp": "1F4B7",
+        "-na": "BANKNOTE WITH POUND SIGN"
+      },
+      {
+        "-cp": "1F4B8",
+        "-na": "MONEY WITH WINGS"
+      },
+      {
+        "-cp": "1F4B9",
+        "-na": "CHART WITH UPWARDS TREND AND YEN SIGN"
+      },
+      {
+        "-cp": "1F4BA",
+        "-na": "SEAT"
+      },
+      {
+        "-cp": "1F4BB",
+        "-na": "PERSONAL COMPUTER"
+      },
+      {
+        "-cp": "1F4BC",
+        "-na": "BRIEFCASE"
+      },
+      {
+        "-cp": "1F4BD",
+        "-na": "MINIDISC"
+      },
+      {
+        "-cp": "1F4BE",
+        "-na": "FLOPPY DISK"
+      },
+      {
+        "-cp": "1F4BF",
+        "-na": "OPTICAL DISC"
+      },
+      {
+        "-cp": "1F4C0",
+        "-na": "DVD"
+      },
+      {
+        "-cp": "1F4C1",
+        "-na": "FILE FOLDER"
+      },
+      {
+        "-cp": "1F4C2",
+        "-na": "OPEN FILE FOLDER"
+      },
+      {
+        "-cp": "1F4C3",
+        "-na": "PAGE WITH CURL"
+      },
+      {
+        "-cp": "1F4C4",
+        "-na": "PAGE FACING UP"
+      },
+      {
+        "-cp": "1F4C5",
+        "-na": "CALENDAR"
+      },
+      {
+        "-cp": "1F4C6",
+        "-na": "TEAR-OFF CALENDAR"
+      },
+      {
+        "-cp": "1F4C7",
+        "-na": "CARD INDEX"
+      },
+      {
+        "-cp": "1F4C8",
+        "-na": "CHART WITH UPWARDS TREND"
+      },
+      {
+        "-cp": "1F4C9",
+        "-na": "CHART WITH DOWNWARDS TREND"
+      },
+      {
+        "-cp": "1F4CA",
+        "-na": "BAR CHART"
+      },
+      {
+        "-cp": "1F4CB",
+        "-na": "CLIPBOARD"
+      },
+      {
+        "-cp": "1F4CC",
+        "-na": "PUSHPIN"
+      },
+      {
+        "-cp": "1F4CD",
+        "-na": "ROUND PUSHPIN"
+      },
+      {
+        "-cp": "1F4CE",
+        "-na": "PAPERCLIP"
+      },
+      {
+        "-cp": "1F4CF",
+        "-na": "STRAIGHT RULER"
+      },
+      {
+        "-cp": "1F4D0",
+        "-na": "TRIANGULAR RULER"
+      },
+      {
+        "-cp": "1F4D1",
+        "-na": "BOOKMARK TABS"
+      },
+      {
+        "-cp": "1F4D2",
+        "-na": "LEDGER"
+      },
+      {
+        "-cp": "1F4D3",
+        "-na": "NOTEBOOK"
+      },
+      {
+        "-cp": "1F4D4",
+        "-na": "NOTEBOOK WITH DECORATIVE COVER"
+      },
+      {
+        "-cp": "1F4D5",
+        "-na": "CLOSED BOOK"
+      },
+      {
+        "-cp": "1F4D6",
+        "-na": "OPEN BOOK"
+      },
+      {
+        "-cp": "1F4D7",
+        "-na": "GREEN BOOK"
+      },
+      {
+        "-cp": "1F4D8",
+        "-na": "BLUE BOOK"
+      },
+      {
+        "-cp": "1F4D9",
+        "-na": "ORANGE BOOK"
+      },
+      {
+        "-cp": "1F4DA",
+        "-na": "BOOKS"
+      },
+      {
+        "-cp": "1F4DB",
+        "-na": "NAME BADGE"
+      },
+      {
+        "-cp": "1F4DC",
+        "-na": "SCROLL"
+      },
+      {
+        "-cp": "1F4DD",
+        "-na": "MEMO"
+      },
+      {
+        "-cp": "1F4DE",
+        "-na": "TELEPHONE RECEIVER"
+      },
+      {
+        "-cp": "1F4DF",
+        "-na": "PAGER"
+      },
+      {
+        "-cp": "1F4E0",
+        "-na": "FAX MACHINE"
+      },
+      {
+        "-cp": "1F4E1",
+        "-na": "SATELLITE ANTENNA"
+      },
+      {
+        "-cp": "1F4E2",
+        "-na": "PUBLIC ADDRESS LOUDSPEAKER"
+      },
+      {
+        "-cp": "1F4E3",
+        "-na": "CHEERING MEGAPHONE"
+      },
+      {
+        "-cp": "1F4E4",
+        "-na": "OUTBOX TRAY"
+      },
+      {
+        "-cp": "1F4E5",
+        "-na": "INBOX TRAY"
+      },
+      {
+        "-cp": "1F4E6",
+        "-na": "PACKAGE"
+      },
+      {
+        "-cp": "1F4E7",
+        "-na": "E-MAIL SYMBOL"
+      },
+      {
+        "-cp": "1F4E8",
+        "-na": "INCOMING ENVELOPE"
+      },
+      {
+        "-cp": "1F4E9",
+        "-na": "ENVELOPE WITH DOWNWARDS ARROW ABOVE"
+      },
+      {
+        "-cp": "1F4EA",
+        "-na": "CLOSED MAILBOX WITH LOWERED FLAG"
+      },
+      {
+        "-cp": "1F4EB",
+        "-na": "CLOSED MAILBOX WITH RAISED FLAG"
+      },
+      {
+        "-cp": "1F4EC",
+        "-na": "OPEN MAILBOX WITH RAISED FLAG"
+      },
+      {
+        "-cp": "1F4ED",
+        "-na": "OPEN MAILBOX WITH LOWERED FLAG"
+      },
+      {
+        "-cp": "1F4EE",
+        "-na": "POSTBOX"
+      },
+      {
+        "-cp": "1F4EF",
+        "-na": "POSTAL HORN"
+      },
+      {
+        "-cp": "1F4F0",
+        "-na": "NEWSPAPER"
+      },
+      {
+        "-cp": "1F4F1",
+        "-na": "MOBILE PHONE"
+      },
+      {
+        "-cp": "1F4F2",
+        "-na": "MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT"
+      },
+      {
+        "-cp": "1F4F3",
+        "-na": "VIBRATION MODE"
+      },
+      {
+        "-cp": "1F4F4",
+        "-na": "MOBILE PHONE OFF"
+      },
+      {
+        "-cp": "1F4F5",
+        "-na": "NO MOBILE PHONES"
+      },
+      {
+        "-cp": "1F4F6",
+        "-na": "ANTENNA WITH BARS"
+      },
+      {
+        "-cp": "1F4F7",
+        "-na": "CAMERA"
+      },
+      {
+        "-cp": "1F4F8",
+        "-age": "7.0",
+        "-na": "CAMERA WITH FLASH"
+      },
+      {
+        "-cp": "1F4F9",
+        "-na": "VIDEO CAMERA"
+      },
+      {
+        "-cp": "1F4FA",
+        "-na": "TELEVISION"
+      },
+      {
+        "-cp": "1F4FB",
+        "-na": "RADIO"
+      },
+      {
+        "-cp": "1F4FC",
+        "-na": "VIDEOCASSETTE"
+      },
+      {
+        "-cp": "1F4FD",
+        "-age": "7.0",
+        "-na": "FILM PROJECTOR",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F4FE",
+        "-age": "7.0",
+        "-na": "PORTABLE STEREO",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F4FF",
+        "-age": "8.0",
+        "-na": "PRAYER BEADS"
+      },
+      {
+        "-cp": "1F500",
+        "-na": "TWISTED RIGHTWARDS ARROWS",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F501",
+        "-na": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F502",
+        "-na": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F503",
+        "-na": "CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F504",
+        "-na": "ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F505",
+        "-na": "LOW BRIGHTNESS SYMBOL",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F506",
+        "-na": "HIGH BRIGHTNESS SYMBOL",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F507",
+        "-na": "SPEAKER WITH CANCELLATION STROKE"
+      },
+      {
+        "-cp": "1F508",
+        "-na": "SPEAKER"
+      },
+      {
+        "-cp": "1F509",
+        "-na": "SPEAKER WITH ONE SOUND WAVE"
+      },
+      {
+        "-cp": "1F50A",
+        "-na": "SPEAKER WITH THREE SOUND WAVES"
+      },
+      {
+        "-cp": "1F50B",
+        "-na": "BATTERY"
+      },
+      {
+        "-cp": "1F50C",
+        "-na": "ELECTRIC PLUG"
+      },
+      {
+        "-cp": "1F50D",
+        "-na": "LEFT-POINTING MAGNIFYING GLASS"
+      },
+      {
+        "-cp": "1F50E",
+        "-na": "RIGHT-POINTING MAGNIFYING GLASS"
+      },
+      {
+        "-cp": "1F50F",
+        "-na": "LOCK WITH INK PEN"
+      },
+      {
+        "-cp": "1F510",
+        "-na": "CLOSED LOCK WITH KEY"
+      },
+      {
+        "-cp": "1F511",
+        "-na": "KEY"
+      },
+      {
+        "-cp": "1F512",
+        "-na": "LOCK"
+      },
+      {
+        "-cp": "1F513",
+        "-na": "OPEN LOCK"
+      },
+      {
+        "-cp": "1F514",
+        "-na": "BELL"
+      },
+      {
+        "-cp": "1F515",
+        "-na": "BELL WITH CANCELLATION STROKE"
+      },
+      {
+        "-cp": "1F516",
+        "-na": "BOOKMARK"
+      },
+      {
+        "-cp": "1F517",
+        "-na": "LINK SYMBOL",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F518",
+        "-na": "RADIO BUTTON",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F519",
+        "-na": "BACK WITH LEFTWARDS ARROW ABOVE",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F51A",
+        "-na": "END WITH LEFTWARDS ARROW ABOVE",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F51B",
+        "-na": "ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F51C",
+        "-na": "SOON WITH RIGHTWARDS ARROW ABOVE",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F51D",
+        "-na": "TOP WITH UPWARDS ARROW ABOVE",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F51E",
+        "-na": "NO ONE UNDER EIGHTEEN SYMBOL",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F51F",
+        "-na": "KEYCAP TEN",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F520",
+        "-na": "INPUT SYMBOL FOR LATIN CAPITAL LETTERS",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F521",
+        "-na": "INPUT SYMBOL FOR LATIN SMALL LETTERS",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F522",
+        "-na": "INPUT SYMBOL FOR NUMBERS",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F523",
+        "-na": "INPUT SYMBOL FOR SYMBOLS",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F524",
+        "-na": "INPUT SYMBOL FOR LATIN LETTERS",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F525",
+        "-na": "FIRE"
+      },
+      {
+        "-cp": "1F526",
+        "-na": "ELECTRIC TORCH"
+      },
+      {
+        "-cp": "1F527",
+        "-na": "WRENCH"
+      },
+      {
+        "-cp": "1F528",
+        "-na": "HAMMER"
+      },
+      {
+        "-cp": "1F529",
+        "-na": "NUT AND BOLT"
+      },
+      {
+        "-cp": "1F52A",
+        "-na": "HOCHO"
+      },
+      {
+        "-cp": "1F52B",
+        "-na": "PISTOL"
+      },
+      {
+        "-cp": "1F52C",
+        "-na": "MICROSCOPE"
+      },
+      {
+        "-cp": "1F52D",
+        "-na": "TELESCOPE"
+      },
+      {
+        "-cp": "1F52E",
+        "-na": "CRYSTAL BALL"
+      },
+      {
+        "-cp": "1F52F",
+        "-na": "SIX POINTED STAR WITH MIDDLE DOT"
+      },
+      {
+        "-cp": "1F530",
+        "-na": "JAPANESE SYMBOL FOR BEGINNER"
+      },
+      {
+        "-cp": "1F531",
+        "-na": "TRIDENT EMBLEM"
+      },
+      {
+        "-cp": "1F532",
+        "-na": "BLACK SQUARE BUTTON",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F533",
+        "-na": "WHITE SQUARE BUTTON",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F534",
+        "-na": "LARGE RED CIRCLE",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F535",
+        "-na": "LARGE BLUE CIRCLE",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F536",
+        "-na": "LARGE ORANGE DIAMOND",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F537",
+        "-na": "LARGE BLUE DIAMOND",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F538",
+        "-na": "SMALL ORANGE DIAMOND",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F539",
+        "-na": "SMALL BLUE DIAMOND",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F53A",
+        "-na": "UP-POINTING RED TRIANGLE",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F53B",
+        "-na": "DOWN-POINTING RED TRIANGLE",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F53C",
+        "-na": "UP-POINTING SMALL RED TRIANGLE",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F53D",
+        "-na": "DOWN-POINTING SMALL RED TRIANGLE",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F53E",
+        "-age": "7.0",
+        "-na": "LOWER RIGHT SHADOWED WHITE CIRCLE",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F53F",
+        "-age": "7.0",
+        "-na": "UPPER RIGHT SHADOWED WHITE CIRCLE",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F540",
+        "-age": "6.1",
+        "-na": "CIRCLED CROSS POMMEE",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F541",
+        "-age": "6.1",
+        "-na": "CROSS POMMEE WITH HALF-CIRCLE BELOW",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F542",
+        "-age": "6.1",
+        "-na": "CROSS POMMEE",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F543",
+        "-age": "6.1",
+        "-na": "NOTCHED LEFT SEMICIRCLE WITH THREE DOTS",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F544",
+        "-age": "7.0",
+        "-na": "NOTCHED RIGHT SEMICIRCLE WITH THREE DOTS",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F545",
+        "-age": "7.0",
+        "-na": "SYMBOL FOR MARKS CHAPTER",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F546",
+        "-age": "7.0",
+        "-na": "WHITE LATIN CROSS",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F547",
+        "-age": "7.0",
+        "-na": "HEAVY LATIN CROSS",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F548",
+        "-age": "7.0",
+        "-na": "CELTIC CROSS",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F549",
+        "-age": "7.0",
+        "-na": "OM SYMBOL",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F54A",
+        "-age": "7.0",
+        "-na": "DOVE OF PEACE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F54B",
+        "-age": "8.0",
+        "-na": "KAABA"
+      },
+      {
+        "-cp": "1F54C",
+        "-age": "8.0",
+        "-na": "MOSQUE"
+      },
+      {
+        "-cp": "1F54D",
+        "-age": "8.0",
+        "-na": "SYNAGOGUE"
+      },
+      {
+        "-cp": "1F54E",
+        "-age": "8.0",
+        "-na": "MENORAH WITH NINE BRANCHES"
+      },
+      {
+        "-cp": "1F54F",
+        "-age": "8.0",
+        "-na": "BOWL OF HYGIEIA",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F550",
+        "-na": "CLOCK FACE ONE OCLOCK"
+      },
+      {
+        "-cp": "1F551",
+        "-na": "CLOCK FACE TWO OCLOCK"
+      },
+      {
+        "-cp": "1F552",
+        "-na": "CLOCK FACE THREE OCLOCK"
+      },
+      {
+        "-cp": "1F553",
+        "-na": "CLOCK FACE FOUR OCLOCK"
+      },
+      {
+        "-cp": "1F554",
+        "-na": "CLOCK FACE FIVE OCLOCK"
+      },
+      {
+        "-cp": "1F555",
+        "-na": "CLOCK FACE SIX OCLOCK"
+      },
+      {
+        "-cp": "1F556",
+        "-na": "CLOCK FACE SEVEN OCLOCK"
+      },
+      {
+        "-cp": "1F557",
+        "-na": "CLOCK FACE EIGHT OCLOCK"
+      },
+      {
+        "-cp": "1F558",
+        "-na": "CLOCK FACE NINE OCLOCK"
+      },
+      {
+        "-cp": "1F559",
+        "-na": "CLOCK FACE TEN OCLOCK"
+      },
+      {
+        "-cp": "1F55A",
+        "-na": "CLOCK FACE ELEVEN OCLOCK"
+      },
+      {
+        "-cp": "1F55B",
+        "-na": "CLOCK FACE TWELVE OCLOCK"
+      },
+      {
+        "-cp": "1F55C",
+        "-na": "CLOCK FACE ONE-THIRTY"
+      },
+      {
+        "-cp": "1F55D",
+        "-na": "CLOCK FACE TWO-THIRTY"
+      },
+      {
+        "-cp": "1F55E",
+        "-na": "CLOCK FACE THREE-THIRTY"
+      },
+      {
+        "-cp": "1F55F",
+        "-na": "CLOCK FACE FOUR-THIRTY"
+      },
+      {
+        "-cp": "1F560",
+        "-na": "CLOCK FACE FIVE-THIRTY"
+      },
+      {
+        "-cp": "1F561",
+        "-na": "CLOCK FACE SIX-THIRTY"
+      },
+      {
+        "-cp": "1F562",
+        "-na": "CLOCK FACE SEVEN-THIRTY"
+      },
+      {
+        "-cp": "1F563",
+        "-na": "CLOCK FACE EIGHT-THIRTY"
+      },
+      {
+        "-cp": "1F564",
+        "-na": "CLOCK FACE NINE-THIRTY"
+      },
+      {
+        "-cp": "1F565",
+        "-na": "CLOCK FACE TEN-THIRTY"
+      },
+      {
+        "-cp": "1F566",
+        "-na": "CLOCK FACE ELEVEN-THIRTY"
+      },
+      {
+        "-cp": "1F567",
+        "-na": "CLOCK FACE TWELVE-THIRTY"
+      },
+      {
+        "-cp": "1F568",
+        "-age": "7.0",
+        "-na": "RIGHT SPEAKER",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F569",
+        "-age": "7.0",
+        "-na": "RIGHT SPEAKER WITH ONE SOUND WAVE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F56A",
+        "-age": "7.0",
+        "-na": "RIGHT SPEAKER WITH THREE SOUND WAVES",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F56B",
+        "-age": "7.0",
+        "-na": "BULLHORN",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F56C",
+        "-age": "7.0",
+        "-na": "BULLHORN WITH SOUND WAVES",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F56D",
+        "-age": "7.0",
+        "-na": "RINGING BELL",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F56E",
+        "-age": "7.0",
+        "-na": "BOOK",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F56F",
+        "-age": "7.0",
+        "-na": "CANDLE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F570",
+        "-age": "7.0",
+        "-na": "MANTELPIECE CLOCK",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F571",
+        "-age": "7.0",
+        "-na": "BLACK SKULL AND CROSSBONES",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F572",
+        "-age": "7.0",
+        "-na": "NO PIRACY",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F573",
+        "-age": "7.0",
+        "-na": "HOLE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F574",
+        "-age": "7.0",
+        "-na": "MAN IN BUSINESS SUIT LEVITATING",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F575",
+        "-age": "7.0",
+        "-na": "SLEUTH OR SPY",
+        "-ea": "N",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F576",
+        "-age": "7.0",
+        "-na": "DARK SUNGLASSES",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F577",
+        "-age": "7.0",
+        "-na": "SPIDER",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F578",
+        "-age": "7.0",
+        "-na": "SPIDER WEB",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F579",
+        "-age": "7.0",
+        "-na": "JOYSTICK",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F57A",
+        "-age": "9.0",
+        "-na": "MAN DANCING",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F57B",
+        "-age": "7.0",
+        "-na": "LEFT HAND TELEPHONE RECEIVER",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F57C",
+        "-age": "7.0",
+        "-na": "TELEPHONE RECEIVER WITH PAGE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F57D",
+        "-age": "7.0",
+        "-na": "RIGHT HAND TELEPHONE RECEIVER",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F57E",
+        "-age": "7.0",
+        "-na": "WHITE TOUCHTONE TELEPHONE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F57F",
+        "-age": "7.0",
+        "-na": "BLACK TOUCHTONE TELEPHONE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F580",
+        "-age": "7.0",
+        "-na": "TELEPHONE ON TOP OF MODEM",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F581",
+        "-age": "7.0",
+        "-na": "CLAMSHELL MOBILE PHONE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F582",
+        "-age": "7.0",
+        "-na": "BACK OF ENVELOPE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F583",
+        "-age": "7.0",
+        "-na": "STAMPED ENVELOPE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F584",
+        "-age": "7.0",
+        "-na": "ENVELOPE WITH LIGHTNING",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F585",
+        "-age": "7.0",
+        "-na": "FLYING ENVELOPE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F586",
+        "-age": "7.0",
+        "-na": "PEN OVER STAMPED ENVELOPE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F587",
+        "-age": "7.0",
+        "-na": "LINKED PAPERCLIPS",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F588",
+        "-age": "7.0",
+        "-na": "BLACK PUSHPIN",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F589",
+        "-age": "7.0",
+        "-na": "LOWER LEFT PENCIL",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F58A",
+        "-age": "7.0",
+        "-na": "LOWER LEFT BALLPOINT PEN",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F58B",
+        "-age": "7.0",
+        "-na": "LOWER LEFT FOUNTAIN PEN",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F58C",
+        "-age": "7.0",
+        "-na": "LOWER LEFT PAINTBRUSH",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F58D",
+        "-age": "7.0",
+        "-na": "LOWER LEFT CRAYON",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F58E",
+        "-age": "7.0",
+        "-na": "LEFT WRITING HAND",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F58F",
+        "-age": "7.0",
+        "-na": "TURNED OK HAND SIGN",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F590",
+        "-age": "7.0",
+        "-na": "RAISED HAND WITH FINGERS SPLAYED",
+        "-ea": "N",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F591",
+        "-age": "7.0",
+        "-na": "REVERSED RAISED HAND WITH FINGERS SPLAYED",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F592",
+        "-age": "7.0",
+        "-na": "REVERSED THUMBS UP SIGN",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F593",
+        "-age": "7.0",
+        "-na": "REVERSED THUMBS DOWN SIGN",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F594",
+        "-age": "7.0",
+        "-na": "REVERSED VICTORY HAND",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F595",
+        "-age": "7.0",
+        "-na": "REVERSED HAND WITH MIDDLE FINGER EXTENDED",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F596",
+        "-age": "7.0",
+        "-na": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F597",
+        "-age": "7.0",
+        "-na": "WHITE DOWN POINTING LEFT HAND INDEX",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F598",
+        "-age": "7.0",
+        "-na": "SIDEWAYS WHITE LEFT POINTING INDEX",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F599",
+        "-age": "7.0",
+        "-na": "SIDEWAYS WHITE RIGHT POINTING INDEX",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F59A",
+        "-age": "7.0",
+        "-na": "SIDEWAYS BLACK LEFT POINTING INDEX",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F59B",
+        "-age": "7.0",
+        "-na": "SIDEWAYS BLACK RIGHT POINTING INDEX",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F59C",
+        "-age": "7.0",
+        "-na": "BLACK LEFT POINTING BACKHAND INDEX",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F59D",
+        "-age": "7.0",
+        "-na": "BLACK RIGHT POINTING BACKHAND INDEX",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F59E",
+        "-age": "7.0",
+        "-na": "SIDEWAYS WHITE UP POINTING INDEX",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F59F",
+        "-age": "7.0",
+        "-na": "SIDEWAYS WHITE DOWN POINTING INDEX",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5A0",
+        "-age": "7.0",
+        "-na": "SIDEWAYS BLACK UP POINTING INDEX",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5A1",
+        "-age": "7.0",
+        "-na": "SIDEWAYS BLACK DOWN POINTING INDEX",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5A2",
+        "-age": "7.0",
+        "-na": "BLACK UP POINTING BACKHAND INDEX",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5A3",
+        "-age": "7.0",
+        "-na": "BLACK DOWN POINTING BACKHAND INDEX",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5A4",
+        "-age": "9.0",
+        "-na": "BLACK HEART"
+      },
+      {
+        "-cp": "1F5A5",
+        "-age": "7.0",
+        "-na": "DESKTOP COMPUTER",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5A6",
+        "-age": "7.0",
+        "-na": "KEYBOARD AND MOUSE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5A7",
+        "-age": "7.0",
+        "-na": "THREE NETWORKED COMPUTERS",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5A8",
+        "-age": "7.0",
+        "-na": "PRINTER",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5A9",
+        "-age": "7.0",
+        "-na": "POCKET CALCULATOR",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5AA",
+        "-age": "7.0",
+        "-na": "BLACK HARD SHELL FLOPPY DISK",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5AB",
+        "-age": "7.0",
+        "-na": "WHITE HARD SHELL FLOPPY DISK",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5AC",
+        "-age": "7.0",
+        "-na": "SOFT SHELL FLOPPY DISK",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5AD",
+        "-age": "7.0",
+        "-na": "TAPE CARTRIDGE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5AE",
+        "-age": "7.0",
+        "-na": "WIRED KEYBOARD",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5AF",
+        "-age": "7.0",
+        "-na": "ONE BUTTON MOUSE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5B0",
+        "-age": "7.0",
+        "-na": "TWO BUTTON MOUSE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5B1",
+        "-age": "7.0",
+        "-na": "THREE BUTTON MOUSE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5B2",
+        "-age": "7.0",
+        "-na": "TRACKBALL",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5B3",
+        "-age": "7.0",
+        "-na": "OLD PERSONAL COMPUTER",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5B4",
+        "-age": "7.0",
+        "-na": "HARD DISK",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5B5",
+        "-age": "7.0",
+        "-na": "SCREEN",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5B6",
+        "-age": "7.0",
+        "-na": "PRINTER ICON",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5B7",
+        "-age": "7.0",
+        "-na": "FAX ICON",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5B8",
+        "-age": "7.0",
+        "-na": "OPTICAL DISC ICON",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5B9",
+        "-age": "7.0",
+        "-na": "DOCUMENT WITH TEXT",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5BA",
+        "-age": "7.0",
+        "-na": "DOCUMENT WITH TEXT AND PICTURE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5BB",
+        "-age": "7.0",
+        "-na": "DOCUMENT WITH PICTURE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5BC",
+        "-age": "7.0",
+        "-na": "FRAME WITH PICTURE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5BD",
+        "-age": "7.0",
+        "-na": "FRAME WITH TILES",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5BE",
+        "-age": "7.0",
+        "-na": "FRAME WITH AN X",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5BF",
+        "-age": "7.0",
+        "-na": "BLACK FOLDER",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5C0",
+        "-age": "7.0",
+        "-na": "FOLDER",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5C1",
+        "-age": "7.0",
+        "-na": "OPEN FOLDER",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5C2",
+        "-age": "7.0",
+        "-na": "CARD INDEX DIVIDERS",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5C3",
+        "-age": "7.0",
+        "-na": "CARD FILE BOX",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5C4",
+        "-age": "7.0",
+        "-na": "FILE CABINET",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5C5",
+        "-age": "7.0",
+        "-na": "EMPTY NOTE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5C6",
+        "-age": "7.0",
+        "-na": "EMPTY NOTE PAGE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5C7",
+        "-age": "7.0",
+        "-na": "EMPTY NOTE PAD",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5C8",
+        "-age": "7.0",
+        "-na": "NOTE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5C9",
+        "-age": "7.0",
+        "-na": "NOTE PAGE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5CA",
+        "-age": "7.0",
+        "-na": "NOTE PAD",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5CB",
+        "-age": "7.0",
+        "-na": "EMPTY DOCUMENT",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5CC",
+        "-age": "7.0",
+        "-na": "EMPTY PAGE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5CD",
+        "-age": "7.0",
+        "-na": "EMPTY PAGES",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5CE",
+        "-age": "7.0",
+        "-na": "DOCUMENT",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5CF",
+        "-age": "7.0",
+        "-na": "PAGE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5D0",
+        "-age": "7.0",
+        "-na": "PAGES",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5D1",
+        "-age": "7.0",
+        "-na": "WASTEBASKET",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5D2",
+        "-age": "7.0",
+        "-na": "SPIRAL NOTE PAD",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5D3",
+        "-age": "7.0",
+        "-na": "SPIRAL CALENDAR PAD",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5D4",
+        "-age": "7.0",
+        "-na": "DESKTOP WINDOW",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F5D5",
+        "-age": "7.0",
+        "-na": "MINIMIZE",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F5D6",
+        "-age": "7.0",
+        "-na": "MAXIMIZE",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F5D7",
+        "-age": "7.0",
+        "-na": "OVERLAP",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F5D8",
+        "-age": "7.0",
+        "-na": "CLOCKWISE RIGHT AND LEFT SEMICIRCLE ARROWS",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F5D9",
+        "-age": "7.0",
+        "-na": "CANCELLATION X",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F5DA",
+        "-age": "7.0",
+        "-na": "INCREASE FONT SIZE SYMBOL",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F5DB",
+        "-age": "7.0",
+        "-na": "DECREASE FONT SIZE SYMBOL",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F5DC",
+        "-age": "7.0",
+        "-na": "COMPRESSION",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5DD",
+        "-age": "7.0",
+        "-na": "OLD KEY",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5DE",
+        "-age": "7.0",
+        "-na": "ROLLED-UP NEWSPAPER",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5DF",
+        "-age": "7.0",
+        "-na": "PAGE WITH CIRCLED TEXT",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5E0",
+        "-age": "7.0",
+        "-na": "STOCK CHART",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5E1",
+        "-age": "7.0",
+        "-na": "DAGGER KNIFE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5E2",
+        "-age": "7.0",
+        "-na": "LIPS",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5E3",
+        "-age": "7.0",
+        "-na": "SPEAKING HEAD IN SILHOUETTE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5E4",
+        "-age": "7.0",
+        "-na": "THREE RAYS ABOVE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5E5",
+        "-age": "7.0",
+        "-na": "THREE RAYS BELOW",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5E6",
+        "-age": "7.0",
+        "-na": "THREE RAYS LEFT",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5E7",
+        "-age": "7.0",
+        "-na": "THREE RAYS RIGHT",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5E8",
+        "-age": "7.0",
+        "-na": "LEFT SPEECH BUBBLE",
+        "-ea": "N",
+        "-GCB": "GAZ",
+        "-WB": "GAZ"
+      },
+      {
+        "-cp": "1F5E9",
+        "-age": "7.0",
+        "-na": "RIGHT SPEECH BUBBLE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5EA",
+        "-age": "7.0",
+        "-na": "TWO SPEECH BUBBLES",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5EB",
+        "-age": "7.0",
+        "-na": "THREE SPEECH BUBBLES",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5EC",
+        "-age": "7.0",
+        "-na": "LEFT THOUGHT BUBBLE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5ED",
+        "-age": "7.0",
+        "-na": "RIGHT THOUGHT BUBBLE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5EE",
+        "-age": "7.0",
+        "-na": "LEFT ANGER BUBBLE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5EF",
+        "-age": "7.0",
+        "-na": "RIGHT ANGER BUBBLE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5F0",
+        "-age": "7.0",
+        "-na": "MOOD BUBBLE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5F1",
+        "-age": "7.0",
+        "-na": "LIGHTNING MOOD BUBBLE",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5F2",
+        "-age": "7.0",
+        "-na": "LIGHTNING MOOD",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5F3",
+        "-age": "7.0",
+        "-na": "BALLOT BOX WITH BALLOT",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5F4",
+        "-age": "7.0",
+        "-na": "BALLOT SCRIPT X",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F5F5",
+        "-age": "7.0",
+        "-na": "BALLOT BOX WITH SCRIPT X",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F5F6",
+        "-age": "7.0",
+        "-na": "BALLOT BOLD SCRIPT X",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F5F7",
+        "-age": "7.0",
+        "-na": "BALLOT BOX WITH BOLD SCRIPT X",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F5F8",
+        "-age": "7.0",
+        "-na": "LIGHT CHECK MARK",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F5F9",
+        "-age": "7.0",
+        "-na": "BALLOT BOX WITH BOLD CHECK",
+        "-ea": "N",
+        "-lb": "AL"
+      },
+      {
+        "-cp": "1F5FA",
+        "-age": "7.0",
+        "-na": "WORLD MAP",
+        "-ea": "N"
+      },
+      {
+        "-cp": "1F5FB",
+        "-na": "MOUNT FUJI"
+      },
+      {
+        "-cp": "1F5FC",
+        "-na": "TOKYO TOWER"
+      },
+      {
+        "-cp": "1F5FD",
+        "-na": "STATUE OF LIBERTY"
+      },
+      {
+        "-cp": "1F5FE",
+        "-na": "SILHOUETTE OF JAPAN"
+      },
+      {
+        "-cp": "1F5FF",
+        "-na": "MOYAI"
+      }
+    ]
+  }
+}

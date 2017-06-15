@@ -1,0 +1,752 @@
+{
+  "group": {
+    "-age": "7.0",
+    "-gc": "So",
+    "-ccc": "0",
+    "-dt": "none",
+    "-dm": "#",
+    "-nt": "None",
+    "-nv": "NaN",
+    "-bc": "ON",
+    "-bpt": "n",
+    "-bpb": "#",
+    "-Bidi_M": "N",
+    "-suc": "#",
+    "-slc": "#",
+    "-stc": "#",
+    "-uc": "#",
+    "-lc": "#",
+    "-tc": "#",
+    "-scf": "#",
+    "-cf": "#",
+    "-jt": "U",
+    "-jg": "No_Joining_Group",
+    "-ea": "N",
+    "-lb": "AL",
+    "-sc": "Zyyy",
+    "-scx": "Zyyy",
+    "-Dash": "N",
+    "-WSpace": "N",
+    "-Hyphen": "N",
+    "-QMark": "N",
+    "-Radical": "N",
+    "-Ideo": "N",
+    "-UIdeo": "N",
+    "-IDSB": "N",
+    "-IDST": "N",
+    "-hst": "NA",
+    "-DI": "N",
+    "-ODI": "N",
+    "-Alpha": "N",
+    "-OAlpha": "N",
+    "-Upper": "N",
+    "-OUpper": "N",
+    "-Lower": "N",
+    "-OLower": "N",
+    "-Math": "N",
+    "-OMath": "N",
+    "-Hex": "N",
+    "-AHex": "N",
+    "-NChar": "N",
+    "-VS": "N",
+    "-Bidi_C": "N",
+    "-Join_C": "N",
+    "-Gr_Base": "Y",
+    "-Gr_Ext": "N",
+    "-OGr_Ext": "N",
+    "-Gr_Link": "N",
+    "-STerm": "N",
+    "-Ext": "N",
+    "-Term": "N",
+    "-Dia": "N",
+    "-Dep": "N",
+    "-IDS": "N",
+    "-OIDS": "N",
+    "-XIDS": "N",
+    "-IDC": "N",
+    "-OIDC": "N",
+    "-XIDC": "N",
+    "-SD": "N",
+    "-LOE": "N",
+    "-Pat_WS": "N",
+    "-Pat_Syn": "N",
+    "-GCB": "XX",
+    "-WB": "XX",
+    "-SB": "XX",
+    "-CE": "N",
+    "-Comp_Ex": "N",
+    "-NFC_QC": "Y",
+    "-NFD_QC": "Y",
+    "-NFKC_QC": "Y",
+    "-NFKD_QC": "Y",
+    "-XO_NFC": "N",
+    "-XO_NFD": "N",
+    "-XO_NFKC": "N",
+    "-XO_NFKD": "N",
+    "-FC_NFKC": "#",
+    "-CI": "N",
+    "-Cased": "N",
+    "-CWCF": "N",
+    "-CWCM": "N",
+    "-CWKCF": "N",
+    "-CWL": "N",
+    "-CWT": "N",
+    "-CWU": "N",
+    "-NFKC_CF": "#",
+    "-InSC": "Other",
+    "-InPC": "NA",
+    "-PCM": "N",
+    "-blk": "Sup_Arrows_C",
+    "char": [
+      {
+        "-cp": "1F800",
+        "-na": "LEFTWARDS ARROW WITH SMALL TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F801",
+        "-na": "UPWARDS ARROW WITH SMALL TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F802",
+        "-na": "RIGHTWARDS ARROW WITH SMALL TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F803",
+        "-na": "DOWNWARDS ARROW WITH SMALL TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F804",
+        "-na": "LEFTWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F805",
+        "-na": "UPWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F806",
+        "-na": "RIGHTWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F807",
+        "-na": "DOWNWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F808",
+        "-na": "LEFTWARDS ARROW WITH LARGE TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F809",
+        "-na": "UPWARDS ARROW WITH LARGE TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F80A",
+        "-na": "RIGHTWARDS ARROW WITH LARGE TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F80B",
+        "-na": "DOWNWARDS ARROW WITH LARGE TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F810",
+        "-na": "LEFTWARDS ARROW WITH SMALL EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "1F811",
+        "-na": "UPWARDS ARROW WITH SMALL EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "1F812",
+        "-na": "RIGHTWARDS ARROW WITH SMALL EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "1F813",
+        "-na": "DOWNWARDS ARROW WITH SMALL EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "1F814",
+        "-na": "LEFTWARDS ARROW WITH EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "1F815",
+        "-na": "UPWARDS ARROW WITH EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "1F816",
+        "-na": "RIGHTWARDS ARROW WITH EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "1F817",
+        "-na": "DOWNWARDS ARROW WITH EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "1F818",
+        "-na": "HEAVY LEFTWARDS ARROW WITH EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "1F819",
+        "-na": "HEAVY UPWARDS ARROW WITH EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "1F81A",
+        "-na": "HEAVY RIGHTWARDS ARROW WITH EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "1F81B",
+        "-na": "HEAVY DOWNWARDS ARROW WITH EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "1F81C",
+        "-na": "HEAVY LEFTWARDS ARROW WITH LARGE EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "1F81D",
+        "-na": "HEAVY UPWARDS ARROW WITH LARGE EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "1F81E",
+        "-na": "HEAVY RIGHTWARDS ARROW WITH LARGE EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "1F81F",
+        "-na": "HEAVY DOWNWARDS ARROW WITH LARGE EQUILATERAL ARROWHEAD"
+      },
+      {
+        "-cp": "1F820",
+        "-na": "LEFTWARDS TRIANGLE-HEADED ARROW WITH NARROW SHAFT"
+      },
+      {
+        "-cp": "1F821",
+        "-na": "UPWARDS TRIANGLE-HEADED ARROW WITH NARROW SHAFT"
+      },
+      {
+        "-cp": "1F822",
+        "-na": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH NARROW SHAFT"
+      },
+      {
+        "-cp": "1F823",
+        "-na": "DOWNWARDS TRIANGLE-HEADED ARROW WITH NARROW SHAFT"
+      },
+      {
+        "-cp": "1F824",
+        "-na": "LEFTWARDS TRIANGLE-HEADED ARROW WITH MEDIUM SHAFT"
+      },
+      {
+        "-cp": "1F825",
+        "-na": "UPWARDS TRIANGLE-HEADED ARROW WITH MEDIUM SHAFT"
+      },
+      {
+        "-cp": "1F826",
+        "-na": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH MEDIUM SHAFT"
+      },
+      {
+        "-cp": "1F827",
+        "-na": "DOWNWARDS TRIANGLE-HEADED ARROW WITH MEDIUM SHAFT"
+      },
+      {
+        "-cp": "1F828",
+        "-na": "LEFTWARDS TRIANGLE-HEADED ARROW WITH BOLD SHAFT"
+      },
+      {
+        "-cp": "1F829",
+        "-na": "UPWARDS TRIANGLE-HEADED ARROW WITH BOLD SHAFT"
+      },
+      {
+        "-cp": "1F82A",
+        "-na": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH BOLD SHAFT"
+      },
+      {
+        "-cp": "1F82B",
+        "-na": "DOWNWARDS TRIANGLE-HEADED ARROW WITH BOLD SHAFT"
+      },
+      {
+        "-cp": "1F82C",
+        "-na": "LEFTWARDS TRIANGLE-HEADED ARROW WITH HEAVY SHAFT"
+      },
+      {
+        "-cp": "1F82D",
+        "-na": "UPWARDS TRIANGLE-HEADED ARROW WITH HEAVY SHAFT"
+      },
+      {
+        "-cp": "1F82E",
+        "-na": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH HEAVY SHAFT"
+      },
+      {
+        "-cp": "1F82F",
+        "-na": "DOWNWARDS TRIANGLE-HEADED ARROW WITH HEAVY SHAFT"
+      },
+      {
+        "-cp": "1F830",
+        "-na": "LEFTWARDS TRIANGLE-HEADED ARROW WITH VERY HEAVY SHAFT"
+      },
+      {
+        "-cp": "1F831",
+        "-na": "UPWARDS TRIANGLE-HEADED ARROW WITH VERY HEAVY SHAFT"
+      },
+      {
+        "-cp": "1F832",
+        "-na": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH VERY HEAVY SHAFT"
+      },
+      {
+        "-cp": "1F833",
+        "-na": "DOWNWARDS TRIANGLE-HEADED ARROW WITH VERY HEAVY SHAFT"
+      },
+      {
+        "-cp": "1F834",
+        "-na": "LEFTWARDS FINGER-POST ARROW"
+      },
+      {
+        "-cp": "1F835",
+        "-na": "UPWARDS FINGER-POST ARROW"
+      },
+      {
+        "-cp": "1F836",
+        "-na": "RIGHTWARDS FINGER-POST ARROW"
+      },
+      {
+        "-cp": "1F837",
+        "-na": "DOWNWARDS FINGER-POST ARROW"
+      },
+      {
+        "-cp": "1F838",
+        "-na": "LEFTWARDS SQUARED ARROW"
+      },
+      {
+        "-cp": "1F839",
+        "-na": "UPWARDS SQUARED ARROW"
+      },
+      {
+        "-cp": "1F83A",
+        "-na": "RIGHTWARDS SQUARED ARROW"
+      },
+      {
+        "-cp": "1F83B",
+        "-na": "DOWNWARDS SQUARED ARROW"
+      },
+      {
+        "-cp": "1F83C",
+        "-na": "LEFTWARDS COMPRESSED ARROW"
+      },
+      {
+        "-cp": "1F83D",
+        "-na": "UPWARDS COMPRESSED ARROW"
+      },
+      {
+        "-cp": "1F83E",
+        "-na": "RIGHTWARDS COMPRESSED ARROW"
+      },
+      {
+        "-cp": "1F83F",
+        "-na": "DOWNWARDS COMPRESSED ARROW"
+      },
+      {
+        "-cp": "1F840",
+        "-na": "LEFTWARDS HEAVY COMPRESSED ARROW"
+      },
+      {
+        "-cp": "1F841",
+        "-na": "UPWARDS HEAVY COMPRESSED ARROW"
+      },
+      {
+        "-cp": "1F842",
+        "-na": "RIGHTWARDS HEAVY COMPRESSED ARROW"
+      },
+      {
+        "-cp": "1F843",
+        "-na": "DOWNWARDS HEAVY COMPRESSED ARROW"
+      },
+      {
+        "-cp": "1F844",
+        "-na": "LEFTWARDS HEAVY ARROW"
+      },
+      {
+        "-cp": "1F845",
+        "-na": "UPWARDS HEAVY ARROW"
+      },
+      {
+        "-cp": "1F846",
+        "-na": "RIGHTWARDS HEAVY ARROW"
+      },
+      {
+        "-cp": "1F847",
+        "-na": "DOWNWARDS HEAVY ARROW"
+      },
+      {
+        "-cp": "1F850",
+        "-na": "LEFTWARDS SANS-SERIF ARROW"
+      },
+      {
+        "-cp": "1F851",
+        "-na": "UPWARDS SANS-SERIF ARROW"
+      },
+      {
+        "-cp": "1F852",
+        "-na": "RIGHTWARDS SANS-SERIF ARROW"
+      },
+      {
+        "-cp": "1F853",
+        "-na": "DOWNWARDS SANS-SERIF ARROW"
+      },
+      {
+        "-cp": "1F854",
+        "-na": "NORTH WEST SANS-SERIF ARROW"
+      },
+      {
+        "-cp": "1F855",
+        "-na": "NORTH EAST SANS-SERIF ARROW"
+      },
+      {
+        "-cp": "1F856",
+        "-na": "SOUTH EAST SANS-SERIF ARROW"
+      },
+      {
+        "-cp": "1F857",
+        "-na": "SOUTH WEST SANS-SERIF ARROW"
+      },
+      {
+        "-cp": "1F858",
+        "-na": "LEFT RIGHT SANS-SERIF ARROW"
+      },
+      {
+        "-cp": "1F859",
+        "-na": "UP DOWN SANS-SERIF ARROW"
+      },
+      {
+        "-cp": "1F860",
+        "-na": "WIDE-HEADED LEFTWARDS LIGHT BARB ARROW"
+      },
+      {
+        "-cp": "1F861",
+        "-na": "WIDE-HEADED UPWARDS LIGHT BARB ARROW"
+      },
+      {
+        "-cp": "1F862",
+        "-na": "WIDE-HEADED RIGHTWARDS LIGHT BARB ARROW"
+      },
+      {
+        "-cp": "1F863",
+        "-na": "WIDE-HEADED DOWNWARDS LIGHT BARB ARROW"
+      },
+      {
+        "-cp": "1F864",
+        "-na": "WIDE-HEADED NORTH WEST LIGHT BARB ARROW"
+      },
+      {
+        "-cp": "1F865",
+        "-na": "WIDE-HEADED NORTH EAST LIGHT BARB ARROW"
+      },
+      {
+        "-cp": "1F866",
+        "-na": "WIDE-HEADED SOUTH EAST LIGHT BARB ARROW"
+      },
+      {
+        "-cp": "1F867",
+        "-na": "WIDE-HEADED SOUTH WEST LIGHT BARB ARROW"
+      },
+      {
+        "-cp": "1F868",
+        "-na": "WIDE-HEADED LEFTWARDS BARB ARROW"
+      },
+      {
+        "-cp": "1F869",
+        "-na": "WIDE-HEADED UPWARDS BARB ARROW"
+      },
+      {
+        "-cp": "1F86A",
+        "-na": "WIDE-HEADED RIGHTWARDS BARB ARROW"
+      },
+      {
+        "-cp": "1F86B",
+        "-na": "WIDE-HEADED DOWNWARDS BARB ARROW"
+      },
+      {
+        "-cp": "1F86C",
+        "-na": "WIDE-HEADED NORTH WEST BARB ARROW"
+      },
+      {
+        "-cp": "1F86D",
+        "-na": "WIDE-HEADED NORTH EAST BARB ARROW"
+      },
+      {
+        "-cp": "1F86E",
+        "-na": "WIDE-HEADED SOUTH EAST BARB ARROW"
+      },
+      {
+        "-cp": "1F86F",
+        "-na": "WIDE-HEADED SOUTH WEST BARB ARROW"
+      },
+      {
+        "-cp": "1F870",
+        "-na": "WIDE-HEADED LEFTWARDS MEDIUM BARB ARROW"
+      },
+      {
+        "-cp": "1F871",
+        "-na": "WIDE-HEADED UPWARDS MEDIUM BARB ARROW"
+      },
+      {
+        "-cp": "1F872",
+        "-na": "WIDE-HEADED RIGHTWARDS MEDIUM BARB ARROW"
+      },
+      {
+        "-cp": "1F873",
+        "-na": "WIDE-HEADED DOWNWARDS MEDIUM BARB ARROW"
+      },
+      {
+        "-cp": "1F874",
+        "-na": "WIDE-HEADED NORTH WEST MEDIUM BARB ARROW"
+      },
+      {
+        "-cp": "1F875",
+        "-na": "WIDE-HEADED NORTH EAST MEDIUM BARB ARROW"
+      },
+      {
+        "-cp": "1F876",
+        "-na": "WIDE-HEADED SOUTH EAST MEDIUM BARB ARROW"
+      },
+      {
+        "-cp": "1F877",
+        "-na": "WIDE-HEADED SOUTH WEST MEDIUM BARB ARROW"
+      },
+      {
+        "-cp": "1F878",
+        "-na": "WIDE-HEADED LEFTWARDS HEAVY BARB ARROW"
+      },
+      {
+        "-cp": "1F879",
+        "-na": "WIDE-HEADED UPWARDS HEAVY BARB ARROW"
+      },
+      {
+        "-cp": "1F87A",
+        "-na": "WIDE-HEADED RIGHTWARDS HEAVY BARB ARROW"
+      },
+      {
+        "-cp": "1F87B",
+        "-na": "WIDE-HEADED DOWNWARDS HEAVY BARB ARROW"
+      },
+      {
+        "-cp": "1F87C",
+        "-na": "WIDE-HEADED NORTH WEST HEAVY BARB ARROW"
+      },
+      {
+        "-cp": "1F87D",
+        "-na": "WIDE-HEADED NORTH EAST HEAVY BARB ARROW"
+      },
+      {
+        "-cp": "1F87E",
+        "-na": "WIDE-HEADED SOUTH EAST HEAVY BARB ARROW"
+      },
+      {
+        "-cp": "1F87F",
+        "-na": "WIDE-HEADED SOUTH WEST HEAVY BARB ARROW"
+      },
+      {
+        "-cp": "1F880",
+        "-na": "WIDE-HEADED LEFTWARDS VERY HEAVY BARB ARROW"
+      },
+      {
+        "-cp": "1F881",
+        "-na": "WIDE-HEADED UPWARDS VERY HEAVY BARB ARROW"
+      },
+      {
+        "-cp": "1F882",
+        "-na": "WIDE-HEADED RIGHTWARDS VERY HEAVY BARB ARROW"
+      },
+      {
+        "-cp": "1F883",
+        "-na": "WIDE-HEADED DOWNWARDS VERY HEAVY BARB ARROW"
+      },
+      {
+        "-cp": "1F884",
+        "-na": "WIDE-HEADED NORTH WEST VERY HEAVY BARB ARROW"
+      },
+      {
+        "-cp": "1F885",
+        "-na": "WIDE-HEADED NORTH EAST VERY HEAVY BARB ARROW"
+      },
+      {
+        "-cp": "1F886",
+        "-na": "WIDE-HEADED SOUTH EAST VERY HEAVY BARB ARROW"
+      },
+      {
+        "-cp": "1F887",
+        "-na": "WIDE-HEADED SOUTH WEST VERY HEAVY BARB ARROW"
+      },
+      {
+        "-cp": "1F890",
+        "-na": "LEFTWARDS TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F891",
+        "-na": "UPWARDS TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F892",
+        "-na": "RIGHTWARDS TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F893",
+        "-na": "DOWNWARDS TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F894",
+        "-na": "LEFTWARDS WHITE ARROW WITHIN TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F895",
+        "-na": "UPWARDS WHITE ARROW WITHIN TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F896",
+        "-na": "RIGHTWARDS WHITE ARROW WITHIN TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F897",
+        "-na": "DOWNWARDS WHITE ARROW WITHIN TRIANGLE ARROWHEAD"
+      },
+      {
+        "-cp": "1F898",
+        "-na": "LEFTWARDS ARROW WITH NOTCHED TAIL"
+      },
+      {
+        "-cp": "1F899",
+        "-na": "UPWARDS ARROW WITH NOTCHED TAIL"
+      },
+      {
+        "-cp": "1F89A",
+        "-na": "RIGHTWARDS ARROW WITH NOTCHED TAIL"
+      },
+      {
+        "-cp": "1F89B",
+        "-na": "DOWNWARDS ARROW WITH NOTCHED TAIL"
+      },
+      {
+        "-cp": "1F89C",
+        "-na": "HEAVY ARROW SHAFT WIDTH ONE"
+      },
+      {
+        "-cp": "1F89D",
+        "-na": "HEAVY ARROW SHAFT WIDTH TWO THIRDS"
+      },
+      {
+        "-cp": "1F89E",
+        "-na": "HEAVY ARROW SHAFT WIDTH ONE HALF"
+      },
+      {
+        "-cp": "1F89F",
+        "-na": "HEAVY ARROW SHAFT WIDTH ONE THIRD"
+      },
+      {
+        "-cp": "1F8A0",
+        "-na": "LEFTWARDS BOTTOM-SHADED WHITE ARROW"
+      },
+      {
+        "-cp": "1F8A1",
+        "-na": "RIGHTWARDS BOTTOM SHADED WHITE ARROW"
+      },
+      {
+        "-cp": "1F8A2",
+        "-na": "LEFTWARDS TOP SHADED WHITE ARROW"
+      },
+      {
+        "-cp": "1F8A3",
+        "-na": "RIGHTWARDS TOP SHADED WHITE ARROW"
+      },
+      {
+        "-cp": "1F8A4",
+        "-na": "LEFTWARDS LEFT-SHADED WHITE ARROW"
+      },
+      {
+        "-cp": "1F8A5",
+        "-na": "RIGHTWARDS RIGHT-SHADED WHITE ARROW"
+      },
+      {
+        "-cp": "1F8A6",
+        "-na": "LEFTWARDS RIGHT-SHADED WHITE ARROW"
+      },
+      {
+        "-cp": "1F8A7",
+        "-na": "RIGHTWARDS LEFT-SHADED WHITE ARROW"
+      },
+      {
+        "-cp": "1F8A8",
+        "-na": "LEFTWARDS BACK-TILTED SHADOWED WHITE ARROW"
+      },
+      {
+        "-cp": "1F8A9",
+        "-na": "RIGHTWARDS BACK-TILTED SHADOWED WHITE ARROW"
+      },
+      {
+        "-cp": "1F8AA",
+        "-na": "LEFTWARDS FRONT-TILTED SHADOWED WHITE ARROW"
+      },
+      {
+        "-cp": "1F8AB",
+        "-na": "RIGHTWARDS FRONT-TILTED SHADOWED WHITE ARROW"
+      },
+      {
+        "-cp": "1F8AC",
+        "-na": "WHITE ARROW SHAFT WIDTH ONE"
+      },
+      {
+        "-cp": "1F8AD",
+        "-na": "WHITE ARROW SHAFT WIDTH TWO THIRDS"
+      }
+    ],
+    "reserved": [
+      {
+        "-first-cp": "1F80C",
+        "-last-cp": "1F80F",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-lb": "ID",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-first-cp": "1F848",
+        "-last-cp": "1F84F",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-lb": "ID",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-first-cp": "1F85A",
+        "-last-cp": "1F85F",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-lb": "ID",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-first-cp": "1F888",
+        "-last-cp": "1F88F",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-lb": "ID",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-first-cp": "1F8AE",
+        "-last-cp": "1F8FF",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-lb": "ID",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      }
+    ]
+  }
+}

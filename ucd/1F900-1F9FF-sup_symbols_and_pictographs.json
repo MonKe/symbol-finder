@@ -1,0 +1,602 @@
+{
+  "group": {
+    "-age": "9.0",
+    "-gc": "So",
+    "-ccc": "0",
+    "-dt": "none",
+    "-dm": "#",
+    "-nt": "None",
+    "-nv": "NaN",
+    "-bc": "ON",
+    "-bpt": "n",
+    "-bpb": "#",
+    "-Bidi_M": "N",
+    "-suc": "#",
+    "-slc": "#",
+    "-stc": "#",
+    "-uc": "#",
+    "-lc": "#",
+    "-tc": "#",
+    "-scf": "#",
+    "-cf": "#",
+    "-jt": "U",
+    "-jg": "No_Joining_Group",
+    "-ea": "W",
+    "-lb": "ID",
+    "-sc": "Zyyy",
+    "-scx": "Zyyy",
+    "-Dash": "N",
+    "-WSpace": "N",
+    "-Hyphen": "N",
+    "-QMark": "N",
+    "-Radical": "N",
+    "-Ideo": "N",
+    "-UIdeo": "N",
+    "-IDSB": "N",
+    "-IDST": "N",
+    "-hst": "NA",
+    "-DI": "N",
+    "-ODI": "N",
+    "-Alpha": "N",
+    "-OAlpha": "N",
+    "-Upper": "N",
+    "-OUpper": "N",
+    "-Lower": "N",
+    "-OLower": "N",
+    "-Math": "N",
+    "-OMath": "N",
+    "-Hex": "N",
+    "-AHex": "N",
+    "-NChar": "N",
+    "-VS": "N",
+    "-Bidi_C": "N",
+    "-Join_C": "N",
+    "-Gr_Base": "Y",
+    "-Gr_Ext": "N",
+    "-OGr_Ext": "N",
+    "-Gr_Link": "N",
+    "-STerm": "N",
+    "-Ext": "N",
+    "-Term": "N",
+    "-Dia": "N",
+    "-Dep": "N",
+    "-IDS": "N",
+    "-OIDS": "N",
+    "-XIDS": "N",
+    "-IDC": "N",
+    "-OIDC": "N",
+    "-XIDC": "N",
+    "-SD": "N",
+    "-LOE": "N",
+    "-Pat_WS": "N",
+    "-Pat_Syn": "N",
+    "-GCB": "XX",
+    "-WB": "XX",
+    "-SB": "XX",
+    "-CE": "N",
+    "-Comp_Ex": "N",
+    "-NFC_QC": "Y",
+    "-NFD_QC": "Y",
+    "-NFKC_QC": "Y",
+    "-NFKD_QC": "Y",
+    "-XO_NFC": "N",
+    "-XO_NFD": "N",
+    "-XO_NFKC": "N",
+    "-XO_NFKD": "N",
+    "-FC_NFKC": "#",
+    "-CI": "N",
+    "-Cased": "N",
+    "-CWCF": "N",
+    "-CWCM": "N",
+    "-CWKCF": "N",
+    "-CWL": "N",
+    "-CWT": "N",
+    "-CWU": "N",
+    "-NFKC_CF": "#",
+    "-InSC": "Other",
+    "-InPC": "NA",
+    "-PCM": "N",
+    "-blk": "Sup_Symbols_And_Pictographs",
+    "reserved": [
+      {
+        "-first-cp": "1F900",
+        "-last-cp": "1F90F",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-ea": "N",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-cp": "1F91F",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-ea": "N",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-first-cp": "1F928",
+        "-last-cp": "1F92F",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-ea": "N",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-first-cp": "1F931",
+        "-last-cp": "1F932",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-ea": "N",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-cp": "1F93F",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-ea": "N",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-first-cp": "1F94C",
+        "-last-cp": "1F94F",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-ea": "N",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-first-cp": "1F95F",
+        "-last-cp": "1F97F",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-ea": "N",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-first-cp": "1F992",
+        "-last-cp": "1F9BF",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-ea": "N",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      },
+      {
+        "-first-cp": "1F9C1",
+        "-last-cp": "1F9FF",
+        "-age": "unassigned",
+        "-gc": "Cn",
+        "-bc": "L",
+        "-ea": "N",
+        "-sc": "Zzzz",
+        "-scx": "Zzzz",
+        "-Gr_Base": "N"
+      }
+    ],
+    "char": [
+      {
+        "-cp": "1F910",
+        "-age": "8.0",
+        "-na": "ZIPPER-MOUTH FACE"
+      },
+      {
+        "-cp": "1F911",
+        "-age": "8.0",
+        "-na": "MONEY-MOUTH FACE"
+      },
+      {
+        "-cp": "1F912",
+        "-age": "8.0",
+        "-na": "FACE WITH THERMOMETER"
+      },
+      {
+        "-cp": "1F913",
+        "-age": "8.0",
+        "-na": "NERD FACE"
+      },
+      {
+        "-cp": "1F914",
+        "-age": "8.0",
+        "-na": "THINKING FACE"
+      },
+      {
+        "-cp": "1F915",
+        "-age": "8.0",
+        "-na": "FACE WITH HEAD-BANDAGE"
+      },
+      {
+        "-cp": "1F916",
+        "-age": "8.0",
+        "-na": "ROBOT FACE"
+      },
+      {
+        "-cp": "1F917",
+        "-age": "8.0",
+        "-na": "HUGGING FACE"
+      },
+      {
+        "-cp": "1F918",
+        "-age": "8.0",
+        "-na": "SIGN OF THE HORNS",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F919",
+        "-na": "CALL ME HAND",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F91A",
+        "-na": "RAISED BACK OF HAND",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F91B",
+        "-na": "LEFT-FACING FIST",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F91C",
+        "-na": "RIGHT-FACING FIST",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F91D",
+        "-na": "HANDSHAKE",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F91E",
+        "-na": "HAND WITH INDEX AND MIDDLE FINGERS CROSSED",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F920",
+        "-na": "FACE WITH COWBOY HAT"
+      },
+      {
+        "-cp": "1F921",
+        "-na": "CLOWN FACE"
+      },
+      {
+        "-cp": "1F922",
+        "-na": "NAUSEATED FACE"
+      },
+      {
+        "-cp": "1F923",
+        "-na": "ROLLING ON THE FLOOR LAUGHING"
+      },
+      {
+        "-cp": "1F924",
+        "-na": "DROOLING FACE"
+      },
+      {
+        "-cp": "1F925",
+        "-na": "LYING FACE"
+      },
+      {
+        "-cp": "1F926",
+        "-na": "FACE PALM",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F927",
+        "-na": "SNEEZING FACE"
+      },
+      {
+        "-cp": "1F930",
+        "-na": "PREGNANT WOMAN",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F933",
+        "-na": "SELFIE",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F934",
+        "-na": "PRINCE",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F935",
+        "-na": "MAN IN TUXEDO",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F936",
+        "-na": "MOTHER CHRISTMAS",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F937",
+        "-na": "SHRUG",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F938",
+        "-na": "PERSON DOING CARTWHEEL",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F939",
+        "-na": "JUGGLING",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F93A",
+        "-na": "FENCER"
+      },
+      {
+        "-cp": "1F93B",
+        "-na": "MODERN PENTATHLON"
+      },
+      {
+        "-cp": "1F93C",
+        "-na": "WRESTLERS",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F93D",
+        "-na": "WATER POLO",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F93E",
+        "-na": "HANDBALL",
+        "-lb": "EB",
+        "-GCB": "EB",
+        "-WB": "EB"
+      },
+      {
+        "-cp": "1F940",
+        "-na": "WILTED FLOWER"
+      },
+      {
+        "-cp": "1F941",
+        "-na": "DRUM WITH DRUMSTICKS"
+      },
+      {
+        "-cp": "1F942",
+        "-na": "CLINKING GLASSES"
+      },
+      {
+        "-cp": "1F943",
+        "-na": "TUMBLER GLASS"
+      },
+      {
+        "-cp": "1F944",
+        "-na": "SPOON"
+      },
+      {
+        "-cp": "1F945",
+        "-na": "GOAL NET"
+      },
+      {
+        "-cp": "1F946",
+        "-na": "RIFLE"
+      },
+      {
+        "-cp": "1F947",
+        "-na": "FIRST PLACE MEDAL"
+      },
+      {
+        "-cp": "1F948",
+        "-na": "SECOND PLACE MEDAL"
+      },
+      {
+        "-cp": "1F949",
+        "-na": "THIRD PLACE MEDAL"
+      },
+      {
+        "-cp": "1F94A",
+        "-na": "BOXING GLOVE"
+      },
+      {
+        "-cp": "1F94B",
+        "-na": "MARTIAL ARTS UNIFORM"
+      },
+      {
+        "-cp": "1F950",
+        "-na": "CROISSANT"
+      },
+      {
+        "-cp": "1F951",
+        "-na": "AVOCADO"
+      },
+      {
+        "-cp": "1F952",
+        "-na": "CUCUMBER"
+      },
+      {
+        "-cp": "1F953",
+        "-na": "BACON"
+      },
+      {
+        "-cp": "1F954",
+        "-na": "POTATO"
+      },
+      {
+        "-cp": "1F955",
+        "-na": "CARROT"
+      },
+      {
+        "-cp": "1F956",
+        "-na": "BAGUETTE BREAD"
+      },
+      {
+        "-cp": "1F957",
+        "-na": "GREEN SALAD"
+      },
+      {
+        "-cp": "1F958",
+        "-na": "SHALLOW PAN OF FOOD"
+      },
+      {
+        "-cp": "1F959",
+        "-na": "STUFFED FLATBREAD"
+      },
+      {
+        "-cp": "1F95A",
+        "-na": "EGG"
+      },
+      {
+        "-cp": "1F95B",
+        "-na": "GLASS OF MILK"
+      },
+      {
+        "-cp": "1F95C",
+        "-na": "PEANUTS"
+      },
+      {
+        "-cp": "1F95D",
+        "-na": "KIWIFRUIT"
+      },
+      {
+        "-cp": "1F95E",
+        "-na": "PANCAKES"
+      },
+      {
+        "-cp": "1F980",
+        "-age": "8.0",
+        "-na": "CRAB"
+      },
+      {
+        "-cp": "1F981",
+        "-age": "8.0",
+        "-na": "LION FACE"
+      },
+      {
+        "-cp": "1F982",
+        "-age": "8.0",
+        "-na": "SCORPION"
+      },
+      {
+        "-cp": "1F983",
+        "-age": "8.0",
+        "-na": "TURKEY"
+      },
+      {
+        "-cp": "1F984",
+        "-age": "8.0",
+        "-na": "UNICORN FACE"
+      },
+      {
+        "-cp": "1F985",
+        "-na": "EAGLE"
+      },
+      {
+        "-cp": "1F986",
+        "-na": "DUCK"
+      },
+      {
+        "-cp": "1F987",
+        "-na": "BAT"
+      },
+      {
+        "-cp": "1F988",
+        "-na": "SHARK"
+      },
+      {
+        "-cp": "1F989",
+        "-na": "OWL"
+      },
+      {
+        "-cp": "1F98A",
+        "-na": "FOX FACE"
+      },
+      {
+        "-cp": "1F98B",
+        "-na": "BUTTERFLY"
+      },
+      {
+        "-cp": "1F98C",
+        "-na": "DEER"
+      },
+      {
+        "-cp": "1F98D",
+        "-na": "GORILLA"
+      },
+      {
+        "-cp": "1F98E",
+        "-na": "LIZARD"
+      },
+      {
+        "-cp": "1F98F",
+        "-na": "RHINOCEROS"
+      },
+      {
+        "-cp": "1F990",
+        "-na": "SHRIMP"
+      },
+      {
+        "-cp": "1F991",
+        "-na": "SQUID"
+      },
+      {
+        "-cp": "1F9C0",
+        "-age": "8.0",
+        "-na": "CHEESE WEDGE"
+      }
+    ]
+  }
+}
