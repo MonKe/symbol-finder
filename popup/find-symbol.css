@@ -1,0 +1,21 @@
+#symbol-field {
+  text-align: center;
+  width: 1rem;
+}
+#result-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+}
+#result-list li {
+  text-align: center;
+  width: 4rem;
+}
+#result-list a {
+  color: inherit;
+  text-decoration: none;
+}
+#result-list code {
+  font-size: 3rem;
+}

@@ -6,6 +6,7 @@ const
   init = data => {
     symbolData = data
     searchField.addEventListener('keyup', handleField(searchField))
+    searchField.focus()
     handleField(searchField)()
   },
   handleField = field => () => {
@@ -57,6 +58,6 @@ resultList = document.getElementById('result-list')
 resultItem = resultList.querySelector('li').cloneNode(true)
 resultList.innerHTML = ''
 
-fetch('app/ucd-packed.json')
+fetch('ucd-packed.json')
   .then(res => res.json())
   .then(res => init(res.data))

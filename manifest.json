@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Symbol Finder",
+  "version": "1.0",
+
+  "description": "Find and copy to the clipboard any unicode symbol you want! (which symbol should be available is up for debate, I only added 11 blocks for now.)",
+  "homepage_url": "https://github.com/monke/symbol-finder",
+  "icons": {
+    "48": "icons/thinking_face-48.png"
+  },
+
+  "permissions": ["activeTab"],
+
+  "browser_action": {
+    "default_icon": "icons/thinking_face-32.png",
+    "default_title": "Find symbol",
+    "default_popup": "popup/find-symbol.html"
+  }
+}
