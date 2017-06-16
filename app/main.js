@@ -9,8 +9,9 @@ const
     handleField(searchField)()
   },
   handleField = field => () => {
-    if (! field.value) return resultList.innerHTML = ''
     if (searchText && searchText === field.value) return
+    resultList.innerHTML = ''
+    if (! field.value) return
     searchText = field.value
     findTerms(searchText.split(' ')).forEach(addResult)
   },
